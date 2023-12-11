@@ -1,0 +1,67 @@
+{
+    "parent": {
+        "database_id": "618a8b62c258445dab5ade7dcfc0a518"
+    },
+    "icon": {
+        "emoji": "🍀"
+    },
+    "cover": {
+        "external": {
+            "url": "https://images.unsplash.com/photo-1471958680802-1345a694ba6d?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    
+        }
+    },
+    "properties": {
+        "entry_title": {
+            "title": [
+                {
+                    "text": {
+                        "content": ""
+                    }
+                }
+            ]
+        },
+        "tags": {
+            "multi_select": [
+                {
+                    "name": ""
+                }
+            ]
+        },
+        "entry_date": {
+            "date": {
+                "start": ""
+            }
+        }
+    },
+    "children": [
+        {
+            "object": "block",
+            "type": "",
+            "heading_1": {
+                "rich_text": [
+                    {
+                        "type": "text", 
+                        "text": {
+                            "content": ""
+                        } 
+                    }
+                ]
+            }
+        },
+        {
+            "object": "block",
+            "type": "",
+            "paragraph": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": ""
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}

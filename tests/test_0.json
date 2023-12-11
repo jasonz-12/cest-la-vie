@@ -1,0 +1,203 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+      "title": "Notion API Integration",
+      "version": "1.0.0"
+    },
+    "servers": [
+      {
+        "url": "https://api.notion.com/v1"
+      }
+    ],
+    "paths": {
+      "/pages/": {
+        "post": {
+          "summary": "Create a new page in a Notion database",
+          "operationId": "createPage",
+          "tags": [
+            "Pages"
+          ],
+          "requestBody": {
+            "required": true,
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "parent": {
+                      "type": "object",
+                      "properties": {
+                        "database_id": {
+                          "type": "string",
+                          "example": "618a8b62c258445dab5ade7dcfc0a518"
+                        }
+                      }
+                    },
+                    "icon": {
+                      "type": "object",
+                      "properties": {
+                        "emoji": {
+                          "type": "string",
+                          "example": "🍀"
+                        }
+                      }
+                    },
+                    "cover": {
+                      "type": "object",
+                      "properties": {
+                        "external": {
+                          "type": "object",
+                          "properties": {
+                            "url": {
+                              "type": "string",
+                              "example": "https://images.unsplash.com/photo-1471958680802-1345a694ba6d?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "properties": {
+                      "type": "object",
+                      "entry_title": {
+                            "title": [
+                                {
+                                    "text": {
+                                        "content": "Shift to MVP Approach and Notion API Feature"
+                                    }
+                                }
+                            ]
+                        },
+                    "tags": {
+                            "multi_select": [
+                                { "name": "principle" }
+                            ]
+                        },
+                    "entry_date": {
+                            "date": {
+                                "start": "2023-12-07"
+                            }
+                        }
+                    },
+                    "children": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": [
+                            {
+                                "object": "block",
+                                "type": "heading_1",
+                                "heading_1": {
+                                    "rich_text": [{ "type": "text", "text": { "content": "Today's Development Insight" } }]
+                                }
+                            },
+                            {
+                                "object": "block",
+                                "type": "paragraph",
+                                "paragraph": {
+                                    "rich_text": [
+                                        {
+                                            "type": "text",
+                                            "text": {
+                                                "content": "Today's development diary highlights a pivotal change in approach: shifting from striving for a perfect product to focusing on creating a Minimum Viable Product (MVP). This insight emerged from a coffee chat with a seasoned professional, emphasizing the importance of real-world testing and feedback. The immediate goal is to implement a simple feature for reading and writing via the Notion API, marking a practical step in this new development strategy."
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "responses": {
+            "200": {
+              "description": "Successfully created a page",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "type": "object",
+                    "properties": {
+                        "entry_title": {
+                          "type": "string",
+                          "description": "Diary entry title"
+                        },
+                        "tags": {
+                          "type": "multi_select",
+                          "description": "Tags related to the entry"
+                        },
+                        "entry_date": {
+                          "type": "string",
+                          "format": "date",
+                          "description": "Date added"
+                        }
+                  }
+                }
+              }
+            }
+        },
+            "400": {
+              "description": "Bad request"
+            }
+          },
+          "parameters": [
+            {
+              "in": "header",
+              "name": "Notion-Version",
+              "required": true,
+              "schema": {
+                "type": "string",
+                "default": "2022-06-28"
+              },
+              "description": "Version of the Notion API being used."
+            }
+          ]
+        }
+      }
+    },
+    "components": {
+      "schemas": {
+        "PageCreateRequest": {
+          "type": "object",
+          "properties": {
+            "parent": {
+              "type": "object",
+              "properties": {
+                "database_id": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        },
+        "PageResponse": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "created_time": {
+              "type": "string"
+            },
+            "last_edited_time": {
+              "type": "string"
+            }
+          }
+        }
+      },
+      "securitySchemes": {
+        "BearerAuth": {
+          "type": "http",
+          "scheme": "bearer",
+          "bearerFormat": "JWT"
+        }
+      }
+    },
+    "security": [
+      {
+        "BearerAuth": []
+      }
+    ]
+  }

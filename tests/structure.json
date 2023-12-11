@@ -1,0 +1,32 @@
+{
+    "title": "Shift to MVP Approach and Notion API Feature",
+    "emoji": "🍀",
+    "photo_url": "https://images.unsplash.com/photo-1471958680802-1345a694ba6d?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "tags": {
+        "type_of_operation": "select_one",
+        "list_of_tags": [
+            "ideas", 
+            "design", 
+            "technical", 
+            "testing", 
+            "principle"
+        ],
+        "content": "principle"
+    },
+    "entry_date": {
+        "format": "YYYY-MM-DD",
+        "content": "2023-12-10"
+    },
+    "content": {
+        "block_1": {
+            "type_of_operation": "entry",
+            "format": "heading_1",
+            "content": "Today's Development Diary "
+        },
+        "block_2": {
+            "type_of_operation": "entry",
+            "format": "paragraph",
+            "content": "Today's development diary highlights a pivotal change in approach: shifting from striving for a perfect product to focusing on creating a Minimum Viable Product (MVP). This insight emerged from a coffee chat with a seasoned professional, emphasizing the importance of real-world testing and feedback. The immediate goal is to implement a simple feature for reading and writing via the Notion API, marking a practical step in this new development strategy."
+        }
+    }
+}
