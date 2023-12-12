@@ -1,27 +1,17 @@
 your-app-name/
 │
-├── src/
-│   ├── api/
-│   │   ├── notion.js           # Notion API integration functions
-│   │   └── ...                 # Other API integrations if needed
-│   │
-│   ├── routes/
-│   │   ├── index.js            # Route definitions and handlers
-│   │   └── ...                 # Additional routes if needed
-│   │
-│   ├── utils/
-│   │   ├── parse_json.js       # Utility to parse JSON files
-│   │   ├── construct_data.js   # Utility to construct JSON data for Notion API
-│   │   └── ...                 # Other utility functions
-│   │
-│   └── app.js                  # Main application file, setup server here
+├── routes/
+│   └── post.js            
 │
-├── test/                       # Unit tests and integration tests
-│   ├── api_tests.js
-│   └── ...
+├── utils/
+│   ├── notionApi.js       
+│   ├── notionDataParser.js  
+│   └── template.json       # Template file for Notion
 │
+├── api-specs/
+│   ├── openapi-spec.json   
 ├── Dockerfile                  # Dockerfile for containerization
-├── .env                        # Environment variables (Not to be committed)
+├── app.js                      
 ├── .gitignore                  # Specifies intentionally untracked files to ignore
 ├── package.json                # NPM package and dependency management
 ├── package-lock.json           # Locked versions of the package dependencies
