@@ -8,21 +8,13 @@ function parseDataForNotion(dataFromGPT) {
     const jsonFile = fs.readFileSync(templatePath, 'utf8');
     dataTemplate = JSON.parse(jsonFile);
     // Modify the data accordingly
-    // Current version:
-    // 1 - dataTemplate.properties.entry_title.title[0].text.content
-    // 2 - dataTemplate.properties.tags.multi_select[0].name
-    // 3 - dataTemplate.properties.entry_date.date.start
-    // 4 - dataTemplate.children[0].type
-    // 5 - dataTemplate.children[0].heading_1.rich_text[0].text.content
-    // 6 - dataTemplate.children[1].type
-    // 7 - dataTemplate.children[2].paragraph.rich_text[0].text.content
-    dataTemplate.properties.entry_title.title[0].text.content = dataFromGPT.title;
-    dataTemplate.properties.tags.multi_select[0].name = dataFromGPT.tags.content;
-    dataTemplate.properties.entry_date.date.start = dataFromGPT.entry_date.content;
-    dataTemplate.children[0].type = dataFromGPT.content.block_1.format;
-    dataTemplate.children[0].heading_1.rich_text[0].text.content = dataFromGPT.content.block_1.content;
-    dataTemplate.children[1].type = dataFromGPT.content.block_2.format;
-    dataTemplate.children[1].paragraph.rich_text[0].text.content = dataFromGPT.content.block_2.content;
+    dataTemplate.properties.entry_title.title[0].text.content = dataFromGPT.params.title;
+    dataTemplate.properties.tags.multi_select[0].name = dataFromGPT.params.tags.content;
+    dataTemplate.properties.entry_date.date.start = dataFromGPT.params.entry_date.content;
+    dataTemplate.children[0].type = dataFromGPT.params.content.block_1.format;
+    dataTemplate.children[0].heading_1.rich_text[0].text.content = dataFromGPT.params.content.block_1.content;
+    dataTemplate.children[1].type = dataFromGPT.params.content.block_2.format;
+    dataTemplate.children[1].paragraph.rich_text[0].text.content = dataFromGPT.params.content.block_2.content;
 
     const dataForNotion = dataTemplate
     // // Return the Notion API-ready data
