@@ -1,0 +1,121 @@
+{
+    "openapi": "3.1.0",
+    "info": {
+      "title": "Content Management API",
+      "description": "API for managing content items with titles, emojis, photo URLs, and tags.",
+      "version": "v1.0.0"
+    },
+    "servers": [
+      {
+        "url": "https://mvp-q5yqkjuiza-uc.a.run.app"
+      }
+    ],
+    "paths": {
+      "/receive-gpt-data": {
+        "post": {
+          "operationId": "sendData2GCR",
+          "summary": "Receive content item data",
+          "requestBody": {
+            "required": true,
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ContentItem"
+                }
+              }
+            }
+          },
+          "responses": {
+            "200": {
+              "description": "Content item received successfully"
+            },
+            "400": {
+              "description": "Invalid request format"
+            }
+          }
+        }
+      }
+    },
+    "components": {
+      "schemas": {
+        "ContentItem": {
+          "type": "object",
+          "properties": {
+            "title": {
+              "type": "string"
+            },
+            "emoji": {
+              "type": "string"
+            },
+            "photo_url": {
+              "type": "string",
+              "format": "uri"
+            },
+            "tags": {
+              "type": "object",
+              "properties": {
+                "type_of_operation": {
+                  "type": "string"
+                },
+                "list_of_tags": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "content": {
+                    "type": "string"
+                }
+              }
+            },
+            "entry_date": {
+                "type": "object",
+                "properties": {
+                    "format": {
+                        "type": "string"
+                    },
+                    "content": {
+                        "type": "string"
+                    }
+                }
+            },
+            "content": {
+                "type": "object",
+                "properties": {
+                    "block_1": {
+                        "type": "object",
+                        "properties": {
+                            "type_of_operation": {
+                                "type": "string"
+                            },
+                            "format": {
+                                "type": "string"
+                            },
+                            "content": {
+                                "type": "string"
+                            }
+                        }
+                    },
+                    "block_2": {
+                        "type": "object",
+                        "properties": {
+                            "type_of_operation": {
+                                "type": "string"
+                            },
+                            "format": {
+                                "type": "string"
+                            },
+                            "content": {
+                                "type": "string"
+                            }
+                        }
+                    }
+                }
+            }
+          },
+          "required": ["title"]
+        }
+      }
+    }
+  }
+  
