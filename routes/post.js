@@ -5,6 +5,7 @@ const postToNotion = require('../utils/notionApi')
 // POST endpoint to receive data from GPT
 router.post('/', (req, res) => {
     const parsedData = req.parsedData;
+    console.log(parsedData)
 
     postToNotion(parsedData)
         .then(response => {

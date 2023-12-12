@@ -8,6 +8,9 @@ const port = process.env.PORT || 8080;
 const parseDataForNotion = require('./utils/notionDataParser');
 
 app.use(bodyParser.json());
+app.use(parseDataForNotion);
+app.use(postRoutes);
+
 
 // Use the postRoutes for any requests to '/receive-gpt-data'
 app.use('/receive-gpt-data', (req, res, next) => {
