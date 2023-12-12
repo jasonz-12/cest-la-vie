@@ -1,5 +1,5 @@
 # C'est La Vie Project - MVP
----
+
 ## Description
 This project includes the minimal viable product (MVP) for a simple version that is able to:
 1. Using an OpenAPI spec JSON file `./api-specs/openapi-spec.json` in the GPTs backend action, the GPT (**Notion Diary Creator**) connects to and performs POST operations to the middle API endpoint application, hosted on Google Cloud Platform's Cloud Run (GCR) service (app link: `https://mvp-q5yqkjuiza-uc.a.run.app`).
