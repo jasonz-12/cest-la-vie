@@ -11,7 +11,7 @@ def build_tree(elements):
     def build_branch(parent_id, depth=0):
         branch = []
         for child in tree[parent_id]:
-            branch_str = "  " * depth + f"- {child['type']} (ID: {child['id']})"
+            branch_str = "  " * depth + f"- {child['type']} (ID: {child['id']}) (Contents: {child['contents']})"
             branch.append(branch_str)
             # Recursively build child branches
             branch.extend(build_branch(child['id'], depth + 1))
