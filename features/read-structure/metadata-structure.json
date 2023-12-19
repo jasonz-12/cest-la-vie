@@ -3,126 +3,426 @@
     "id": "618a8b62-c258-445d-ab5a-de7dcfc0a518",
     "type": "child_database",
     "url": null,
-    "parent": null
+    "parent": null,
+    "contents": {
+      "title": "CLV Dev Journey"
+    }
   },
   {
     "id": "66fbcb87-e5a0-4bce-a5eb-3bde282a287e",
     "type": "child_page",
     "url": "https://www.notion.so/66fbcb87e5a04bcea5eb3bde282a287e",
-    "parent": "618a8b62-c258-445d-ab5a-de7dcfc0a518"
+    "parent": "618a8b62-c258-445d-ab5a-de7dcfc0a518",
+    "contents": {
+      "title": "Rapid GPT Creation for Furniture Selection in Notion"
+    }
   },
   {
     "id": "25b730c7-70a7-4490-a5a2-3899858e578c",
     "type": "heading_1",
     "url": null,
-    "parent": "66fbcb87-e5a0-4bce-a5eb-3bde282a287e"
+    "parent": "66fbcb87-e5a0-4bce-a5eb-3bde282a287e",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "GPT Creation for Furniture Selection",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "GPT Creation for Furniture Selection",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
   },
   {
     "id": "4a096b2c-7091-4e7c-bcc0-0e7c4b179a18",
     "type": "paragraph",
     "url": null,
-    "parent": "66fbcb87-e5a0-4bce-a5eb-3bde282a287e"
+    "parent": "66fbcb87-e5a0-4bce-a5eb-3bde282a287e",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Today, I created a specialized GPT for my friend Jenny, who needed help with recording furniture selections in Notion. This project was exciting and challenging, as I managed to develop the GPT in just 3-4 hours. It's a testament to the thrill and satisfaction of making something impactful in a short timeframe. While it's not perfect yet, the progress is significant and holds great potential for future enhancements.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Today, I created a specialized GPT for my friend Jenny, who needed help with recording furniture selections in Notion. This project was exciting and challenging, as I managed to develop the GPT in just 3-4 hours. It's a testament to the thrill and satisfaction of making something impactful in a short timeframe. While it's not perfect yet, the progress is significant and holds great potential for future enhancements.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
   },
   {
     "id": "7f86aabb-40fa-42b0-9c59-4142c64ded0c",
     "type": "paragraph",
     "url": null,
-    "parent": "66fbcb87-e5a0-4bce-a5eb-3bde282a287e"
+    "parent": "66fbcb87-e5a0-4bce-a5eb-3bde282a287e",
+    "contents": {
+      "rich_text": [],
+      "color": "default"
+    }
   },
   {
     "id": "f956fdb1-d43f-4271-b54c-8c1a3a0fb0e2",
     "type": "child_page",
     "url": "https://www.notion.so/f956fdb1d43f4271b54c8c1a3a0fb0e2",
-    "parent": "618a8b62-c258-445d-ab5a-de7dcfc0a518"
+    "parent": "618a8b62-c258-445d-ab5a-de7dcfc0a518",
+    "contents": {
+      "title": "Integrating ChatGPT with Zapier and Custom API"
+    }
   },
   {
     "id": "7b75d737-6ea8-443c-8e3d-0e51b9a343e6",
     "type": "heading_1",
     "url": null,
-    "parent": "f956fdb1-d43f-4271-b54c-8c1a3a0fb0e2"
+    "parent": "f956fdb1-d43f-4271-b54c-8c1a3a0fb0e2",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Custom Integration of ChatGPT with Zapier",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Custom Integration of ChatGPT with Zapier",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
   },
   {
     "id": "799b72fd-b728-4e30-8d3f-9ed8fe1f3268",
     "type": "paragraph",
     "url": null,
-    "parent": "f956fdb1-d43f-4271-b54c-8c1a3a0fb0e2"
+    "parent": "f956fdb1-d43f-4271-b54c-8c1a3a0fb0e2",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "To integrate ChatGPT with Zapier, considering Zapier doesn't directly support ChatGPT as a trigger, a custom solution involving an API gateway, ChatGPT API integration, Zapier integration, custom logic, and thorough testing is required. This involves setting up an API gateway to receive and forward requests, integrating the ChatGPT API for processing, using Zapier for automating workflows with supported services, implementing custom logic for specific use cases, and extensive testing for ensuring smooth operation.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "To integrate ChatGPT with Zapier, considering Zapier doesn't directly support ChatGPT as a trigger, a custom solution involving an API gateway, ChatGPT API integration, Zapier integration, custom logic, and thorough testing is required. This involves setting up an API gateway to receive and forward requests, integrating the ChatGPT API for processing, using Zapier for automating workflows with supported services, implementing custom logic for specific use cases, and extensive testing for ensuring smooth operation.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
   },
   {
     "id": "13a94429-5705-48dd-b186-a4a5f91e9c71",
     "type": "paragraph",
     "url": null,
-    "parent": "f956fdb1-d43f-4271-b54c-8c1a3a0fb0e2"
+    "parent": "f956fdb1-d43f-4271-b54c-8c1a3a0fb0e2",
+    "contents": {
+      "rich_text": [],
+      "color": "default"
+    }
   },
   {
     "id": "a2bf5dab-79ed-43a8-95ae-49863b46c0f1",
     "type": "heading_2",
     "url": null,
-    "parent": "f956fdb1-d43f-4271-b54c-8c1a3a0fb0e2"
+    "parent": "f956fdb1-d43f-4271-b54c-8c1a3a0fb0e2",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "test",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "test",
+          "href": null
+        }
+      ],
+      "is_toggleable": true,
+      "color": "default"
+    }
   },
   {
     "id": "acd842c3-9539-4d12-abd0-8c94d133cfe3",
     "type": "paragraph",
     "url": null,
-    "parent": "a2bf5dab-79ed-43a8-95ae-49863b46c0f1"
+    "parent": "a2bf5dab-79ed-43a8-95ae-49863b46c0f1",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "abc",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "abc",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
   },
   {
     "id": "ab1030d4-421d-41ac-81f5-023bb9a3b884",
     "type": "child_page",
     "url": "https://www.notion.so/ab1030d4421d41ac81f5023bb9a3b884",
-    "parent": "618a8b62-c258-445d-ab5a-de7dcfc0a518"
+    "parent": "618a8b62-c258-445d-ab5a-de7dcfc0a518",
+    "contents": {
+      "title": "Exploring Zapier for Integration Pipeline"
+    }
   },
   {
     "id": "6f2655d7-0b10-4178-924a-e34e20135c56",
     "type": "heading_1",
     "url": null,
-    "parent": "ab1030d4-421d-41ac-81f5-023bb9a3b884"
+    "parent": "ab1030d4-421d-41ac-81f5-023bb9a3b884",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Development Diary: Zapier Integration Exploration",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Development Diary: Zapier Integration Exploration",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
   },
   {
     "id": "dd1ca66d-4731-4ed4-9d53-7b1790f79338",
     "type": "paragraph",
     "url": null,
-    "parent": "ab1030d4-421d-41ac-81f5-023bb9a3b884"
+    "parent": "ab1030d4-421d-41ac-81f5-023bb9a3b884",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Today's focus is on exploring Zapier as a potential integration pipeline. The goal is to leverage existing tools and avoid reinventing the wheel. This exploration aims to understand Zapier's capabilities and how it can streamline our integration processes, offering a practical and efficient solution for our development needs.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Today's focus is on exploring Zapier as a potential integration pipeline. The goal is to leverage existing tools and avoid reinventing the wheel. This exploration aims to understand Zapier's capabilities and how it can streamline our integration processes, offering a practical and efficient solution for our development needs.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
   },
   {
     "id": "634a44fc-1db2-406e-9290-4660ae7f7ef3",
     "type": "paragraph",
     "url": null,
-    "parent": "ab1030d4-421d-41ac-81f5-023bb9a3b884"
+    "parent": "ab1030d4-421d-41ac-81f5-023bb9a3b884",
+    "contents": {
+      "rich_text": [],
+      "color": "default"
+    }
   },
   {
     "id": "030f8948-4667-4093-b5a2-ba17a835f21f",
     "type": "child_page",
     "url": "https://www.notion.so/030f894846674093b5a2ba17a835f21f",
-    "parent": "618a8b62-c258-445d-ab5a-de7dcfc0a518"
+    "parent": "618a8b62-c258-445d-ab5a-de7dcfc0a518",
+    "contents": {
+      "title": "Completion of MVP and Transition to User Testing"
+    }
   },
   {
     "id": "3ddb1345-5b36-4db9-8918-633ae8f7dfc0",
     "type": "heading_1",
     "url": null,
-    "parent": "030f8948-4667-4093-b5a2-ba17a835f21f"
+    "parent": "030f8948-4667-4093-b5a2-ba17a835f21f",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Today's Development Diary ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Today's Development Diary ",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
   },
   {
     "id": "0398e005-f039-4690-a991-28b5c192d5a1",
     "type": "paragraph",
     "url": null,
-    "parent": "030f8948-4667-4093-b5a2-ba17a835f21f"
+    "parent": "030f8948-4667-4093-b5a2-ba17a835f21f",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Today marks a significant milestone in the development process: the completion of the Minimal Viable Product (MVP) and the transition towards user testing and feedback. The focus now shifts to adding new features, accelerating multiple development cycles, and initiating user tests to gather valuable feedback.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Today marks a significant milestone in the development process: the completion of the Minimal Viable Product (MVP) and the transition towards user testing and feedback. The focus now shifts to adding new features, accelerating multiple development cycles, and initiating user tests to gather valuable feedback.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
   },
   {
     "id": "7c13667c-f67c-40d5-9d73-ef1b71a6f3da",
     "type": "child_page",
     "url": "https://www.notion.so/7c13667cf67c40d59d73ef1b71a6f3da",
-    "parent": "618a8b62-c258-445d-ab5a-de7dcfc0a518"
+    "parent": "618a8b62-c258-445d-ab5a-de7dcfc0a518",
+    "contents": {
+      "title": "Integration of GPT with Notion Database"
+    }
   },
   {
     "id": "2101ad87-8c47-41e3-915b-35c230e64720",
     "type": "heading_1",
     "url": null,
-    "parent": "7c13667c-f67c-40d5-9d73-ef1b71a6f3da"
+    "parent": "7c13667c-f67c-40d5-9d73-ef1b71a6f3da",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Today's Development Diary ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Today's Development Diary ",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
   },
   {
     "id": "096983d6-7496-482e-9df9-8dde46a69201",
     "type": "paragraph",
     "url": null,
-    "parent": "7c13667c-f67c-40d5-9d73-ef1b71a6f3da"
+    "parent": "7c13667c-f67c-40d5-9d73-ef1b71a6f3da",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Today marked a significant milestone in the MVP development as I successfully integrated GPT capabilities with my Notion database. This advancement allows direct writing to the database using GPT, streamlining processes and enhancing efficiency. The achievement not only reflects technical proficiency but also opens up new possibilities for data management and automation.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Today marked a significant milestone in the MVP development as I successfully integrated GPT capabilities with my Notion database. This advancement allows direct writing to the database using GPT, streamlining processes and enhancing efficiency. The achievement not only reflects technical proficiency but also opens up new possibilities for data management and automation.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
   }
 ]

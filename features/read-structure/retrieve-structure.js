@@ -16,11 +16,13 @@ async function processBlock(blockId, parentId = null) {
         const block = blockResponse.data;
 
         // Build block object
+        typeObj = block.type
         let blockObj = {
             id: block.id,
             type: block.type,
             url: block.type === 'child_page' ? `https://www.notion.so/${block.id.replace(/-/g, '')}` : null,
-            parent: parentId
+            parent: parentId,
+            contents: block[typeObj]
         };
         blocks.push(blockObj);
 
