@@ -1,0 +1,136 @@
+{
+    "well-being": {
+        "description": "The user's overall well-being.", 
+        "subcategories": {
+            "physical": {
+                "description": "Physical well-being such as workouts, sleep, nutrition",
+                "block_id": ""
+            },
+            "mental-emotional": {
+                "description": "Mental & emotional well-being.",
+                "block_id": ""
+            }
+        },
+        "block_id": ""
+    },
+    "professional": {
+        "description": "Logs, notes, and management for all aspects within the user's work.",
+        "subcategories": {
+            "worklog": {
+                "description": "Regular worklog for professional work",
+                "block_id": ""
+            },
+            "skills": {
+                "description": "Earned/desired skills, certificates, or courses.",
+                "block_id": ""
+            },
+            "management": {
+                "description": "Managing all the aspects of the user's work.",
+                "block_id": ""
+            }
+        },
+        "block_id": ""
+    },
+    "social-relationship": {
+        "description": "", 
+        "subcategories": {
+            "family": {
+                "description": "Pages of people from family.",
+                "block_id": ""
+            },
+            "friends": {
+                "description": "Pages of people that are friends.",
+                "block_id": ""
+            },
+            "communities": {
+                "description": "Communities that the users are a part of.",
+                "block_id": ""
+            },
+            "contact-list": {
+                "description": "Contact list for all people close to the user.",
+                "block_id": ""
+            }
+        },
+        "block_id": ""
+    },
+    "finances": {
+        "description": "", 
+        "subcategories": {
+            "budgeting": {
+                "description": "Overall monthly budgeting and transactions tracking.",
+                "block_id": ""
+            },
+            "expense-reports": {
+                "description": "Monthly expense reports.",
+                "block_id": ""
+            },
+            "financial-goals": {
+                "description": "Mid-to-long term financial goals and tracking.",
+                "block_id": ""
+            }
+        },
+        "block_id": ""
+    },
+    "personal-growth": {
+        "description": "", 
+        "subcategories": {
+            "goals": {
+                "description": "Personal goals.",
+                "block_id": ""
+            },
+            "skill-acquisition": {
+                "description": "Skills that the user want to acquire.",
+                "block_id": ""
+            },
+            "achievements": {
+                "description": "Achievements of any size.",
+                "block_id": ""
+            },
+            "habits": {
+                "description": "Habit tracker.",
+                "block_id": ""
+            },
+            "books-quotes-thoughts": {
+                "description": "Any books, quotes, and thoughts that are worth noting.",
+                "block_id": ""
+            }
+        },
+        "block_id": ""
+    },
+    "time-management": {
+        "description": "", 
+        "subcategories": {
+            "calendar": {
+                "description": "Calendar to track what's coming and what happened.",
+                "block_id": ""
+            },
+            "weekly-planner": {
+                "description": "Planning the events week-by-week.",
+                "block_id": ""
+            },
+            "long-term-plans": {
+                "description": "Long term goal and plan tracking.",
+                "block_id": ""
+            },
+            "productivity": {
+                "description": "Overall productivity tracking.",
+                "block_id": ""
+            }
+        },
+        "block_id": ""
+    },
+    "beliefs-practices": {
+        "description": "", 
+        "subcategories": {
+            "core-values": {
+                "description": "Regligious & philosophical beliefs.",
+                "block_id": ""
+            },
+            "practices": {
+                "description": "Practices that the user engage in.",
+                "block_id": ""
+            }
+        },
+        "block_id": ""
+    }
+}
