@@ -4,11 +4,43 @@
         "subcategories": {
             "physical": {
                 "description": "Physical well-being such as workouts, sleep, nutrition",
-                "block_id": ""
+                "block_id": "",
+                "subcategories": {
+                    "workout-tracker": {
+                        "description": "Tracking workout routines",
+                        "block_id": ""
+                    },
+                    "food-tracker": {
+                        "description": "Food intake tracker",
+                        "block_id": ""
+                    },
+                    "sleep-journal": {
+                        "description": "Journal for sleeping qualities, dreams, etc.",
+                        "block_id": ""
+                    },
+                    "water-tracker": {
+                        "description": "Daily water intake tracker",
+                        "block_id": ""
+                    }
+                }
             },
             "mental-emotional": {
                 "description": "Mental & emotional well-being.",
-                "block_id": ""
+                "block_id": "",
+                "subcategories": {
+                    "gratitude-journal": {
+                        "description": "Things that the user appreciates everyday",
+                        "block_id": ""
+                    },
+                    "meditation-tracker": {
+                        "description": "Tracking meditation time, frequency, and feeling",
+                        "block_id": ""
+                    },
+                    "emotion-journal": {
+                        "description": "Emotional journaling",
+                        "block_id": ""
+                    }
+                }
             }
         },
         "block_id": ""
@@ -18,15 +50,45 @@
         "subcategories": {
             "worklog": {
                 "description": "Regular worklog for professional work",
-                "block_id": ""
+                "block_id": "",
+                "subcategories": {
+                    "to-do-list": {
+                        "description": "To-do list in work",
+                        "block_id": ""
+                    },
+                    "work-journal": {
+                        "description": "Journaling section for day-to-day work",
+                        "block_id": ""
+                    }
+                }
             },
             "skills": {
                 "description": "Earned/desired skills, certificates, or courses.",
-                "block_id": ""
+                "block_id": "",
+                "subcategories": {
+                    "acquired-skills":{
+                        "description": "Already acquired skills",
+                        "block_id": ""
+                    },
+                    "next-steps": {
+                        "description": "Future learnings/skills",
+                        "block_id": ""
+                    }
+                }
             },
             "management": {
                 "description": "Managing all the aspects of the user's work.",
-                "block_id": ""
+                "block_id": "",
+                "subcategories": {
+                    "goals-milestones": {
+                        "description": "Goals & milestones journal",
+                        "block_id": ""
+                    },
+                    "time-management": {
+                        "description": "Time management during working hours",
+                        "block_id": ""
+                    }
+                }
             }
         },
         "block_id": ""
@@ -58,7 +120,17 @@
         "subcategories": {
             "budgeting": {
                 "description": "Overall monthly budgeting and transactions tracking.",
-                "block_id": ""
+                "block_id": "",
+                "subcategories": {
+                    "transactions": {
+                        "description": "Transactions table",
+                        "block_id": ""
+                    },
+                    "budget-goals": {
+                        "description": "Budgeting goals and progress tracker.",
+                        "block_id": ""
+                    }
+                }
             },
             "expense-reports": {
                 "description": "Monthly expense reports.",
@@ -66,7 +138,13 @@
             },
             "financial-goals": {
                 "description": "Mid-to-long term financial goals and tracking.",
-                "block_id": ""
+                "block_id": "",
+                "subcategories": {
+                    "asset-liability": {
+                        "description": "Data table to categorize financial stuff into assets & liabilities.",
+                        "block_id": ""
+                    }
+                }
             }
         },
         "block_id": ""
@@ -76,23 +154,77 @@
         "subcategories": {
             "goals": {
                 "description": "Personal goals.",
-                "block_id": ""
+                "block_id": "",
+                "subcategories": {
+                    "goals-list": {
+                        "description": "List of personal goals & OKRs",
+                        "block_id": ""
+                    },
+                    "progress-tracker": {
+                        "description": "Tracking goals & acheivements",
+                        "block_id": ""
+                    }
+                }
             },
             "skill-acquisition": {
                 "description": "Skills that the user want to acquire.",
-                "block_id": ""
+                "block_id": "",
+                "subcategories": {
+                    "skills-to-learn": {
+                        "description": "List of skills to learn.",
+                        "block_id": ""
+                    },
+                    "resources": {
+                        "description": "List of resources to learn stuff",
+                        "block_id": ""
+                    },
+                    "progress-tracker": {
+                        "description": "Tracking learning progress",
+                        "block_id": ""
+                    }
+                }
             },
             "achievements": {
                 "description": "Achievements of any size.",
-                "block_id": ""
+                "block_id": "",
+                "subcategories": {
+                    "achievements-timeline": {
+                        "description": "Timeline & details for achievements and goals",
+                        "block_id": ""
+                    }
+                }
             },
             "habits": {
                 "description": "Habit tracker.",
-                "block_id": ""
+                "block_id": "",
+                "subcategories": {
+                    "habit-tracker": {
+                        "description": "Tracking habits",
+                        "block_id": ""
+                    }
+                }
             },
             "books-quotes-thoughts": {
                 "description": "Any books, quotes, and thoughts that are worth noting.",
-                "block_id": ""
+                "block_id": "",
+                "subcategories": {
+                    "reading-notes": {
+                        "description": "Notes from reading books, articles, etc.",
+                        "block_id": ""
+                    },
+                    "quote-collections": {
+                        "description": "Quote collection database.",
+                        "block_id": ""
+                    },
+                    "inspiration": {
+                        "description": "Inspirational figures & their stories database.",
+                        "block_id": ""
+                    },
+                    "book-list": {
+                        "description": "Tracker for a list of books.",
+                        "block_id": ""
+                    }
+                }
             }
         },
         "block_id": ""
@@ -102,19 +234,55 @@
         "subcategories": {
             "calendar": {
                 "description": "Calendar to track what's coming and what happened.",
-                "block_id": ""
+                "block_id": "",
+                "subcategories": {
+                    "daily-schedule": {
+                        "description": "View of daily schedule & goals",
+                        "block_id": ""
+                    }
+                }
             },
             "weekly-planner": {
                 "description": "Planning the events week-by-week.",
-                "block_id": ""
+                "block_id": "",
+                "subcategories": {
+                    "task-list": {
+                        "description": "Weekly task list.",
+                        "block_id": ""
+                    },
+                    "reflection": {
+                        "description": "End-of-week reflections.",
+                        "block_id": ""
+                    }
+                }
             },
             "long-term-plans": {
                 "description": "Long term goal and plan tracking.",
-                "block_id": ""
+                "block_id": "",
+                "subcategories": {
+                    "goals-list": {
+                        "description": "List fo long-term OKRs.",
+                        "block_id": ""
+                    },
+                    "progress-tracker": {
+                        "description": "Tracking progress long-term.",
+                        "block_id": ""
+                    }
+                }
             },
             "productivity": {
                 "description": "Overall productivity tracking.",
-                "block_id": ""
+                "block_id": "",
+                "subcategories": {
+                    "general-to-do-list": {
+                        "description": "Overall to-do-list",
+                        "block_id": ""
+                    },
+                    "brainstorm-notes": {
+                        "description": "Notes for brainstorming and ideas",
+                        "block_id": ""
+                    }
+                }
             }
         },
         "block_id": ""
