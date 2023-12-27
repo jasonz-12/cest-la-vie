@@ -22,7 +22,7 @@ def build_tree(elements):
 
 def main():
     # Load the JSON data from a file
-    file_path = './metadata-structure.json'  # Replace with your file path
+    file_path = './metadata-structure-template.json'  # Replace with your file path
     with open(file_path, 'r') as file:
         metadata_structure = json.load(file)
 

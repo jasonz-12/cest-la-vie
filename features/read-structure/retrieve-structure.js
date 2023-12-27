@@ -2,9 +2,11 @@ const axios = require('axios');
 const fs = require('fs');
 
 
-const startBlockId = '618a8b62c258445dab5ade7dcfc0a518'; // Replace with your actual block ID
+const startBlockId = 'df94a7d243f14ed887d51b155f82ada1'; // Replace with your actual block ID
 
-axios.defaults.headers.common['Authorization'] = `Bearer ${process.env.NOTION_API_KEY}`;
+// API Call Auth
+// axios.defaults.headers.common['Authorization'] = `Bearer ${process.env.NOTION_API_KEY}`;
+axios.defaults.headers.common['Authorization'] = `Bearer ${process.env.NOTION_API_KEY_PROD}`;
 axios.defaults.headers.post['Content-Type'] = 'application/json';
 axios.defaults.headers.common['Notion-Version'] = '2022-02-22';
 
@@ -16,6 +18,10 @@ async function processBlock(blockId, parentId = null) {
         const block = blockResponse.data;
 
         // Build block object
+        // Requirements: Block ID, Block Type, Block Title, Block Parent, Block Contents (Contents are tricky).
+        // Note: In nested structures, parsing Notion API responses can really benefit from using the "type" key.
+        // Logic: If/elses for the content part? Need to get either the title or the first couple of characters in whatever the content is.
+        // Usually it's `rich_text` or `title` - but need to handle everything
         typeObj = block.type
         let blockObj = {
             id: block.id,
@@ -38,8 +44,9 @@ async function processBlock(blockId, parentId = null) {
         }
         let data = blocks;
         let jsonData = JSON.stringify(data, null, 2);
-
-        fs.writeFile('metadata-structure.json', jsonData, (err) => {
+        
+        // Write to JSON file
+        fs.writeFile('metadata-structure-template.json', jsonData, (err) => {
         if (err) throw err;
         console.log('Data written to file');
         });
@@ -65,5 +72,3 @@ async function getHierarchy() {
 };
 
 getHierarchy();
-
-

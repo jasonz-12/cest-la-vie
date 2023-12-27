@@ -1,0 +1,2613 @@
+[
+  {
+    "id": "df94a7d2-43f1-4ed8-87d5-1b155f82ada1",
+    "type": "child_page",
+    "url": "https://www.notion.so/df94a7d243f14ed887d51b155f82ada1",
+    "parent": null,
+    "contents": {
+      "title": "Template Sandbox"
+    }
+  },
+  {
+    "id": "d026a7bb-94f2-465e-8732-b02343b1a479",
+    "type": "child_database",
+    "url": null,
+    "parent": "df94a7d2-43f1-4ed8-87d5-1b155f82ada1",
+    "contents": {
+      "title": "CLV"
+    }
+  },
+  {
+    "id": "b01ef335-be8a-46a2-bf10-51ffe9bd1bd6",
+    "type": "child_page",
+    "url": "https://www.notion.so/b01ef335be8a46a2bf1051ffe9bd1bd6",
+    "parent": "d026a7bb-94f2-465e-8732-b02343b1a479",
+    "contents": {
+      "title": "Beliefs & Practices"
+    }
+  },
+  {
+    "id": "f4189443-107e-4970-a3b8-a93fe0e0ad58",
+    "type": "child_database",
+    "url": null,
+    "parent": "b01ef335-be8a-46a2-bf10-51ffe9bd1bd6",
+    "contents": {
+      "title": ""
+    }
+  },
+  {
+    "id": "2d03e6fd-6cba-4cac-a891-b93c467abdc2",
+    "type": "child_page",
+    "url": "https://www.notion.so/2d03e6fd6cba4caca891b93c467abdc2",
+    "parent": "f4189443-107e-4970-a3b8-a93fe0e0ad58",
+    "contents": {
+      "title": ""
+    }
+  },
+  {
+    "id": "5107bff2-c356-4f41-8760-6958faaa664e",
+    "type": "child_page",
+    "url": "https://www.notion.so/5107bff2c3564f4187606958faaa664e",
+    "parent": "f4189443-107e-4970-a3b8-a93fe0e0ad58",
+    "contents": {
+      "title": ""
+    }
+  },
+  {
+    "id": "8ea99694-80a0-4484-ba29-466345e80ac5",
+    "type": "child_page",
+    "url": "https://www.notion.so/8ea9969480a04484ba29466345e80ac5",
+    "parent": "f4189443-107e-4970-a3b8-a93fe0e0ad58",
+    "contents": {
+      "title": ""
+    }
+  },
+  {
+    "id": "937baf1c-1660-4f12-ba0f-af295526f149",
+    "type": "paragraph",
+    "url": null,
+    "parent": "b01ef335-be8a-46a2-bf10-51ffe9bd1bd6",
+    "contents": {
+      "rich_text": [],
+      "color": "default"
+    }
+  },
+  {
+    "id": "42b52718-e4c1-4fd3-9232-0e774a59eccf",
+    "type": "child_page",
+    "url": "https://www.notion.so/42b52718e4c14fd392320e774a59eccf",
+    "parent": "d026a7bb-94f2-465e-8732-b02343b1a479",
+    "contents": {
+      "title": "Time Management"
+    }
+  },
+  {
+    "id": "79f048f0-19f0-4fbd-b888-9ff795a99507",
+    "type": "child_database",
+    "url": null,
+    "parent": "42b52718-e4c1-4fd3-9232-0e774a59eccf",
+    "contents": {
+      "title": "Personal Calendar"
+    }
+  },
+  {
+    "id": "16dfd1d8-f9f7-4839-aa5e-e5dd995fa558",
+    "type": "child_page",
+    "url": "https://www.notion.so/16dfd1d8f9f74839aa5ee5dd995fa558",
+    "parent": "79f048f0-19f0-4fbd-b888-9ff795a99507",
+    "contents": {
+      "title": "Dinner with Ben"
+    }
+  },
+  {
+    "id": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
+    "type": "child_page",
+    "url": "https://www.notion.so/a21f7b0a6b5540e5a803a828c9943dd4",
+    "parent": "79f048f0-19f0-4fbd-b888-9ff795a99507",
+    "contents": {
+      "title": "Lily’s Place Eat Eat"
+    }
+  },
+  {
+    "id": "3a9df35c-9814-4d2e-a241-0ce65e403dae",
+    "type": "heading_1",
+    "url": null,
+    "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "菜谱&购物清单",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "菜谱&购物清单",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "453f8c61-ef69-4d10-85b6-b2459e7204d7",
+    "type": "to_do",
+    "url": null,
+    "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "鸡翅",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "鸡翅",
+          "href": null
+        }
+      ],
+      "checked": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "2def1076-668b-4075-a6c8-6c64ca9b63ea",
+    "type": "to_do",
+    "url": null,
+    "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "培根",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "培根",
+          "href": null
+        }
+      ],
+      "checked": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "61003bd4-cc44-4324-938f-b59d03ef9d25",
+    "type": "to_do",
+    "url": null,
+    "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "金针菇",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "金针菇",
+          "href": null
+        }
+      ],
+      "checked": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "119c83bf-9dce-4414-a049-acc95fa9178a",
+    "type": "to_do",
+    "url": null,
+    "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "锡纸",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "锡纸",
+          "href": null
+        }
+      ],
+      "checked": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "10cc0863-5daf-405f-bc5d-af48189600f8",
+    "type": "to_do",
+    "url": null,
+    "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "🐷带一个烤盘",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "🐷带一个烤盘",
+          "href": null
+        }
+      ],
+      "checked": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "6d3d5b5f-eb19-4741-9d83-cd611eefde8a",
+    "type": "to_do",
+    "url": null,
+    "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "芦笋",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "芦笋",
+          "href": null
+        }
+      ],
+      "checked": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "cac96394-a11a-4027-8301-5d5696719119",
+    "type": "to_do",
+    "url": null,
+    "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "厚切长条五花肉",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "厚切长条五花肉",
+          "href": null
+        }
+      ],
+      "checked": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "1f95b051-5621-4602-a77f-5a121ac63355",
+    "type": "to_do",
+    "url": null,
+    "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "韩式牛肉片",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "韩式牛肉片",
+          "href": null
+        }
+      ],
+      "checked": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "ebcbe641-2049-423e-8888-e5354af83372",
+    "type": "to_do",
+    "url": null,
+    "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "炒豆芽",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "炒豆芽",
+          "href": null
+        }
+      ],
+      "checked": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "9ad90048-da35-4e26-84d7-fc5fc02b1213",
+    "type": "to_do",
+    "url": null,
+    "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "腊肠炒饭",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "腊肠炒饭",
+          "href": null
+        }
+      ],
+      "checked": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "f518ab3f-518d-49bb-bfee-2fe8cd6512d8",
+    "type": "to_do",
+    "url": null,
+    "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "炒土豆丝",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "炒土豆丝",
+          "href": null
+        }
+      ],
+      "checked": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "fe7ad238-846c-4901-a2c0-3f9d7f4058f6",
+    "type": "to_do",
+    "url": null,
+    "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "一次性盘子&杯子",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "一次性盘子&杯子",
+          "href": null
+        }
+      ],
+      "checked": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "e3d24934-b745-41bb-b326-b3b3001bb4b9",
+    "type": "to_do",
+    "url": null,
+    "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "🍺",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "🍺",
+          "href": null
+        }
+      ],
+      "checked": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "1c1daa11-6e53-4c12-bfb2-4b028a830da5",
+    "type": "to_do",
+    "url": null,
+    "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Coke Zero - Family Size",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Coke Zero - Family Size",
+          "href": null
+        }
+      ],
+      "checked": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "448efe92-82b1-4f09-bf84-8169149e1de8",
+    "type": "to_do",
+    "url": null,
+    "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "薯片Family Size",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "薯片Family Size",
+          "href": null
+        }
+      ],
+      "checked": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "a13dc292-d4a9-4aad-8c4c-61b5facdb1db",
+    "type": "to_do",
+    "url": null,
+    "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "橙汁儿",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "橙汁儿",
+          "href": null
+        }
+      ],
+      "checked": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "1ab53765-582c-4fca-8c74-02764ad913dc",
+    "type": "to_do",
+    "url": null,
+    "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "西葫芦",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "西葫芦",
+          "href": null
+        }
+      ],
+      "checked": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "7a0ed9ef-02de-46b4-a0dc-f547c35941d2",
+    "type": "to_do",
+    "url": null,
+    "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "蒜蓉煎豆腐",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "蒜蓉煎豆腐",
+          "href": null
+        }
+      ],
+      "checked": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "7ec62d73-7c6e-4b0a-a059-7fd29b81459d",
+    "type": "to_do",
+    "url": null,
+    "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "生菜卷烤肉",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "生菜卷烤肉",
+          "href": null
+        }
+      ],
+      "checked": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "14225640-aa3a-4a26-a4fe-f1a33d43281c",
+    "type": "to_do",
+    "url": null,
+    "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "烧烤酱 - 🐷哥酱 & 韩式烧烤酱",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "烧烤酱 - 🐷哥酱 & 韩式烧烤酱",
+          "href": null
+        }
+      ],
+      "checked": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "88f18ce0-96f0-4052-8553-b8c2d45dd4ef",
+    "type": "to_do",
+    "url": null,
+    "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "香肠",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "香肠",
+          "href": null
+        }
+      ],
+      "checked": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "20fc97bb-4081-4c34-8700-0ee363f72082",
+    "type": "to_do",
+    "url": null,
+    "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "🐷带垃圾袋",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "🐷带垃圾袋",
+          "href": null
+        }
+      ],
+      "checked": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
+    "type": "child_page",
+    "url": "https://www.notion.so/9f3338f850fa4636b6cd34ebcdee9afc",
+    "parent": "79f048f0-19f0-4fbd-b888-9ff795a99507",
+    "contents": {
+      "title": "Jenny & Inks"
+    }
+  },
+  {
+    "id": "1276fa7a-957f-4f44-8339-cdfc8df39ab2",
+    "type": "paragraph",
+    "url": null,
+    "parent": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "mention",
+          "mention": {
+            "type": "date",
+            "date": {
+              "start": "2024-01-08",
+              "end": null,
+              "time_zone": null
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "2024-01-08",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " ",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "id": "636a88ce-c041-4404-b4b8-5010f998daaa",
+    "type": "heading_1",
+    "url": null,
+    "parent": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "CLV Pitching",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "CLV Pitching",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "53b94d76-c037-4b65-9ff2-adbf69fd8481",
+    "type": "paragraph",
+    "url": null,
+    "parent": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "CLV是一个集合ChatGPT和Notion为一体的工具。我们都想要AI来帮助我们，而不是替代我们。因此我就在想AI能怎么帮助我们提升效率，以及减轻负担。",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "CLV是一个集合ChatGPT和Notion为一体的工具。我们都想要AI来帮助我们，而不是替代我们。因此我就在想AI能怎么帮助我们提升效率，以及减轻负担。",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "id": "28c2916d-ca39-46d2-9d46-d7ce0b133599",
+    "type": "paragraph",
+    "url": null,
+    "parent": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "我发现的问题：",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "我发现的问题：",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "id": "ece79f94-9d03-41e6-a551-ffeb3241d9b8",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "每个人都能从一点生活里的管理学的知识中受益",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "每个人都能从一点生活里的管理学的知识中受益",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "id": "f32f57dc-4b99-4f23-956e-a9971bd114a3",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "人们的管理工具大同小异，但是种类繁多、难以选择，会让人无法专注",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "人们的管理工具大同小异，但是种类繁多、难以选择，会让人无法专注",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "id": "45d7c16b-6c06-4df4-97b5-d78de83722fc",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "大部分管理工具过于复杂",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "大部分管理工具过于复杂",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "id": "f8ceb5be-8236-4fd9-b3b0-4999be54ebaf",
+    "type": "paragraph",
+    "url": null,
+    "parent": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "然而开发一个复杂且全面的生活管理工具非常复杂，但现在有这样的一个小风口：GPT和Notion的结合工具。",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "然而开发一个复杂且全面的生活管理工具非常复杂，但现在有这样的一个小风口：GPT和Notion的结合工具。",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "id": "c547f9d8-2f6a-492b-8e18-dd502a4fe7a1",
+    "type": "paragraph",
+    "url": null,
+    "parent": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "GPT可以提供自然语言的界面，同时拥有语音对话、网上浏览、写程序做分析等功能。",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "GPT可以提供自然语言的界面，同时拥有语音对话、网上浏览、写程序做分析等功能。",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "id": "be399a07-84eb-4935-80d5-3f99afd64c8b",
+    "type": "paragraph",
+    "url": null,
+    "parent": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Notion可以提供一个非常全面且flexible的API，并且可以做出非常美观好看的dashboard，使用起来便捷，并且对于使用的用户的正反馈很多。",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Notion可以提供一个非常全面且flexible的API，并且可以做出非常美观好看的dashboard，使用起来便捷，并且对于使用的用户的正反馈很多。",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "id": "50c5038c-083a-404c-a34a-8bd8da8ac2aa",
+    "type": "paragraph",
+    "url": null,
+    "parent": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "因此做这个东西会是一个很好的赚钱的机会，可以很快做出来，并且赚钱的方式很多。",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "因此做这个东西会是一个很好的赚钱的机会，可以很快做出来，并且赚钱的方式很多。",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "id": "0a6262ad-b4ec-481d-906b-568a6de88fa4",
+    "type": "paragraph",
+    "url": null,
+    "parent": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "想做成这个项目需要从GPT和Notion两头做出努力to meet each other in the middle - 需要Notion好看高效，也需要ChatGPT本身能够handle不同的request。",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "想做成这个项目需要从GPT和Notion两头做出努力to meet each other in the middle - 需要Notion好看高效，也需要ChatGPT本身能够handle不同的request。",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "id": "61b0adf7-e8f5-4fa2-ae6a-654fc924bc67",
+    "type": "paragraph",
+    "url": null,
+    "parent": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
+    "contents": {
+      "rich_text": [],
+      "color": "default"
+    }
+  },
+  {
+    "id": "7ddcee26-1346-4b54-bc9c-33d1445cb550",
+    "type": "paragraph",
+    "url": null,
+    "parent": "42b52718-e4c1-4fd3-9232-0e774a59eccf",
+    "contents": {
+      "rich_text": [],
+      "color": "default"
+    }
+  },
+  {
+    "id": "5954afc3-a749-449d-893c-017a0ead54a4",
+    "type": "child_page",
+    "url": "https://www.notion.so/5954afc3a749449d893c017a0ead54a4",
+    "parent": "d026a7bb-94f2-465e-8732-b02343b1a479",
+    "contents": {
+      "title": "Personal Growth"
+    }
+  },
+  {
+    "id": "93dc25f2-705f-451c-907c-001f7fec4528",
+    "type": "child_database",
+    "url": null,
+    "parent": "5954afc3-a749-449d-893c-017a0ead54a4",
+    "contents": {
+      "title": "growth goals"
+    }
+  },
+  {
+    "id": "8e0ae3d5-f3bc-4e2e-80b6-934f50cfdfbf",
+    "type": "child_page",
+    "url": "https://www.notion.so/8e0ae3d5f3bc4e2e80b6934f50cfdfbf",
+    "parent": "93dc25f2-705f-451c-907c-001f7fec4528",
+    "contents": {
+      "title": "Write"
+    }
+  },
+  {
+    "id": "f8045110-0103-4b14-a79c-65f5b467adf2",
+    "type": "child_page",
+    "url": "https://www.notion.so/f804511001034b14a79c65f5b467adf2",
+    "parent": "93dc25f2-705f-451c-907c-001f7fec4528",
+    "contents": {
+      "title": "2024 Resolution"
+    }
+  },
+  {
+    "id": "8e102626-f912-4f11-a403-7b50a4ab7261",
+    "type": "child_database",
+    "url": null,
+    "parent": "f8045110-0103-4b14-a79c-65f5b467adf2",
+    "contents": {
+      "title": "2024 Resolution"
+    }
+  },
+  {
+    "id": "ca6ac7c0-153d-4a6a-850c-39bc8d35607e",
+    "type": "child_page",
+    "url": "https://www.notion.so/ca6ac7c0153d4a6a850c39bc8d35607e",
+    "parent": "8e102626-f912-4f11-a403-7b50a4ab7261",
+    "contents": {
+      "title": "Release CLV v1.0"
+    }
+  },
+  {
+    "id": "e9cd1bed-3bca-4f44-9ba9-cc31b5b97641",
+    "type": "unsupported",
+    "url": null,
+    "parent": "ca6ac7c0-153d-4a6a-850c-39bc8d35607e",
+    "contents": {}
+  },
+  {
+    "id": "1bcb2135-5466-4bcd-bb97-b088891b508d",
+    "type": "child_page",
+    "url": "https://www.notion.so/1bcb213554664bcdbb97b088891b508d",
+    "parent": "8e102626-f912-4f11-a403-7b50a4ab7261",
+    "contents": {
+      "title": "75 HARD 2024"
+    }
+  },
+  {
+    "id": "674f1509-9cab-462e-a039-2a3a15a6c67b",
+    "type": "heading_1",
+    "url": null,
+    "parent": "1bcb2135-5466-4bcd-bb97-b088891b508d",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Timeline",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Timeline",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "c5a7fd4f-3b30-47ee-9c18-cfe79b591b51",
+    "type": "paragraph",
+    "url": null,
+    "parent": "1bcb2135-5466-4bcd-bb97-b088891b508d",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "March 1st - May 15th",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "March 1st - May 15th",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "id": "6bbe5253-eb07-4681-8bc9-3a5169f30dde",
+    "type": "heading_1",
+    "url": null,
+    "parent": "1bcb2135-5466-4bcd-bb97-b088891b508d",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Daily Requirements",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Daily Requirements",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "f7d02e90-20af-49bb-90e1-ca984c9b051b",
+    "type": "numbered_list_item",
+    "url": null,
+    "parent": "1bcb2135-5466-4bcd-bb97-b088891b508d",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Read 10 pages - non-fiction",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Read 10 pages - non-fiction",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "id": "b097a7c9-9671-472a-81cd-9766da3d81ad",
+    "type": "numbered_list_item",
+    "url": null,
+    "parent": "1bcb2135-5466-4bcd-bb97-b088891b508d",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Normal diet - no alcohol, no cheat meals",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Normal diet - no alcohol, no cheat meals",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "id": "d6256c4c-5c86-41bf-8a55-e86b18d4db08",
+    "type": "numbered_list_item",
+    "url": null,
+    "parent": "1bcb2135-5466-4bcd-bb97-b088891b508d",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "1h workout - ≥ 30 mins outdoors",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "1h workout - ≥ 30 mins outdoors",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "id": "7887b12a-3306-43db-865d-715c00010379",
+    "type": "numbered_list_item",
+    "url": null,
+    "parent": "1bcb2135-5466-4bcd-bb97-b088891b508d",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Progress photo - upper body",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Progress photo - upper body",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "id": "b5ce8fde-5ecd-4f09-bc6c-8b31028af42d",
+    "type": "numbered_list_item",
+    "url": null,
+    "parent": "1bcb2135-5466-4bcd-bb97-b088891b508d",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "1 gallon water",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "1 gallon water",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "id": "1f7006b8-7320-42c0-b363-c01ec3452451",
+    "type": "heading_1",
+    "url": null,
+    "parent": "1bcb2135-5466-4bcd-bb97-b088891b508d",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Tracking",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Tracking",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "231ef178-3aab-40a2-b89d-a8b27200a7a5",
+    "type": "child_database",
+    "url": null,
+    "parent": "1bcb2135-5466-4bcd-bb97-b088891b508d",
+    "contents": {
+      "title": "75 HARD Tracker"
+    }
+  },
+  {
+    "id": "7c11bad0-fe97-498b-94e9-f07ea1f84832",
+    "type": "child_page",
+    "url": "https://www.notion.so/7c11bad0fe97498b94e9f07ea1f84832",
+    "parent": "231ef178-3aab-40a2-b89d-a8b27200a7a5",
+    "contents": {
+      "title": ""
+    }
+  },
+  {
+    "id": "4eb974d7-6ed9-4243-9bae-c942ea847a56",
+    "type": "child_page",
+    "url": "https://www.notion.so/4eb974d76ed942439baec942ea847a56",
+    "parent": "8e102626-f912-4f11-a403-7b50a4ab7261",
+    "contents": {
+      "title": "20 Books"
+    }
+  },
+  {
+    "id": "7d438795-340c-4c67-b5c9-476ec1148a00",
+    "type": "child_page",
+    "url": "https://www.notion.so/7d438795340c4c67b5c9476ec1148a00",
+    "parent": "8e102626-f912-4f11-a403-7b50a4ab7261",
+    "contents": {
+      "title": "Morning Runs x 300"
+    }
+  },
+  {
+    "id": "ee6dd5fe-fc7f-4913-b385-61dc25e3679e",
+    "type": "child_page",
+    "url": "https://www.notion.so/ee6dd5fefc7f4913b38561dc25e3679e",
+    "parent": "8e102626-f912-4f11-a403-7b50a4ab7261",
+    "contents": {
+      "title": "Gym 45 x 180"
+    }
+  },
+  {
+    "id": "277e3581-a4a6-45a0-b8bc-afe36b754460",
+    "type": "paragraph",
+    "url": null,
+    "parent": "f8045110-0103-4b14-a79c-65f5b467adf2",
+    "contents": {
+      "rich_text": [],
+      "color": "default"
+    }
+  },
+  {
+    "id": "fe1120c0-0e74-4ea2-a098-f6d574280f86",
+    "type": "child_page",
+    "url": "https://www.notion.so/fe1120c00e744ea2a098f6d574280f86",
+    "parent": "d026a7bb-94f2-465e-8732-b02343b1a479",
+    "contents": {
+      "title": "Finances"
+    }
+  },
+  {
+    "id": "c0783226-1118-488a-9a2f-51c29902e1e6",
+    "type": "child_database",
+    "url": null,
+    "parent": "fe1120c0-0e74-4ea2-a098-f6d574280f86",
+    "contents": {
+      "title": ""
+    }
+  },
+  {
+    "id": "e4713b2c-3ef9-4e03-8cad-2ac1367e0d38",
+    "type": "child_page",
+    "url": "https://www.notion.so/e4713b2c3ef94e038cad2ac1367e0d38",
+    "parent": "c0783226-1118-488a-9a2f-51c29902e1e6",
+    "contents": {
+      "title": ""
+    }
+  },
+  {
+    "id": "ecb4beb9-d446-4885-a451-51e8097162a5",
+    "type": "child_page",
+    "url": "https://www.notion.so/ecb4beb9d4464885a45151e8097162a5",
+    "parent": "c0783226-1118-488a-9a2f-51c29902e1e6",
+    "contents": {
+      "title": ""
+    }
+  },
+  {
+    "id": "f6095c62-165c-4ddf-9786-f0237911118a",
+    "type": "child_page",
+    "url": "https://www.notion.so/f6095c62165c4ddf9786f0237911118a",
+    "parent": "c0783226-1118-488a-9a2f-51c29902e1e6",
+    "contents": {
+      "title": ""
+    }
+  },
+  {
+    "id": "750bf05a-932e-4f9d-856c-dcc1f6d011bf",
+    "type": "child_page",
+    "url": "https://www.notion.so/750bf05a932e4f9d856cdcc1f6d011bf",
+    "parent": "d026a7bb-94f2-465e-8732-b02343b1a479",
+    "contents": {
+      "title": "Professional"
+    }
+  },
+  {
+    "id": "ba7c1f96-c4f8-497c-b214-fea7e5be387e",
+    "type": "child_database",
+    "url": null,
+    "parent": "750bf05a-932e-4f9d-856c-dcc1f6d011bf",
+    "contents": {
+      "title": ""
+    }
+  },
+  {
+    "id": "1dcb8c4a-a205-48bc-87a2-217adb09af55",
+    "type": "child_page",
+    "url": "https://www.notion.so/1dcb8c4aa20548bc87a2217adb09af55",
+    "parent": "ba7c1f96-c4f8-497c-b214-fea7e5be387e",
+    "contents": {
+      "title": ""
+    }
+  },
+  {
+    "id": "2de28961-c8fd-4c6d-b62c-5bbcd63d85c3",
+    "type": "child_page",
+    "url": "https://www.notion.so/2de28961c8fd4c6db62c5bbcd63d85c3",
+    "parent": "ba7c1f96-c4f8-497c-b214-fea7e5be387e",
+    "contents": {
+      "title": ""
+    }
+  },
+  {
+    "id": "b414d890-4d6f-46a7-8dc3-805630ada5fb",
+    "type": "child_page",
+    "url": "https://www.notion.so/b414d8904d6f46a78dc3805630ada5fb",
+    "parent": "ba7c1f96-c4f8-497c-b214-fea7e5be387e",
+    "contents": {
+      "title": ""
+    }
+  },
+  {
+    "id": "aa318afe-f9d4-4b08-9ac8-e5d3d75d94a0",
+    "type": "child_page",
+    "url": "https://www.notion.so/aa318afef9d44b089ac8e5d3d75d94a0",
+    "parent": "d026a7bb-94f2-465e-8732-b02343b1a479",
+    "contents": {
+      "title": "Well Being"
+    }
+  },
+  {
+    "id": "3b83b26c-d372-418a-9dc6-c3ff7395f38b",
+    "type": "child_database",
+    "url": null,
+    "parent": "aa318afe-f9d4-4b08-9ac8-e5d3d75d94a0",
+    "contents": {
+      "title": ""
+    }
+  },
+  {
+    "id": "06581271-63a6-46c3-9d85-3ad93c75690a",
+    "type": "child_page",
+    "url": "https://www.notion.so/0658127163a646c39d853ad93c75690a",
+    "parent": "3b83b26c-d372-418a-9dc6-c3ff7395f38b",
+    "contents": {
+      "title": ""
+    }
+  },
+  {
+    "id": "ae11364c-dc3d-42ff-938e-cdddb429538f",
+    "type": "child_page",
+    "url": "https://www.notion.so/ae11364cdc3d42ff938ecdddb429538f",
+    "parent": "3b83b26c-d372-418a-9dc6-c3ff7395f38b",
+    "contents": {
+      "title": ""
+    }
+  },
+  {
+    "id": "cd268e7c-a5a3-4e38-985d-ef08fa9e2ef9",
+    "type": "child_page",
+    "url": "https://www.notion.so/cd268e7ca5a34e38985def08fa9e2ef9",
+    "parent": "3b83b26c-d372-418a-9dc6-c3ff7395f38b",
+    "contents": {
+      "title": ""
+    }
+  },
+  {
+    "id": "921f6ee5-cef7-4ac4-b628-2f7c7aa5892a",
+    "type": "heading_1",
+    "url": null,
+    "parent": "aa318afe-f9d4-4b08-9ac8-e5d3d75d94a0",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Structure",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Structure",
+          "href": null
+        }
+      ],
+      "is_toggleable": true,
+      "color": "default"
+    }
+  },
+  {
+    "id": "b6f4d011-b31d-4d6f-a9b9-feda7d4549f1",
+    "type": "code",
+    "url": null,
+    "parent": "921f6ee5-cef7-4ac4-b628-2f7c7aa5892a",
+    "contents": {
+      "caption": [],
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "\"well-being\": {\n      \"description\": \"The user's overall well-being.\", \n      \"subcategories\": {\n          \"physical\": {\n              \"description\": \"Physical well-being such as workouts, sleep, nutrition\",\n              \"block_id\": \"\",\n              \"subcategories\": {\n                  \"workout-tracker\": {\n                      \"description\": \"Tracking workout routines\",\n                      \"block_id\": \"\"\n                  },\n                  \"food-tracker\": {\n                      \"description\": \"Food intake tracker\",\n                      \"block_id\": \"\"\n                  },\n                  \"sleep-journal\": {\n                      \"description\": \"Journal for sleeping qualities, dreams, etc.\",\n                      \"block_id\": \"\"\n                  },\n                  \"water-tracker\": {\n                      \"description\": \"Daily water intake tracker\",\n                      \"block_id\": \"\"\n                  }\n              }\n          },\n          \"mental-emotional\": {\n              \"description\": \"Mental & emotional well-being.\",\n              \"block_id\": \"\",\n              \"subcategories\": {\n                  \"gratitude-journal\": {\n                      \"description\": \"Things that the user appreciates everyday\",\n                      \"block_id\": \"\"\n                  },\n                  \"meditation-tracker\": {\n                      \"description\": \"Tracking meditation time, frequency, and feeling\",\n                      \"block_id\": \"\"\n                  },\n                  \"emotion-journal\": {\n                      \"description\": \"Emotional journaling\",\n                      \"block_id\": \"\"\n                  }\n              }\n          }\n      },\n      \"block_id\": \"\"\n  }",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "\"well-being\": {\n      \"description\": \"The user's overall well-being.\", \n      \"subcategories\": {\n          \"physical\": {\n              \"description\": \"Physical well-being such as workouts, sleep, nutrition\",\n              \"block_id\": \"\",\n              \"subcategories\": {\n                  \"workout-tracker\": {\n                      \"description\": \"Tracking workout routines\",\n                      \"block_id\": \"\"\n                  },\n                  \"food-tracker\": {\n                      \"description\": \"Food intake tracker\",\n                      \"block_id\": \"\"\n                  },\n                  \"sleep-journal\": {\n                      \"description\": \"Journal for sleeping qualities, dreams, etc.\",\n                      \"block_id\": \"\"\n                  },\n                  \"water-tracker\": {\n                      \"description\": \"Daily water intake tracker\",\n                      \"block_id\": \"\"\n                  }\n              }\n          },\n          \"mental-emotional\": {\n              \"description\": \"Mental & emotional well-being.\",\n              \"block_id\": \"\",\n              \"subcategories\": {\n                  \"gratitude-journal\": {\n                      \"description\": \"Things that the user appreciates everyday\",\n                      \"block_id\": \"\"\n                  },\n                  \"meditation-tracker\": {\n                      \"description\": \"Tracking meditation time, frequency, and feeling\",\n                      \"block_id\": \"\"\n                  },\n                  \"emotion-journal\": {\n                      \"description\": \"Emotional journaling\",\n                      \"block_id\": \"\"\n                  }\n              }\n          }\n      },\n      \"block_id\": \"\"\n  }",
+          "href": null
+        }
+      ],
+      "language": "json"
+    }
+  },
+  {
+    "id": "e1cf4d50-c509-4d06-aa8a-cedd13ee9ca6",
+    "type": "child_page",
+    "url": "https://www.notion.so/e1cf4d50c5094d06aa8acedd13ee9ca6",
+    "parent": "d026a7bb-94f2-465e-8732-b02343b1a479",
+    "contents": {
+      "title": "Social & Relationships"
+    }
+  },
+  {
+    "id": "60781c17-6be9-4ece-b487-8a0547d2295b",
+    "type": "child_database",
+    "url": null,
+    "parent": "e1cf4d50-c509-4d06-aa8a-cedd13ee9ca6",
+    "contents": {
+      "title": "Contact List"
+    }
+  },
+  {
+    "id": "f49359be-0e67-4844-a747-f1681055b91f",
+    "type": "child_page",
+    "url": "https://www.notion.so/f49359be0e674844a747f1681055b91f",
+    "parent": "60781c17-6be9-4ece-b487-8a0547d2295b",
+    "contents": {
+      "title": "Minjia Zhu"
+    }
+  },
+  {
+    "id": "3aa42057-ab6b-4932-af86-0119041bda29",
+    "type": "child_page",
+    "url": "https://www.notion.so/3aa42057ab6b4932af860119041bda29",
+    "parent": "60781c17-6be9-4ece-b487-8a0547d2295b",
+    "contents": {
+      "title": "Boyuan Liu"
+    }
+  },
+  {
+    "id": "0fac8d8d-e16a-47d9-b74c-4f57a0090794",
+    "type": "child_page",
+    "url": "https://www.notion.so/0fac8d8de16a47d9b74c4f57a0090794",
+    "parent": "60781c17-6be9-4ece-b487-8a0547d2295b",
+    "contents": {
+      "title": "Mocha Jiang"
+    }
+  },
+  {
+    "id": "1da51b81-ee18-4111-b9ce-6bb66e241d1a",
+    "type": "child_page",
+    "url": "https://www.notion.so/1da51b81ee184111b9ce6bb66e241d1a",
+    "parent": "60781c17-6be9-4ece-b487-8a0547d2295b",
+    "contents": {
+      "title": "Grace Xu"
+    }
+  },
+  {
+    "id": "e067c02e-8b1c-4632-ac27-dc17e3b3684f",
+    "type": "heading_1",
+    "url": null,
+    "parent": "1da51b81-ee18-4111-b9ce-6bb66e241d1a",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Who is this person to you?",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Who is this person to you?",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "b1f68803-cd3b-47af-827e-9968addabc68",
+    "type": "paragraph",
+    "url": null,
+    "parent": "1da51b81-ee18-4111-b9ce-6bb66e241d1a",
+    "contents": {
+      "rich_text": [],
+      "color": "default"
+    }
+  },
+  {
+    "id": "1add1b33-013f-4c9f-8541-27ecaeee7b11",
+    "type": "heading_1",
+    "url": null,
+    "parent": "1da51b81-ee18-4111-b9ce-6bb66e241d1a",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "How did you meet?",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "How did you meet?",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "0060c162-c521-4858-a398-f5bb0c57ec66",
+    "type": "paragraph",
+    "url": null,
+    "parent": "1da51b81-ee18-4111-b9ce-6bb66e241d1a",
+    "contents": {
+      "rich_text": [],
+      "color": "default"
+    }
+  },
+  {
+    "id": "4590ca9e-c8c6-4fa4-9a4d-ac0c63b85b78",
+    "type": "heading_1",
+    "url": null,
+    "parent": "1da51b81-ee18-4111-b9ce-6bb66e241d1a",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "What’s special?",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "What’s special?",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "c3aa6563-d5a3-4ab1-bc2b-958d8f131fce",
+    "type": "paragraph",
+    "url": null,
+    "parent": "1da51b81-ee18-4111-b9ce-6bb66e241d1a",
+    "contents": {
+      "rich_text": [],
+      "color": "default"
+    }
+  },
+  {
+    "id": "73f1dc48-b3a2-41ce-bffc-3b0ba0640e1d",
+    "type": "heading_1",
+    "url": null,
+    "parent": "1da51b81-ee18-4111-b9ce-6bb66e241d1a",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Timeline",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Timeline",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "cf88c928-0768-4c41-aaea-d759ee9b4f45",
+    "type": "child_database",
+    "url": null,
+    "parent": "1da51b81-ee18-4111-b9ce-6bb66e241d1a",
+    "contents": {
+      "title": ""
+    }
+  },
+  {
+    "id": "1f398c68-9353-4642-aadf-225858e3681a",
+    "type": "paragraph",
+    "url": null,
+    "parent": "1da51b81-ee18-4111-b9ce-6bb66e241d1a",
+    "contents": {
+      "rich_text": [],
+      "color": "default"
+    }
+  },
+  {
+    "id": "1f01f9e4-8516-4584-80fa-dc4ed0470622",
+    "type": "child_page",
+    "url": "https://www.notion.so/1f01f9e48516458480fadc4ed0470622",
+    "parent": "60781c17-6be9-4ece-b487-8a0547d2295b",
+    "contents": {
+      "title": "Lily Zhou"
+    }
+  },
+  {
+    "id": "0860f2b3-90a6-4073-8737-dcec6262f640",
+    "type": "heading_1",
+    "url": null,
+    "parent": "1f01f9e4-8516-4584-80fa-dc4ed0470622",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Who is this person to you?",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Who is this person to you?",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "dd2a1e1a-4bc9-4e94-a6f7-833a1792f837",
+    "type": "paragraph",
+    "url": null,
+    "parent": "1f01f9e4-8516-4584-80fa-dc4ed0470622",
+    "contents": {
+      "rich_text": [],
+      "color": "default"
+    }
+  },
+  {
+    "id": "1d3233f7-2d1c-4041-b55d-08f3b03932a6",
+    "type": "heading_1",
+    "url": null,
+    "parent": "1f01f9e4-8516-4584-80fa-dc4ed0470622",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "How did you meet?",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "How did you meet?",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "2f0db5f6-9514-4c45-939c-fc2b5379d673",
+    "type": "paragraph",
+    "url": null,
+    "parent": "1f01f9e4-8516-4584-80fa-dc4ed0470622",
+    "contents": {
+      "rich_text": [],
+      "color": "default"
+    }
+  },
+  {
+    "id": "699f28b9-b842-47a3-8dd8-a01b8138f76e",
+    "type": "heading_1",
+    "url": null,
+    "parent": "1f01f9e4-8516-4584-80fa-dc4ed0470622",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "What’s special?",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "What’s special?",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "4fc5d752-9086-4cc1-9280-bd3381120663",
+    "type": "paragraph",
+    "url": null,
+    "parent": "1f01f9e4-8516-4584-80fa-dc4ed0470622",
+    "contents": {
+      "rich_text": [],
+      "color": "default"
+    }
+  },
+  {
+    "id": "823bb5df-9fd5-4511-a8e8-debb51e1f207",
+    "type": "heading_1",
+    "url": null,
+    "parent": "1f01f9e4-8516-4584-80fa-dc4ed0470622",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Timeline",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Timeline",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "f36155a2-6efe-41ec-bbbe-06d70674fc13",
+    "type": "child_database",
+    "url": null,
+    "parent": "1f01f9e4-8516-4584-80fa-dc4ed0470622",
+    "contents": {
+      "title": ""
+    }
+  },
+  {
+    "id": "94d8a42d-6c2c-4175-9c2d-bcf268cfba7d",
+    "type": "paragraph",
+    "url": null,
+    "parent": "1f01f9e4-8516-4584-80fa-dc4ed0470622",
+    "contents": {
+      "rich_text": [],
+      "color": "default"
+    }
+  },
+  {
+    "id": "2242ea11-b935-4f49-9f9e-badf7d9a22ef",
+    "type": "child_page",
+    "url": "https://www.notion.so/2242ea11b9354f499f9ebadf7d9a22ef",
+    "parent": "60781c17-6be9-4ece-b487-8a0547d2295b",
+    "contents": {
+      "title": "Jason Zhu"
+    }
+  },
+  {
+    "id": "a07d07d0-7bde-4eda-843d-714b6445de85",
+    "type": "heading_1",
+    "url": null,
+    "parent": "2242ea11-b935-4f49-9f9e-badf7d9a22ef",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Who is this person to you?",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Who is this person to you?",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "d0652baf-4743-4d6a-9a41-d36b16b31385",
+    "type": "paragraph",
+    "url": null,
+    "parent": "2242ea11-b935-4f49-9f9e-badf7d9a22ef",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "It’s me, myself, and I.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "It’s me, myself, and I.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "id": "f4d0f30e-ed79-47b2-8bf9-9258fb468fa9",
+    "type": "heading_1",
+    "url": null,
+    "parent": "2242ea11-b935-4f49-9f9e-badf7d9a22ef",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "What’s special?",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "What’s special?",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "fd8cded1-c404-422c-ae92-a738eb319cb4",
+    "type": "paragraph",
+    "url": null,
+    "parent": "2242ea11-b935-4f49-9f9e-badf7d9a22ef",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Keep trying!",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Keep trying!",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "id": "82c61356-e64d-4aca-b3b1-9688d41adddc",
+    "type": "heading_1",
+    "url": null,
+    "parent": "2242ea11-b935-4f49-9f9e-badf7d9a22ef",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Timeline",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Timeline",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "440a5ed3-2aa0-4f15-9f5c-eaee664e3c29",
+    "type": "child_database",
+    "url": null,
+    "parent": "2242ea11-b935-4f49-9f9e-badf7d9a22ef",
+    "contents": {
+      "title": ""
+    }
+  },
+  {
+    "id": "4baa8c81-c521-4400-9388-ed73fe99e29b",
+    "type": "paragraph",
+    "url": null,
+    "parent": "2242ea11-b935-4f49-9f9e-badf7d9a22ef",
+    "contents": {
+      "rich_text": [],
+      "color": "default"
+    }
+  },
+  {
+    "id": "76ff4048-2f52-40b2-9f17-aba87d8e479f",
+    "type": "heading_2",
+    "url": null,
+    "parent": "e1cf4d50-c509-4d06-aa8a-cedd13ee9ca6",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Dashboard Components",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Dashboard Components",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "7c3dda23-6586-45b3-92c5-78ea80f6e6d8",
+    "type": "to_do",
+    "url": null,
+    "parent": "e1cf4d50-c509-4d06-aa8a-cedd13ee9ca6",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "“Next Birthday” widget",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "“Next Birthday” widget",
+          "href": null
+        }
+      ],
+      "checked": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "9e1b9fee-b956-47ff-b91c-6f0041096773",
+    "type": "to_do",
+    "url": null,
+    "parent": "e1cf4d50-c509-4d06-aa8a-cedd13ee9ca6",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "“Coming Up” widget - scroll through coming up events with friends",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "“Coming Up” widget - scroll through coming up events with friends",
+          "href": null
+        }
+      ],
+      "checked": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "be728fa8-4a48-4b3d-a116-9e15ee63707e",
+    "type": "to_do",
+    "url": null,
+    "parent": "e1cf4d50-c509-4d06-aa8a-cedd13ee9ca6",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "“Relationship Analytics” - where are they, how many per relationship tag, how many in different communities",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "“Relationship Analytics” - where are they, how many per relationship tag, how many in different communities",
+          "href": null
+        }
+      ],
+      "checked": false,
+      "color": "default"
+    }
+  },
+  {
+    "id": "c11c4a46-09da-4317-80d9-a2f771e43e04",
+    "type": "divider",
+    "url": null,
+    "parent": "e1cf4d50-c509-4d06-aa8a-cedd13ee9ca6",
+    "contents": {}
+  },
+  {
+    "id": "116feb94-c561-46b0-bb5c-932c746879c5",
+    "type": "column_list",
+    "url": null,
+    "parent": "e1cf4d50-c509-4d06-aa8a-cedd13ee9ca6",
+    "contents": {}
+  },
+  {
+    "id": "5f2816f8-6ef3-4e28-80d1-8542bbeddac0",
+    "type": "column",
+    "url": null,
+    "parent": "116feb94-c561-46b0-bb5c-932c746879c5",
+    "contents": {}
+  },
+  {
+    "id": "0bb55a42-7916-4c85-8f79-aed9b27bed47",
+    "type": "callout",
+    "url": null,
+    "parent": "5f2816f8-6ef3-4e28-80d1-8542bbeddac0",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Next Birthday",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Next Birthday",
+          "href": null
+        }
+      ],
+      "icon": {
+        "type": "emoji",
+        "emoji": "⚽"
+      },
+      "color": "gray_background"
+    }
+  },
+  {
+    "id": "ad0c134e-40eb-4d6e-99d0-e0c2f3522d96",
+    "type": "child_database",
+    "url": null,
+    "parent": "0bb55a42-7916-4c85-8f79-aed9b27bed47",
+    "contents": {
+      "title": ""
+    }
+  },
+  {
+    "id": "251099c5-33f1-42e5-9cc4-b90f4a941286",
+    "type": "column",
+    "url": null,
+    "parent": "116feb94-c561-46b0-bb5c-932c746879c5",
+    "contents": {}
+  },
+  {
+    "id": "4eb2acfc-0590-47b0-844a-de08fa95052b",
+    "type": "callout",
+    "url": null,
+    "parent": "251099c5-33f1-42e5-9cc4-b90f4a941286",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Coming Up…",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Coming Up…",
+          "href": null
+        }
+      ],
+      "icon": {
+        "type": "emoji",
+        "emoji": "🎉"
+      },
+      "color": "gray_background"
+    }
+  },
+  {
+    "id": "76e2f935-dfd0-42dc-bc14-e64f0ba5d77b",
+    "type": "child_database",
+    "url": null,
+    "parent": "4eb2acfc-0590-47b0-844a-de08fa95052b",
+    "contents": {
+      "title": ""
+    }
+  },
+  {
+    "id": "1ddc1182-39f1-491e-8d13-67f7536d91d3",
+    "type": "paragraph",
+    "url": null,
+    "parent": "4eb2acfc-0590-47b0-844a-de08fa95052b",
+    "contents": {
+      "rich_text": [],
+      "color": "default"
+    }
+  },
+  {
+    "id": "03d680c9-7a32-4ab1-9b24-4dc53760b141",
+    "type": "divider",
+    "url": null,
+    "parent": "e1cf4d50-c509-4d06-aa8a-cedd13ee9ca6",
+    "contents": {}
+  },
+  {
+    "id": "88d9472e-bc54-44c6-b523-26faa9227574",
+    "type": "callout",
+    "url": null,
+    "parent": "e1cf4d50-c509-4d06-aa8a-cedd13ee9ca6",
+    "contents": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Relationships",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Relationships",
+          "href": null
+        }
+      ],
+      "icon": {
+        "type": "emoji",
+        "emoji": "🙏"
+      },
+      "color": "gray_background"
+    }
+  },
+  {
+    "id": "e7e5a549-2af7-4819-a411-b7b08e10c31e",
+    "type": "child_database",
+    "url": null,
+    "parent": "88d9472e-bc54-44c6-b523-26faa9227574",
+    "contents": {
+      "title": ""
+    }
+  },
+  {
+    "id": "d05a9edd-8f4e-4858-bf11-d5cd952d8dc7",
+    "type": "divider",
+    "url": null,
+    "parent": "e1cf4d50-c509-4d06-aa8a-cedd13ee9ca6",
+    "contents": {}
+  },
+  {
+    "id": "fa465258-f59e-491d-9f39-f448307e0eda",
+    "type": "paragraph",
+    "url": null,
+    "parent": "e1cf4d50-c509-4d06-aa8a-cedd13ee9ca6",
+    "contents": {
+      "rich_text": [],
+      "color": "default"
+    }
+  },
+  {
+    "id": "c6a43c54-7a78-4278-af51-e66c4f38a1bd",
+    "type": "paragraph",
+    "url": null,
+    "parent": "df94a7d2-43f1-4ed8-87d5-1b155f82ada1",
+    "contents": {
+      "rich_text": [],
+      "color": "default"
+    }
+  }
+]
