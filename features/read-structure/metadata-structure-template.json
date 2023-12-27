@@ -36,33 +36,6 @@
     }
   },
   {
-    "id": "2d03e6fd-6cba-4cac-a891-b93c467abdc2",
-    "type": "child_page",
-    "url": "https://www.notion.so/2d03e6fd6cba4caca891b93c467abdc2",
-    "parent": "f4189443-107e-4970-a3b8-a93fe0e0ad58",
-    "contents": {
-      "title": ""
-    }
-  },
-  {
-    "id": "5107bff2-c356-4f41-8760-6958faaa664e",
-    "type": "child_page",
-    "url": "https://www.notion.so/5107bff2c3564f4187606958faaa664e",
-    "parent": "f4189443-107e-4970-a3b8-a93fe0e0ad58",
-    "contents": {
-      "title": ""
-    }
-  },
-  {
-    "id": "8ea99694-80a0-4484-ba29-466345e80ac5",
-    "type": "child_page",
-    "url": "https://www.notion.so/8ea9969480a04484ba29466345e80ac5",
-    "parent": "f4189443-107e-4970-a3b8-a93fe0e0ad58",
-    "contents": {
-      "title": ""
-    }
-  },
-  {
     "id": "937baf1c-1660-4f12-ba0f-af295526f149",
     "type": "paragraph",
     "url": null,
@@ -114,27 +87,7 @@
     "url": null,
     "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "菜谱&购物清单",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "菜谱&购物清单",
-          "href": null
-        }
-      ],
-      "is_toggleable": false,
-      "color": "default"
+      "rich_text": "菜谱&购物清单"
     }
   },
   {
@@ -143,27 +96,7 @@
     "url": null,
     "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "鸡翅",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "鸡翅",
-          "href": null
-        }
-      ],
-      "checked": false,
-      "color": "default"
+      "rich_text": "鸡翅"
     }
   },
   {
@@ -172,27 +105,7 @@
     "url": null,
     "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "培根",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "培根",
-          "href": null
-        }
-      ],
-      "checked": false,
-      "color": "default"
+      "rich_text": "培根"
     }
   },
   {
@@ -201,27 +114,7 @@
     "url": null,
     "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "金针菇",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "金针菇",
-          "href": null
-        }
-      ],
-      "checked": false,
-      "color": "default"
+      "rich_text": "金针菇"
     }
   },
   {
@@ -230,27 +123,7 @@
     "url": null,
     "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "锡纸",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "锡纸",
-          "href": null
-        }
-      ],
-      "checked": false,
-      "color": "default"
+      "rich_text": "锡纸"
     }
   },
   {
@@ -259,27 +132,7 @@
     "url": null,
     "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "🐷带一个烤盘",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "🐷带一个烤盘",
-          "href": null
-        }
-      ],
-      "checked": false,
-      "color": "default"
+      "rich_text": "🐷带一个烤盘"
     }
   },
   {
@@ -288,27 +141,7 @@
     "url": null,
     "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "芦笋",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "芦笋",
-          "href": null
-        }
-      ],
-      "checked": false,
-      "color": "default"
+      "rich_text": "芦笋"
     }
   },
   {
@@ -317,27 +150,7 @@
     "url": null,
     "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "厚切长条五花肉",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "厚切长条五花肉",
-          "href": null
-        }
-      ],
-      "checked": false,
-      "color": "default"
+      "rich_text": "厚切长条五花肉"
     }
   },
   {
@@ -346,27 +159,7 @@
     "url": null,
     "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "韩式牛肉片",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "韩式牛肉片",
-          "href": null
-        }
-      ],
-      "checked": false,
-      "color": "default"
+      "rich_text": "韩式牛肉片"
     }
   },
   {
@@ -375,27 +168,7 @@
     "url": null,
     "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "炒豆芽",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "炒豆芽",
-          "href": null
-        }
-      ],
-      "checked": false,
-      "color": "default"
+      "rich_text": "炒豆芽"
     }
   },
   {
@@ -404,27 +177,7 @@
     "url": null,
     "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "腊肠炒饭",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "腊肠炒饭",
-          "href": null
-        }
-      ],
-      "checked": false,
-      "color": "default"
+      "rich_text": "腊肠炒饭"
     }
   },
   {
@@ -433,27 +186,7 @@
     "url": null,
     "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "炒土豆丝",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "炒土豆丝",
-          "href": null
-        }
-      ],
-      "checked": false,
-      "color": "default"
+      "rich_text": "炒土豆丝"
     }
   },
   {
@@ -462,27 +195,7 @@
     "url": null,
     "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "一次性盘子&杯子",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "一次性盘子&杯子",
-          "href": null
-        }
-      ],
-      "checked": false,
-      "color": "default"
+      "rich_text": "一次性盘子&杯子"
     }
   },
   {
@@ -491,27 +204,7 @@
     "url": null,
     "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "🍺",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "🍺",
-          "href": null
-        }
-      ],
-      "checked": false,
-      "color": "default"
+      "rich_text": "🍺"
     }
   },
   {
@@ -520,27 +213,7 @@
     "url": null,
     "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "Coke Zero - Family Size",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "Coke Zero - Family Size",
-          "href": null
-        }
-      ],
-      "checked": false,
-      "color": "default"
+      "rich_text": "Coke Zero - Family Size"
     }
   },
   {
@@ -549,27 +222,7 @@
     "url": null,
     "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "薯片Family Size",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "薯片Family Size",
-          "href": null
-        }
-      ],
-      "checked": false,
-      "color": "default"
+      "rich_text": "薯片Family Size"
     }
   },
   {
@@ -578,27 +231,7 @@
     "url": null,
     "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "橙汁儿",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "橙汁儿",
-          "href": null
-        }
-      ],
-      "checked": false,
-      "color": "default"
+      "rich_text": "橙汁儿"
     }
   },
   {
@@ -607,27 +240,7 @@
     "url": null,
     "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "西葫芦",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "西葫芦",
-          "href": null
-        }
-      ],
-      "checked": false,
-      "color": "default"
+      "rich_text": "西葫芦"
     }
   },
   {
@@ -636,27 +249,7 @@
     "url": null,
     "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "蒜蓉煎豆腐",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "蒜蓉煎豆腐",
-          "href": null
-        }
-      ],
-      "checked": false,
-      "color": "default"
+      "rich_text": "蒜蓉煎豆腐"
     }
   },
   {
@@ -665,27 +258,7 @@
     "url": null,
     "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "生菜卷烤肉",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "生菜卷烤肉",
-          "href": null
-        }
-      ],
-      "checked": false,
-      "color": "default"
+      "rich_text": "生菜卷烤肉"
     }
   },
   {
@@ -694,27 +267,7 @@
     "url": null,
     "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "烧烤酱 - 🐷哥酱 & 韩式烧烤酱",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "烧烤酱 - 🐷哥酱 & 韩式烧烤酱",
-          "href": null
-        }
-      ],
-      "checked": false,
-      "color": "default"
+      "rich_text": "烧烤酱 - 🐷哥酱 & 韩式烧烤酱"
     }
   },
   {
@@ -723,27 +276,7 @@
     "url": null,
     "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "香肠",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "香肠",
-          "href": null
-        }
-      ],
-      "checked": false,
-      "color": "default"
+      "rich_text": "香肠"
     }
   },
   {
@@ -752,27 +285,7 @@
     "url": null,
     "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "🐷带垃圾袋",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "🐷带垃圾袋",
-          "href": null
-        }
-      ],
-      "checked": false,
-      "color": "default"
+      "rich_text": "🐷带垃圾袋"
     }
   },
   {
@@ -839,27 +352,7 @@
     "url": null,
     "parent": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "CLV Pitching",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "CLV Pitching",
-          "href": null
-        }
-      ],
-      "is_toggleable": false,
-      "color": "default"
+      "rich_text": "CLV Pitching"
     }
   },
   {
@@ -868,26 +361,7 @@
     "url": null,
     "parent": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "CLV是一个集合ChatGPT和Notion为一体的工具。我们都想要AI来帮助我们，而不是替代我们。因此我就在想AI能怎么帮助我们提升效率，以及减轻负担。",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "CLV是一个集合ChatGPT和Notion为一体的工具。我们都想要AI来帮助我们，而不是替代我们。因此我就在想AI能怎么帮助我们提升效率，以及减轻负担。",
-          "href": null
-        }
-      ],
-      "color": "default"
+      "rich_text": "CLV是一个集合ChatGPT和Notion为一体的工具。我们都想要AI来帮助我们，而不是替代我们。"
     }
   },
   {
@@ -896,26 +370,7 @@
     "url": null,
     "parent": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "我发现的问题：",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "我发现的问题：",
-          "href": null
-        }
-      ],
-      "color": "default"
+      "rich_text": "我发现的问题："
     }
   },
   {
@@ -924,26 +379,7 @@
     "url": null,
     "parent": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "每个人都能从一点生活里的管理学的知识中受益",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "每个人都能从一点生活里的管理学的知识中受益",
-          "href": null
-        }
-      ],
-      "color": "default"
+      "rich_text": "每个人都能从一点生活里的管理学的知识中受益"
     }
   },
   {
@@ -952,26 +388,7 @@
     "url": null,
     "parent": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "人们的管理工具大同小异，但是种类繁多、难以选择，会让人无法专注",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "人们的管理工具大同小异，但是种类繁多、难以选择，会让人无法专注",
-          "href": null
-        }
-      ],
-      "color": "default"
+      "rich_text": "人们的管理工具大同小异，但是种类繁多、难以选择，会让人无法专注"
     }
   },
   {
@@ -980,26 +397,7 @@
     "url": null,
     "parent": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "大部分管理工具过于复杂",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "大部分管理工具过于复杂",
-          "href": null
-        }
-      ],
-      "color": "default"
+      "rich_text": "大部分管理工具过于复杂"
     }
   },
   {
@@ -1008,26 +406,7 @@
     "url": null,
     "parent": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "然而开发一个复杂且全面的生活管理工具非常复杂，但现在有这样的一个小风口：GPT和Notion的结合工具。",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "然而开发一个复杂且全面的生活管理工具非常复杂，但现在有这样的一个小风口：GPT和Notion的结合工具。",
-          "href": null
-        }
-      ],
-      "color": "default"
+      "rich_text": "然而开发一个复杂且全面的生活管理工具非常复杂，但现在有这样的一个小风口：GPT和Notion的结合工"
     }
   },
   {
@@ -1036,26 +415,7 @@
     "url": null,
     "parent": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "GPT可以提供自然语言的界面，同时拥有语音对话、网上浏览、写程序做分析等功能。",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "GPT可以提供自然语言的界面，同时拥有语音对话、网上浏览、写程序做分析等功能。",
-          "href": null
-        }
-      ],
-      "color": "default"
+      "rich_text": "GPT可以提供自然语言的界面，同时拥有语音对话、网上浏览、写程序做分析等功能。"
     }
   },
   {
@@ -1064,26 +424,7 @@
     "url": null,
     "parent": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "Notion可以提供一个非常全面且flexible的API，并且可以做出非常美观好看的dashboard，使用起来便捷，并且对于使用的用户的正反馈很多。",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "Notion可以提供一个非常全面且flexible的API，并且可以做出非常美观好看的dashboard，使用起来便捷，并且对于使用的用户的正反馈很多。",
-          "href": null
-        }
-      ],
-      "color": "default"
+      "rich_text": "Notion可以提供一个非常全面且flexible的API，并且可以做出非常美观好看的dashboa"
     }
   },
   {
@@ -1092,26 +433,7 @@
     "url": null,
     "parent": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "因此做这个东西会是一个很好的赚钱的机会，可以很快做出来，并且赚钱的方式很多。",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "因此做这个东西会是一个很好的赚钱的机会，可以很快做出来，并且赚钱的方式很多。",
-          "href": null
-        }
-      ],
-      "color": "default"
+      "rich_text": "因此做这个东西会是一个很好的赚钱的机会，可以很快做出来，并且赚钱的方式很多。"
     }
   },
   {
@@ -1120,26 +442,7 @@
     "url": null,
     "parent": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "想做成这个项目需要从GPT和Notion两头做出努力to meet each other in the middle - 需要Notion好看高效，也需要ChatGPT本身能够handle不同的request。",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "想做成这个项目需要从GPT和Notion两头做出努力to meet each other in the middle - 需要Notion好看高效，也需要ChatGPT本身能够handle不同的request。",
-          "href": null
-        }
-      ],
-      "color": "default"
+      "rich_text": "想做成这个项目需要从GPT和Notion两头做出努力to meet each other in th"
     }
   },
   {
@@ -1238,27 +541,7 @@
     "url": null,
     "parent": "1bcb2135-5466-4bcd-bb97-b088891b508d",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "Timeline",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "Timeline",
-          "href": null
-        }
-      ],
-      "is_toggleable": false,
-      "color": "default"
+      "rich_text": "Timeline"
     }
   },
   {
@@ -1267,26 +550,7 @@
     "url": null,
     "parent": "1bcb2135-5466-4bcd-bb97-b088891b508d",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "March 1st - May 15th",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "March 1st - May 15th",
-          "href": null
-        }
-      ],
-      "color": "default"
+      "rich_text": "March 1st - May 15th"
     }
   },
   {
@@ -1295,27 +559,7 @@
     "url": null,
     "parent": "1bcb2135-5466-4bcd-bb97-b088891b508d",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "Daily Requirements",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "Daily Requirements",
-          "href": null
-        }
-      ],
-      "is_toggleable": false,
-      "color": "default"
+      "rich_text": "Daily Requirements"
     }
   },
   {
@@ -1324,26 +568,7 @@
     "url": null,
     "parent": "1bcb2135-5466-4bcd-bb97-b088891b508d",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "Read 10 pages - non-fiction",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "Read 10 pages - non-fiction",
-          "href": null
-        }
-      ],
-      "color": "default"
+      "rich_text": "Read 10 pages - non-fiction"
     }
   },
   {
@@ -1352,26 +577,7 @@
     "url": null,
     "parent": "1bcb2135-5466-4bcd-bb97-b088891b508d",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "Normal diet - no alcohol, no cheat meals",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "Normal diet - no alcohol, no cheat meals",
-          "href": null
-        }
-      ],
-      "color": "default"
+      "rich_text": "Normal diet - no alcohol, no cheat meals"
     }
   },
   {
@@ -1380,26 +586,7 @@
     "url": null,
     "parent": "1bcb2135-5466-4bcd-bb97-b088891b508d",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "1h workout - ≥ 30 mins outdoors",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "1h workout - ≥ 30 mins outdoors",
-          "href": null
-        }
-      ],
-      "color": "default"
+      "rich_text": "1h workout - ≥ 30 mins outdoors"
     }
   },
   {
@@ -1408,26 +595,7 @@
     "url": null,
     "parent": "1bcb2135-5466-4bcd-bb97-b088891b508d",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "Progress photo - upper body",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "Progress photo - upper body",
-          "href": null
-        }
-      ],
-      "color": "default"
+      "rich_text": "Progress photo - upper body"
     }
   },
   {
@@ -1436,26 +604,7 @@
     "url": null,
     "parent": "1bcb2135-5466-4bcd-bb97-b088891b508d",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "1 gallon water",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "1 gallon water",
-          "href": null
-        }
-      ],
-      "color": "default"
+      "rich_text": "1 gallon water"
     }
   },
   {
@@ -1464,27 +613,7 @@
     "url": null,
     "parent": "1bcb2135-5466-4bcd-bb97-b088891b508d",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "Tracking",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "Tracking",
-          "href": null
-        }
-      ],
-      "is_toggleable": false,
-      "color": "default"
+      "rich_text": "Tracking"
     }
   },
   {
@@ -1494,15 +623,6 @@
     "parent": "1bcb2135-5466-4bcd-bb97-b088891b508d",
     "contents": {
       "title": "75 HARD Tracker"
-    }
-  },
-  {
-    "id": "7c11bad0-fe97-498b-94e9-f07ea1f84832",
-    "type": "child_page",
-    "url": "https://www.notion.so/7c11bad0fe97498b94e9f07ea1f84832",
-    "parent": "231ef178-3aab-40a2-b89d-a8b27200a7a5",
-    "contents": {
-      "title": ""
     }
   },
   {
@@ -1561,33 +681,6 @@
     }
   },
   {
-    "id": "e4713b2c-3ef9-4e03-8cad-2ac1367e0d38",
-    "type": "child_page",
-    "url": "https://www.notion.so/e4713b2c3ef94e038cad2ac1367e0d38",
-    "parent": "c0783226-1118-488a-9a2f-51c29902e1e6",
-    "contents": {
-      "title": ""
-    }
-  },
-  {
-    "id": "ecb4beb9-d446-4885-a451-51e8097162a5",
-    "type": "child_page",
-    "url": "https://www.notion.so/ecb4beb9d4464885a45151e8097162a5",
-    "parent": "c0783226-1118-488a-9a2f-51c29902e1e6",
-    "contents": {
-      "title": ""
-    }
-  },
-  {
-    "id": "f6095c62-165c-4ddf-9786-f0237911118a",
-    "type": "child_page",
-    "url": "https://www.notion.so/f6095c62165c4ddf9786f0237911118a",
-    "parent": "c0783226-1118-488a-9a2f-51c29902e1e6",
-    "contents": {
-      "title": ""
-    }
-  },
-  {
     "id": "750bf05a-932e-4f9d-856c-dcc1f6d011bf",
     "type": "child_page",
     "url": "https://www.notion.so/750bf05a932e4f9d856cdcc1f6d011bf",
@@ -1606,33 +699,6 @@
     }
   },
   {
-    "id": "1dcb8c4a-a205-48bc-87a2-217adb09af55",
-    "type": "child_page",
-    "url": "https://www.notion.so/1dcb8c4aa20548bc87a2217adb09af55",
-    "parent": "ba7c1f96-c4f8-497c-b214-fea7e5be387e",
-    "contents": {
-      "title": ""
-    }
-  },
-  {
-    "id": "2de28961-c8fd-4c6d-b62c-5bbcd63d85c3",
-    "type": "child_page",
-    "url": "https://www.notion.so/2de28961c8fd4c6db62c5bbcd63d85c3",
-    "parent": "ba7c1f96-c4f8-497c-b214-fea7e5be387e",
-    "contents": {
-      "title": ""
-    }
-  },
-  {
-    "id": "b414d890-4d6f-46a7-8dc3-805630ada5fb",
-    "type": "child_page",
-    "url": "https://www.notion.so/b414d8904d6f46a78dc3805630ada5fb",
-    "parent": "ba7c1f96-c4f8-497c-b214-fea7e5be387e",
-    "contents": {
-      "title": ""
-    }
-  },
-  {
     "id": "aa318afe-f9d4-4b08-9ac8-e5d3d75d94a0",
     "type": "child_page",
     "url": "https://www.notion.so/aa318afef9d44b089ac8e5d3d75d94a0",
@@ -1646,33 +712,6 @@
     "type": "child_database",
     "url": null,
     "parent": "aa318afe-f9d4-4b08-9ac8-e5d3d75d94a0",
-    "contents": {
-      "title": ""
-    }
-  },
-  {
-    "id": "06581271-63a6-46c3-9d85-3ad93c75690a",
-    "type": "child_page",
-    "url": "https://www.notion.so/0658127163a646c39d853ad93c75690a",
-    "parent": "3b83b26c-d372-418a-9dc6-c3ff7395f38b",
-    "contents": {
-      "title": ""
-    }
-  },
-  {
-    "id": "ae11364c-dc3d-42ff-938e-cdddb429538f",
-    "type": "child_page",
-    "url": "https://www.notion.so/ae11364cdc3d42ff938ecdddb429538f",
-    "parent": "3b83b26c-d372-418a-9dc6-c3ff7395f38b",
-    "contents": {
-      "title": ""
-    }
-  },
-  {
-    "id": "cd268e7c-a5a3-4e38-985d-ef08fa9e2ef9",
-    "type": "child_page",
-    "url": "https://www.notion.so/cd268e7ca5a34e38985def08fa9e2ef9",
-    "parent": "3b83b26c-d372-418a-9dc6-c3ff7395f38b",
     "contents": {
       "title": ""
     }
@@ -1712,27 +751,7 @@
     "url": null,
     "parent": "921f6ee5-cef7-4ac4-b628-2f7c7aa5892a",
     "contents": {
-      "caption": [],
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "\"well-being\": {\n      \"description\": \"The user's overall well-being.\", \n      \"subcategories\": {\n          \"physical\": {\n              \"description\": \"Physical well-being such as workouts, sleep, nutrition\",\n              \"block_id\": \"\",\n              \"subcategories\": {\n                  \"workout-tracker\": {\n                      \"description\": \"Tracking workout routines\",\n                      \"block_id\": \"\"\n                  },\n                  \"food-tracker\": {\n                      \"description\": \"Food intake tracker\",\n                      \"block_id\": \"\"\n                  },\n                  \"sleep-journal\": {\n                      \"description\": \"Journal for sleeping qualities, dreams, etc.\",\n                      \"block_id\": \"\"\n                  },\n                  \"water-tracker\": {\n                      \"description\": \"Daily water intake tracker\",\n                      \"block_id\": \"\"\n                  }\n              }\n          },\n          \"mental-emotional\": {\n              \"description\": \"Mental & emotional well-being.\",\n              \"block_id\": \"\",\n              \"subcategories\": {\n                  \"gratitude-journal\": {\n                      \"description\": \"Things that the user appreciates everyday\",\n                      \"block_id\": \"\"\n                  },\n                  \"meditation-tracker\": {\n                      \"description\": \"Tracking meditation time, frequency, and feeling\",\n                      \"block_id\": \"\"\n                  },\n                  \"emotion-journal\": {\n                      \"description\": \"Emotional journaling\",\n                      \"block_id\": \"\"\n                  }\n              }\n          }\n      },\n      \"block_id\": \"\"\n  }",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "\"well-being\": {\n      \"description\": \"The user's overall well-being.\", \n      \"subcategories\": {\n          \"physical\": {\n              \"description\": \"Physical well-being such as workouts, sleep, nutrition\",\n              \"block_id\": \"\",\n              \"subcategories\": {\n                  \"workout-tracker\": {\n                      \"description\": \"Tracking workout routines\",\n                      \"block_id\": \"\"\n                  },\n                  \"food-tracker\": {\n                      \"description\": \"Food intake tracker\",\n                      \"block_id\": \"\"\n                  },\n                  \"sleep-journal\": {\n                      \"description\": \"Journal for sleeping qualities, dreams, etc.\",\n                      \"block_id\": \"\"\n                  },\n                  \"water-tracker\": {\n                      \"description\": \"Daily water intake tracker\",\n                      \"block_id\": \"\"\n                  }\n              }\n          },\n          \"mental-emotional\": {\n              \"description\": \"Mental & emotional well-being.\",\n              \"block_id\": \"\",\n              \"subcategories\": {\n                  \"gratitude-journal\": {\n                      \"description\": \"Things that the user appreciates everyday\",\n                      \"block_id\": \"\"\n                  },\n                  \"meditation-tracker\": {\n                      \"description\": \"Tracking meditation time, frequency, and feeling\",\n                      \"block_id\": \"\"\n                  },\n                  \"emotion-journal\": {\n                      \"description\": \"Emotional journaling\",\n                      \"block_id\": \"\"\n                  }\n              }\n          }\n      },\n      \"block_id\": \"\"\n  }",
-          "href": null
-        }
-      ],
-      "language": "json"
+      "rich_text": "\"well-being\": {\n      \"description\": \"The user's o"
     }
   },
   {
@@ -1795,27 +814,7 @@
     "url": null,
     "parent": "1da51b81-ee18-4111-b9ce-6bb66e241d1a",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "Who is this person to you?",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "Who is this person to you?",
-          "href": null
-        }
-      ],
-      "is_toggleable": false,
-      "color": "default"
+      "rich_text": "Who is this person to you?"
     }
   },
   {
@@ -1834,27 +833,7 @@
     "url": null,
     "parent": "1da51b81-ee18-4111-b9ce-6bb66e241d1a",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "How did you meet?",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "How did you meet?",
-          "href": null
-        }
-      ],
-      "is_toggleable": false,
-      "color": "default"
+      "rich_text": "How did you meet?"
     }
   },
   {
@@ -1873,27 +852,7 @@
     "url": null,
     "parent": "1da51b81-ee18-4111-b9ce-6bb66e241d1a",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "What’s special?",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "What’s special?",
-          "href": null
-        }
-      ],
-      "is_toggleable": false,
-      "color": "default"
+      "rich_text": "What’s special?"
     }
   },
   {
@@ -1912,27 +871,7 @@
     "url": null,
     "parent": "1da51b81-ee18-4111-b9ce-6bb66e241d1a",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "Timeline",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "Timeline",
-          "href": null
-        }
-      ],
-      "is_toggleable": false,
-      "color": "default"
+      "rich_text": "Timeline"
     }
   },
   {
@@ -1969,27 +908,7 @@
     "url": null,
     "parent": "1f01f9e4-8516-4584-80fa-dc4ed0470622",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "Who is this person to you?",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "Who is this person to you?",
-          "href": null
-        }
-      ],
-      "is_toggleable": false,
-      "color": "default"
+      "rich_text": "Who is this person to you?"
     }
   },
   {
@@ -2008,27 +927,7 @@
     "url": null,
     "parent": "1f01f9e4-8516-4584-80fa-dc4ed0470622",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "How did you meet?",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "How did you meet?",
-          "href": null
-        }
-      ],
-      "is_toggleable": false,
-      "color": "default"
+      "rich_text": "How did you meet?"
     }
   },
   {
@@ -2047,27 +946,7 @@
     "url": null,
     "parent": "1f01f9e4-8516-4584-80fa-dc4ed0470622",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "What’s special?",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "What’s special?",
-          "href": null
-        }
-      ],
-      "is_toggleable": false,
-      "color": "default"
+      "rich_text": "What’s special?"
     }
   },
   {
@@ -2086,27 +965,7 @@
     "url": null,
     "parent": "1f01f9e4-8516-4584-80fa-dc4ed0470622",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "Timeline",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "Timeline",
-          "href": null
-        }
-      ],
-      "is_toggleable": false,
-      "color": "default"
+      "rich_text": "Timeline"
     }
   },
   {
@@ -2143,27 +1002,7 @@
     "url": null,
     "parent": "2242ea11-b935-4f49-9f9e-badf7d9a22ef",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "Who is this person to you?",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "Who is this person to you?",
-          "href": null
-        }
-      ],
-      "is_toggleable": false,
-      "color": "default"
+      "rich_text": "Who is this person to you?"
     }
   },
   {
@@ -2172,26 +1011,7 @@
     "url": null,
     "parent": "2242ea11-b935-4f49-9f9e-badf7d9a22ef",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "It’s me, myself, and I.",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "It’s me, myself, and I.",
-          "href": null
-        }
-      ],
-      "color": "default"
+      "rich_text": "It’s me, myself, and I."
     }
   },
   {
@@ -2200,27 +1020,7 @@
     "url": null,
     "parent": "2242ea11-b935-4f49-9f9e-badf7d9a22ef",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "What’s special?",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "What’s special?",
-          "href": null
-        }
-      ],
-      "is_toggleable": false,
-      "color": "default"
+      "rich_text": "What’s special?"
     }
   },
   {
@@ -2229,26 +1029,7 @@
     "url": null,
     "parent": "2242ea11-b935-4f49-9f9e-badf7d9a22ef",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "Keep trying!",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "Keep trying!",
-          "href": null
-        }
-      ],
-      "color": "default"
+      "rich_text": "Keep trying!"
     }
   },
   {
@@ -2257,27 +1038,7 @@
     "url": null,
     "parent": "2242ea11-b935-4f49-9f9e-badf7d9a22ef",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "Timeline",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "Timeline",
-          "href": null
-        }
-      ],
-      "is_toggleable": false,
-      "color": "default"
+      "rich_text": "Timeline"
     }
   },
   {
@@ -2305,27 +1066,7 @@
     "url": null,
     "parent": "e1cf4d50-c509-4d06-aa8a-cedd13ee9ca6",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "Dashboard Components",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "Dashboard Components",
-          "href": null
-        }
-      ],
-      "is_toggleable": false,
-      "color": "default"
+      "rich_text": "Dashboard Components"
     }
   },
   {
@@ -2334,27 +1075,7 @@
     "url": null,
     "parent": "e1cf4d50-c509-4d06-aa8a-cedd13ee9ca6",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "“Next Birthday” widget",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "“Next Birthday” widget",
-          "href": null
-        }
-      ],
-      "checked": false,
-      "color": "default"
+      "rich_text": "“Next Birthday” widget"
     }
   },
   {
@@ -2363,27 +1084,7 @@
     "url": null,
     "parent": "e1cf4d50-c509-4d06-aa8a-cedd13ee9ca6",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "“Coming Up” widget - scroll through coming up events with friends",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "“Coming Up” widget - scroll through coming up events with friends",
-          "href": null
-        }
-      ],
-      "checked": false,
-      "color": "default"
+      "rich_text": "“Coming Up” widget - scroll through coming up even"
     }
   },
   {
@@ -2392,27 +1093,7 @@
     "url": null,
     "parent": "e1cf4d50-c509-4d06-aa8a-cedd13ee9ca6",
     "contents": {
-      "rich_text": [
-        {
-          "type": "text",
-          "text": {
-            "content": "“Relationship Analytics” - where are they, how many per relationship tag, how many in different communities",
-            "link": null
-          },
-          "annotations": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "underline": false,
-            "code": false,
-            "color": "default"
-          },
-          "plain_text": "“Relationship Analytics” - where are they, how many per relationship tag, how many in different communities",
-          "href": null
-        }
-      ],
-      "checked": false,
-      "color": "default"
+      "rich_text": "“Relationship Analytics” - where are they, how man"
     }
   },
   {
@@ -2589,25 +1270,5 @@
     "url": null,
     "parent": "e1cf4d50-c509-4d06-aa8a-cedd13ee9ca6",
     "contents": {}
-  },
-  {
-    "id": "fa465258-f59e-491d-9f39-f448307e0eda",
-    "type": "paragraph",
-    "url": null,
-    "parent": "e1cf4d50-c509-4d06-aa8a-cedd13ee9ca6",
-    "contents": {
-      "rich_text": [],
-      "color": "default"
-    }
-  },
-  {
-    "id": "c6a43c54-7a78-4278-af51-e66c4f38a1bd",
-    "type": "paragraph",
-    "url": null,
-    "parent": "df94a7d2-43f1-4ed8-87d5-1b155f82ada1",
-    "contents": {
-      "rich_text": [],
-      "color": "default"
-    }
   }
 ]

@@ -1,7 +1,6 @@
 const axios = require('axios');
 const fs = require('fs');
 
-
 const startBlockId = 'df94a7d243f14ed887d51b155f82ada1'; // Replace with your actual block ID
 
 // API Call Auth
@@ -21,7 +20,7 @@ async function processBlock(blockId, parentId = null) {
         // Requirements: Block ID, Block Type, Block Title, Block Parent, Block Contents (Contents are tricky).
         // Note: In nested structures, parsing Notion API responses can really benefit from using the "type" key.
         // Logic: If/elses for the content part? Need to get either the title or the first couple of characters in whatever the content is.
-        // Usually it's `rich_text` or `title` - but need to handle everything
+        // Usually it's `rich_text` or `title` - but every scenario must be accounted for.
         typeObj = block.type
         let blockObj = {
             id: block.id,
@@ -30,8 +29,10 @@ async function processBlock(blockId, parentId = null) {
             parent: parentId,
             contents: block[typeObj]
         };
+        // .push means append
         blocks.push(blockObj);
 
+        // High level type for the block
         if (block.type === 'child_database') {
             // Fetch all entries (pages) in the database and get their IDs
             const queryResponse = await axios.post(`https://api.notion.com/v1/databases/${block.id}/query`);
@@ -42,6 +43,17 @@ async function processBlock(blockId, parentId = null) {
             // Process children of the page or block
             await processBlockChildren(block.id, block.id);
         }
+        
+        // Handle the content part here
+        if ("rich_text" in block[typeObj]) {
+            blockObj.contents = {"rich_text": block[typeObj]["rich_text"][0].text.content.slice(0, 50)}
+        } else if ("title" in block[typeObj]) {
+            blockObj.contents = {"title": block[typeObj]["title"]}
+        } else {
+            blockObj.contents = block[typeObj]
+        }
+
+        // Transform to JSON compatible string
         let data = blocks;
         let jsonData = JSON.stringify(data, null, 2);
         
