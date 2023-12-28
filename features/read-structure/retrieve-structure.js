@@ -3,6 +3,24 @@ const fs = require('fs');
 
 const startBlockId = 'df94a7d243f14ed887d51b155f82ada1'; // Replace with your actual block ID
 
+function logErrorToFile(error) {
+    const timestamp = new Date().toISOString();
+    const errorMessage = `[${timestamp}] Error: ${error}\n`;
+
+    fs.appendFile('error-log.txt', errorMessage, (err) => {
+        if (err) {
+            console.error('Error writing to log file', err);
+        }
+    });
+}
+
+function sleep(milliseconds) {
+    setTimeout(() => {
+        console.log("==========================================");
+    }, milliseconds);
+}
+
+
 // API Call Auth
 // axios.defaults.headers.common['Authorization'] = `Bearer ${process.env.NOTION_API_KEY}`;
 axios.defaults.headers.common['Authorization'] = `Bearer ${process.env.NOTION_API_KEY_PROD}`;
@@ -51,6 +69,7 @@ async function processBlock(blockId, parentId = null) {
         } else if ("title" in block[typeObj]) {
             blockObj.contents = {"title": block[typeObj]["title"]}
         } else {
+            console.log("Neither `rich_text` nor `title`.")
             blockObj.contents = block[typeObj]
         }
 
@@ -65,7 +84,12 @@ async function processBlock(blockId, parentId = null) {
         });
     } catch (error) {
         console.error('Error processing block:', error);
+        logErrorToFile(error);
+        logErrorToFile(blockId);
+
     }
+    // Adding a sleep function to avoid too many requests at the same time.
+    sleep(100);
 };
 
 async function processBlockChildren(blockId, parentId) {
