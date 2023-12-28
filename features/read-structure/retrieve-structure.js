@@ -13,12 +13,10 @@ function logErrorToFile(error) {
         }
     });
 }
-
 function sleep(milliseconds) {
-    setTimeout(() => {
-        console.log("==========================================");
-    }, milliseconds);
+    return new Promise(resolve => setTimeout(resolve, milliseconds));
 }
+
 
 
 // API Call Auth
@@ -28,6 +26,8 @@ axios.defaults.headers.post['Content-Type'] = 'application/json';
 axios.defaults.headers.common['Notion-Version'] = '2022-02-22';
 
 let blocks = []; // Array to hold the information for each block
+// New set of logs
+logErrorToFile("====================================================================================");
 
 async function processBlock(blockId, parentId = null) {
     try {
@@ -39,13 +39,16 @@ async function processBlock(blockId, parentId = null) {
         // Note: In nested structures, parsing Notion API responses can really benefit from using the "type" key.
         // Logic: If/elses for the content part? Need to get either the title or the first couple of characters in whatever the content is.
         // Usually it's `rich_text` or `title` - but every scenario must be accounted for.
-        typeObj = block.type
+        typeObj = block.type;
+        // Show the ID and type
+        console.log("Block ID: "+blockId+" Type: "+typeObj);
+        blockContent = JSON.stringify(block[typeObj]);
         let blockObj = {
             id: block.id,
             type: block.type,
             url: block.type === 'child_page' ? `https://www.notion.so/${block.id.replace(/-/g, '')}` : null,
             parent: parentId,
-            contents: block[typeObj]
+            contents: blockContent
         };
         // .push means append
         blocks.push(blockObj);
@@ -64,14 +67,31 @@ async function processBlock(blockId, parentId = null) {
         
         // Handle the content part here
         // It works so far - but need to handle the `else` part a bit better
-        if ("rich_text" in block[typeObj]) {
-            blockObj.contents = {"rich_text": block[typeObj]["rich_text"][0].text.content.slice(0, 50)}
-        } else if ("title" in block[typeObj]) {
-            blockObj.contents = {"title": block[typeObj]["title"]}
+        // Details matter
+        if (typeObj && JSON.parse(blockContent)) {
+            if (JSON.parse(blockContent).hasOwnProperty("title")) {
+                    blockObj.contents = {"title": JSON.parse(blockContent).title};
+                
+            } else if (JSON.parse(blockContent).hasOwnProperty("rich_text")) {
+                // blockObj.contents = {"rich_text": blockContent["rich_text"][0].text.content.slice(0, 50)};
+                if (JSON.parse(blockContent).rich_text.length > 0) {
+                    if (JSON.parse(blockContent).rich_text.hasOwnProperty("type")) {
+                        richTextTypeObj = JSON.parse(blockContent).rich_text[0].type;
+                        blockObj.contents = {"rich_text": JSON.parse(blockContent).rich_text[0][richTextTypeObj].content};
+                    } else {
+                        blockObj.contents = {"rich_text": JSON.parse(blockContent).rich_text[0].text};
+                    }
+                } else {
+                    blockObj.contents = {"rich_text": JSON.parse(blockContent).rich_text};
+                }
+            } else {
+                console.log("Neither `rich_text` nor `title`."+" Type: "+Object.keys(JSON.parse(blockContent)));
+                blockObj.contents = blockContent;
+            }
         } else {
-            console.log("Neither `rich_text` nor `title`.")
-            blockObj.contents = block[typeObj]
-        }
+            console.log("ID: "+blockId+" Issue: `"+typeObj+"` not found in API response - or API response has an error:"+block);
+            logErrorToFile("ID: "+blockId+" Issue: `"+typeObj+"` not found in API response - or API response has an error."+block);
+        };
 
         // Transform to JSON compatible string
         let data = blocks;
@@ -83,13 +103,12 @@ async function processBlock(blockId, parentId = null) {
         console.log('Data written to file');
         });
     } catch (error) {
-        console.error('Error processing block:', error);
+        console.error('Error processing block: '+blockId);
         logErrorToFile(error);
         logErrorToFile(blockId);
-
     }
     // Adding a sleep function to avoid too many requests at the same time.
-    sleep(100);
+    await sleep(100);
 };
 
 async function processBlockChildren(blockId, parentId) {
@@ -105,7 +124,7 @@ async function processBlockChildren(blockId, parentId) {
 
 async function getHierarchy() {
     await processBlock(startBlockId);
-    console.log(JSON.stringify(blocks, null, 2)); // Log the JSON structure of blocks
+    // console.log(JSON.stringify(blocks, null, 2)); // Log the JSON structure of blocks
 };
 
 getHierarchy();
