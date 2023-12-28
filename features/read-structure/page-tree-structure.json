@@ -1,0 +1,1266 @@
+[
+    {
+        "type": "child_page",
+        "id": "df94a7d2-43f1-4ed8-87d5-1b155f82ada1",
+        "contents": {
+            "title": "Template Sandbox"
+        },
+        "children": [
+            {
+                "type": "child_database",
+                "id": "d026a7bb-94f2-465e-8732-b02343b1a479",
+                "contents": {
+                    "title": "CLV"
+                },
+                "children": [
+                    {
+                        "type": "child_page",
+                        "id": "b01ef335-be8a-46a2-bf10-51ffe9bd1bd6",
+                        "contents": {
+                            "title": "Beliefs & Practices"
+                        },
+                        "children": [
+                            {
+                                "type": "child_database",
+                                "id": "f4189443-107e-4970-a3b8-a93fe0e0ad58",
+                                "contents": {
+                                    "title": ""
+                                },
+                                "children": []
+                            },
+                            {
+                                "type": "paragraph",
+                                "id": "937baf1c-1660-4f12-ba0f-af295526f149",
+                                "contents": {
+                                    "contents": []
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "type": "child_page",
+                        "id": "42b52718-e4c1-4fd3-9232-0e774a59eccf",
+                        "contents": {
+                            "title": "Time Management"
+                        },
+                        "children": [
+                            {
+                                "type": "child_database",
+                                "id": "79f048f0-19f0-4fbd-b888-9ff795a99507",
+                                "contents": {
+                                    "title": "Personal Calendar"
+                                },
+                                "children": [
+                                    {
+                                        "type": "child_page",
+                                        "id": "16dfd1d8-f9f7-4839-aa5e-e5dd995fa558",
+                                        "contents": {
+                                            "title": "Dinner with Ben"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "type": "child_page",
+                                        "id": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
+                                        "contents": {
+                                            "title": "Lily’s Place Eat Eat"
+                                        },
+                                        "children": [
+                                            {
+                                                "type": "heading_1",
+                                                "id": "6a34cc9a-c8a9-4d1e-804f-a9b45883d5ff",
+                                                "contents": {
+                                                    "rich_text": "菜谱&购物清单"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "type": "to_do",
+                                                        "id": "75f41f7d-809e-4c1c-9184-0ba0de8ecbe4",
+                                                        "contents": {
+                                                            "rich_text": "鸡翅"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "type": "to_do",
+                                                        "id": "f65821d1-4286-46af-b625-9c77feae60c1",
+                                                        "contents": {
+                                                            "rich_text": "培根"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "type": "to_do",
+                                                        "id": "55a8eb84-d262-473d-b095-f912aa45ab16",
+                                                        "contents": {
+                                                            "rich_text": "金针菇"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "type": "to_do",
+                                                        "id": "b6d45699-17ff-4107-a5c9-6952a5b31157",
+                                                        "contents": {
+                                                            "rich_text": "锡纸"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "type": "to_do",
+                                                        "id": "9d5b6c74-18e6-40fd-bd79-6e53b651a0e5",
+                                                        "contents": {
+                                                            "rich_text": "🐷带一个烤盘"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "type": "to_do",
+                                                        "id": "ecc9da2a-2b88-4bb2-ab71-c6f7d0d3b33c",
+                                                        "contents": {
+                                                            "rich_text": "凉拌黄瓜丝"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "type": "to_do",
+                                                        "id": "d4abce7c-fef8-4284-87c0-5e5b5ef39009",
+                                                        "contents": {
+                                                            "rich_text": "厚切长条五花肉"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "type": "to_do",
+                                                        "id": "c2c9800d-00ad-4b26-9b7f-56d6654d150b",
+                                                        "contents": {
+                                                            "rich_text": "韩式牛肉片"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "type": "to_do",
+                                                        "id": "0844524e-ed5e-4e36-b09b-71fe86036f93",
+                                                        "contents": {
+                                                            "rich_text": "炒豆芽"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "type": "to_do",
+                                                        "id": "3bb632f3-d49f-433a-8139-06789ef8241c",
+                                                        "contents": {
+                                                            "rich_text": "腊肠炒饭"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "type": "to_do",
+                                                        "id": "2ed18c21-11cf-4356-915b-f15a62cb2fc5",
+                                                        "contents": {
+                                                            "rich_text": "炒土豆丝"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "type": "to_do",
+                                                        "id": "b1adc620-5f06-494d-99be-8d96f65ad42b",
+                                                        "contents": {
+                                                            "rich_text": "一次性盘子&杯子"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "type": "to_do",
+                                                        "id": "f88fa756-4ac9-4aa6-b2b8-1931c6a69990",
+                                                        "contents": {
+                                                            "rich_text": "🍺"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "type": "to_do",
+                                                        "id": "7f986430-78e2-4f0a-bebb-b8c694d15aff",
+                                                        "contents": {
+                                                            "rich_text": "Coke Zero - Family Size"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "type": "to_do",
+                                                        "id": "7fb60cfc-8f64-4dfc-87f7-ed4eb5e85013",
+                                                        "contents": {
+                                                            "rich_text": "薯片Family Size"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "type": "to_do",
+                                                        "id": "ce6f78ab-d9c6-4f8b-bce2-b2bd59f4314f",
+                                                        "contents": {
+                                                            "rich_text": "橙汁儿"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "type": "to_do",
+                                                        "id": "04be2a41-5051-4bae-b276-39d97115f5e8",
+                                                        "contents": {
+                                                            "rich_text": "西葫芦"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "type": "to_do",
+                                                        "id": "df9b147b-79fb-4ee2-b3e7-ab4489a63204",
+                                                        "contents": {
+                                                            "rich_text": "蒜蓉煎豆腐"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "type": "to_do",
+                                                        "id": "8a337424-402a-40ca-81a7-7bfdfe29d269",
+                                                        "contents": {
+                                                            "rich_text": "生菜卷烤肉"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "type": "to_do",
+                                                        "id": "16b45e1f-90fc-4f0d-b9d8-6b7191012d9d",
+                                                        "contents": {
+                                                            "rich_text": "烧烤酱 - 🐷哥酱 & 韩式烧烤酱"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "type": "to_do",
+                                                        "id": "056b8597-4cc0-42cc-8f78-9c6bbe940b79",
+                                                        "contents": {
+                                                            "rich_text": "香肠"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "type": "to_do",
+                                                        "id": "4134e84f-ee58-4992-b6fe-4bd91932971e",
+                                                        "contents": {
+                                                            "rich_text": "🐷带垃圾袋"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "heading_1",
+                                                "id": "0aad1fe2-f64b-4351-86fd-ef459899ab65",
+                                                "contents": {
+                                                    "rich_text": "Cooking"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "type": "table",
+                                                        "id": "c339e795-e827-41c9-9fe9-6d36fc93e108",
+                                                        "contents": {
+                                                            "contents": {
+                                                                "table_width": 7,
+                                                                "has_column_header": false,
+                                                                "has_row_header": false
+                                                            }
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "type": "table_row",
+                                                                "id": "95d39bb7-1c8e-451d-aac7-3879323ac6b1",
+                                                                "contents": {
+                                                                    "contents": [
+                                                                        [
+                                                                            "Status"
+                                                                        ],
+                                                                        [
+                                                                            "Dish"
+                                                                        ],
+                                                                        [
+                                                                            "Cook Top"
+                                                                        ],
+                                                                        [
+                                                                            "Oven"
+                                                                        ],
+                                                                        [
+                                                                            "Air Fryer"
+                                                                        ],
+                                                                        [
+                                                                            "Time"
+                                                                        ],
+                                                                        [
+                                                                            "Amount"
+                                                                        ]
+                                                                    ]
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "table_row",
+                                                                "id": "a245292b-041f-4e1a-ad2c-5ee933e21129",
+                                                                "contents": {
+                                                                    "contents": [
+                                                                        [
+                                                                            "Yes"
+                                                                        ],
+                                                                        [
+                                                                            "烤鸡腿"
+                                                                        ],
+                                                                        [],
+                                                                        [
+                                                                            "200 C"
+                                                                        ],
+                                                                        [],
+                                                                        [
+                                                                            "25 mins"
+                                                                        ],
+                                                                        [
+                                                                            "8 drumsticks"
+                                                                        ]
+                                                                    ]
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "table_row",
+                                                                "id": "3c7a2da3-28a6-49ba-b9ad-8651340f8770",
+                                                                "contents": {
+                                                                    "contents": [
+                                                                        [
+                                                                            "Yes"
+                                                                        ],
+                                                                        [
+                                                                            "培根金针菇"
+                                                                        ],
+                                                                        [],
+                                                                        [],
+                                                                        [
+                                                                            "180 C"
+                                                                        ],
+                                                                        [
+                                                                            "8 mins"
+                                                                        ],
+                                                                        [
+                                                                            "10"
+                                                                        ]
+                                                                    ]
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "table_row",
+                                                                "id": "4fba2c69-9da2-4770-832d-69030e1ed2b4",
+                                                                "contents": {
+                                                                    "contents": [
+                                                                        [
+                                                                            "Yes"
+                                                                        ],
+                                                                        [
+                                                                            "腊肠炒饭"
+                                                                        ],
+                                                                        [
+                                                                            "Big Pan"
+                                                                        ],
+                                                                        [],
+                                                                        [],
+                                                                        [],
+                                                                        [
+                                                                            "6 bowls"
+                                                                        ]
+                                                                    ]
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "table_row",
+                                                                "id": "c072e703-3787-4207-b3f8-d61a5bd5f060",
+                                                                "contents": {
+                                                                    "contents": [
+                                                                        [
+                                                                            "Yes"
+                                                                        ],
+                                                                        [
+                                                                            "炒豆芽菜"
+                                                                        ],
+                                                                        [
+                                                                            "Big Pan"
+                                                                        ],
+                                                                        [],
+                                                                        [],
+                                                                        [],
+                                                                        [
+                                                                            "3/4 bag"
+                                                                        ]
+                                                                    ]
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "table_row",
+                                                                "id": "fa6091e8-b12c-4232-876b-933849066099",
+                                                                "contents": {
+                                                                    "contents": [
+                                                                        [
+                                                                            "No"
+                                                                        ],
+                                                                        [
+                                                                            "炒土豆丝"
+                                                                        ],
+                                                                        [
+                                                                            "Big Pan"
+                                                                        ],
+                                                                        [],
+                                                                        [],
+                                                                        [],
+                                                                        []
+                                                                    ]
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "table_row",
+                                                                "id": "6c396cca-047e-4294-bb67-c4d2dc32849e",
+                                                                "contents": {
+                                                                    "contents": [
+                                                                        [
+                                                                            "Yes"
+                                                                        ],
+                                                                        [
+                                                                            "凉拌黄瓜"
+                                                                        ],
+                                                                        [],
+                                                                        [],
+                                                                        [],
+                                                                        [],
+                                                                        [
+                                                                            "1 whole"
+                                                                        ]
+                                                                    ]
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "table_row",
+                                                                "id": "0c58cc10-4e60-4636-ba6e-87017daee779",
+                                                                "contents": {
+                                                                    "contents": [
+                                                                        [
+                                                                            "Yes"
+                                                                        ],
+                                                                        [
+                                                                            "韩式牛肉片"
+                                                                        ],
+                                                                        [],
+                                                                        [
+                                                                            "200 C"
+                                                                        ],
+                                                                        [],
+                                                                        [
+                                                                            "15 mins"
+                                                                        ],
+                                                                        [
+                                                                            "1 pack"
+                                                                        ]
+                                                                    ]
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "table_row",
+                                                                "id": "9dfab964-16fc-40e0-8efa-0245946ef498",
+                                                                "contents": {
+                                                                    "contents": [
+                                                                        [
+                                                                            "Yes"
+                                                                        ],
+                                                                        [
+                                                                            "西葫芦"
+                                                                        ],
+                                                                        [],
+                                                                        [
+                                                                            "200 C"
+                                                                        ],
+                                                                        [],
+                                                                        [
+                                                                            "18 mins"
+                                                                        ],
+                                                                        [
+                                                                            "2"
+                                                                        ]
+                                                                    ]
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "table_row",
+                                                                "id": "fc3f3b67-7d98-4e52-b367-7c2316ce5c00",
+                                                                "contents": {
+                                                                    "contents": [
+                                                                        [
+                                                                            "No"
+                                                                        ],
+                                                                        [
+                                                                            "蒜蓉煎豆腐"
+                                                                        ],
+                                                                        [
+                                                                            "Small Pan"
+                                                                        ],
+                                                                        [],
+                                                                        [],
+                                                                        [],
+                                                                        []
+                                                                    ]
+                                                                },
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "id": "fb4e3a2c-1a35-496d-a2c0-dba703007b65",
+                                                        "contents": {
+                                                            "contents": []
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "child_page",
+                                        "id": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
+                                        "contents": {
+                                            "title": "Jenny & Inks"
+                                        },
+                                        "children": [
+                                            {
+                                                "type": "heading_1",
+                                                "id": "636a88ce-c041-4404-b4b8-5010f998daaa",
+                                                "contents": {
+                                                    "rich_text": "CLV Pitching"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "id": "53b94d76-c037-4b65-9ff2-adbf69fd8481",
+                                                "contents": {
+                                                    "rich_text": "CLV是一个集合ChatGPT和Notion为一体的工具。我们都想要AI来帮助我们，而不是替代我们。因此我就在想AI能怎么帮助我们提升效率，以及减轻负担。"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "id": "28c2916d-ca39-46d2-9d46-d7ce0b133599",
+                                                "contents": {
+                                                    "rich_text": "我发现的问题："
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "type": "bulleted_list_item",
+                                                "id": "ece79f94-9d03-41e6-a551-ffeb3241d9b8",
+                                                "contents": {
+                                                    "rich_text": "每个人都能从一点生活里的管理学的知识中受益"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "type": "bulleted_list_item",
+                                                "id": "f32f57dc-4b99-4f23-956e-a9971bd114a3",
+                                                "contents": {
+                                                    "rich_text": "人们的管理工具大同小异，但是种类繁多、难以选择，会让人无法专注"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "type": "bulleted_list_item",
+                                                "id": "45d7c16b-6c06-4df4-97b5-d78de83722fc",
+                                                "contents": {
+                                                    "rich_text": "大部分管理工具过于复杂"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "id": "f8ceb5be-8236-4fd9-b3b0-4999be54ebaf",
+                                                "contents": {
+                                                    "rich_text": "然而开发一个复杂且全面的生活管理工具非常复杂，但现在有这样的一个小风口：GPT和Notion的结合工具。"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "id": "c547f9d8-2f6a-492b-8e18-dd502a4fe7a1",
+                                                "contents": {
+                                                    "rich_text": "GPT可以提供自然语言的界面，同时拥有语音对话、网上浏览、写程序做分析等功能。"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "id": "be399a07-84eb-4935-80d5-3f99afd64c8b",
+                                                "contents": {
+                                                    "rich_text": "Notion可以提供一个非常全面且flexible的API，并且可以做出非常美观好看的dashboard，使用起来便捷，并且对于使用的用户的正反馈很多。"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "id": "50c5038c-083a-404c-a34a-8bd8da8ac2aa",
+                                                "contents": {
+                                                    "rich_text": "因此做这个东西会是一个很好的赚钱的机会，可以很快做出来，并且赚钱的方式很多。"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "id": "0a6262ad-b4ec-481d-906b-568a6de88fa4",
+                                                "contents": {
+                                                    "rich_text": "想做成这个项目需要从GPT和Notion两头做出努力to meet each other in the middle - 需要Notion好看高效，也需要ChatGPT本身能够handle不同的request。"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "id": "61b0adf7-e8f5-4fa2-ae6a-654fc924bc67",
+                                                "contents": {
+                                                    "contents": []
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "paragraph",
+                                "id": "7ddcee26-1346-4b54-bc9c-33d1445cb550",
+                                "contents": {
+                                    "contents": []
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "type": "child_page",
+                        "id": "5954afc3-a749-449d-893c-017a0ead54a4",
+                        "contents": {
+                            "title": "Personal Growth"
+                        },
+                        "children": [
+                            {
+                                "type": "child_database",
+                                "id": "93dc25f2-705f-451c-907c-001f7fec4528",
+                                "contents": {
+                                    "title": "growth goals"
+                                },
+                                "children": [
+                                    {
+                                        "type": "child_page",
+                                        "id": "8e0ae3d5-f3bc-4e2e-80b6-934f50cfdfbf",
+                                        "contents": {
+                                            "title": "Write"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "type": "child_page",
+                                        "id": "f8045110-0103-4b14-a79c-65f5b467adf2",
+                                        "contents": {
+                                            "title": "2024 Resolution"
+                                        },
+                                        "children": [
+                                            {
+                                                "type": "child_database",
+                                                "id": "8e102626-f912-4f11-a403-7b50a4ab7261",
+                                                "contents": {
+                                                    "title": "2024 Resolution"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "type": "child_page",
+                                                        "id": "ca6ac7c0-153d-4a6a-850c-39bc8d35607e",
+                                                        "contents": {
+                                                            "title": "Release CLV v1.0"
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "type": "unsupported",
+                                                                "id": "e9cd1bed-3bca-4f44-9ba9-cc31b5b97641",
+                                                                "contents": {
+                                                                    "contents": {}
+                                                                },
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "type": "child_page",
+                                                        "id": "1bcb2135-5466-4bcd-bb97-b088891b508d",
+                                                        "contents": {
+                                                            "title": "75 HARD 2024"
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "type": "heading_1",
+                                                                "id": "674f1509-9cab-462e-a039-2a3a15a6c67b",
+                                                                "contents": {
+                                                                    "rich_text": "Timeline"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "paragraph",
+                                                                "id": "c5a7fd4f-3b30-47ee-9c18-cfe79b591b51",
+                                                                "contents": {
+                                                                    "rich_text": "March 1st - May 15th"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "heading_1",
+                                                                "id": "6bbe5253-eb07-4681-8bc9-3a5169f30dde",
+                                                                "contents": {
+                                                                    "rich_text": "Daily Requirements"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "numbered_list_item",
+                                                                "id": "f7d02e90-20af-49bb-90e1-ca984c9b051b",
+                                                                "contents": {
+                                                                    "rich_text": "Read 10 pages - non-fiction"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "numbered_list_item",
+                                                                "id": "b097a7c9-9671-472a-81cd-9766da3d81ad",
+                                                                "contents": {
+                                                                    "rich_text": "Normal diet - no alcohol, no cheat meals"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "numbered_list_item",
+                                                                "id": "d6256c4c-5c86-41bf-8a55-e86b18d4db08",
+                                                                "contents": {
+                                                                    "rich_text": "1h workout - ≥ 30 mins outdoors"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "numbered_list_item",
+                                                                "id": "7887b12a-3306-43db-865d-715c00010379",
+                                                                "contents": {
+                                                                    "rich_text": "Progress photo - upper body"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "numbered_list_item",
+                                                                "id": "b5ce8fde-5ecd-4f09-bc6c-8b31028af42d",
+                                                                "contents": {
+                                                                    "rich_text": "1 gallon water"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "heading_1",
+                                                                "id": "1f7006b8-7320-42c0-b363-c01ec3452451",
+                                                                "contents": {
+                                                                    "rich_text": "Tracking"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "child_database",
+                                                                "id": "231ef178-3aab-40a2-b89d-a8b27200a7a5",
+                                                                "contents": {
+                                                                    "title": "75 HARD Tracker"
+                                                                },
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "type": "child_page",
+                                                        "id": "4eb974d7-6ed9-4243-9bae-c942ea847a56",
+                                                        "contents": {
+                                                            "title": "20 Books"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "type": "child_page",
+                                                        "id": "7d438795-340c-4c67-b5c9-476ec1148a00",
+                                                        "contents": {
+                                                            "title": "Morning Runs x 300"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "type": "child_page",
+                                                        "id": "ee6dd5fe-fc7f-4913-b385-61dc25e3679e",
+                                                        "contents": {
+                                                            "title": "Gym 45 x 180"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "id": "277e3581-a4a6-45a0-b8bc-afe36b754460",
+                                                "contents": {
+                                                    "contents": []
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "child_page",
+                        "id": "fe1120c0-0e74-4ea2-a098-f6d574280f86",
+                        "contents": {
+                            "title": "Finances"
+                        },
+                        "children": [
+                            {
+                                "type": "child_database",
+                                "id": "c0783226-1118-488a-9a2f-51c29902e1e6",
+                                "contents": {
+                                    "title": ""
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "type": "child_page",
+                        "id": "750bf05a-932e-4f9d-856c-dcc1f6d011bf",
+                        "contents": {
+                            "title": "Professional"
+                        },
+                        "children": [
+                            {
+                                "type": "child_database",
+                                "id": "ba7c1f96-c4f8-497c-b214-fea7e5be387e",
+                                "contents": {
+                                    "title": ""
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "type": "child_page",
+                        "id": "aa318afe-f9d4-4b08-9ac8-e5d3d75d94a0",
+                        "contents": {
+                            "title": "Well Being"
+                        },
+                        "children": [
+                            {
+                                "type": "child_database",
+                                "id": "3b83b26c-d372-418a-9dc6-c3ff7395f38b",
+                                "contents": {
+                                    "title": ""
+                                },
+                                "children": []
+                            },
+                            {
+                                "type": "paragraph",
+                                "id": "1e7f5a5e-dab4-4fc1-b5c0-2ce0fddb99bb",
+                                "contents": {
+                                    "contents": []
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "type": "child_page",
+                        "id": "e1cf4d50-c509-4d06-aa8a-cedd13ee9ca6",
+                        "contents": {
+                            "title": "Social & Relationships"
+                        },
+                        "children": [
+                            {
+                                "type": "child_database",
+                                "id": "60781c17-6be9-4ece-b487-8a0547d2295b",
+                                "contents": {
+                                    "title": "Contact List"
+                                },
+                                "children": [
+                                    {
+                                        "type": "child_page",
+                                        "id": "f49359be-0e67-4844-a747-f1681055b91f",
+                                        "contents": {
+                                            "title": "Minjia Zhu"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "type": "child_page",
+                                        "id": "3aa42057-ab6b-4932-af86-0119041bda29",
+                                        "contents": {
+                                            "title": "Boyuan Liu"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "type": "child_page",
+                                        "id": "0fac8d8d-e16a-47d9-b74c-4f57a0090794",
+                                        "contents": {
+                                            "title": "Mocha Jiang"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "type": "child_page",
+                                        "id": "1da51b81-ee18-4111-b9ce-6bb66e241d1a",
+                                        "contents": {
+                                            "title": "Grace Xu"
+                                        },
+                                        "children": [
+                                            {
+                                                "type": "heading_1",
+                                                "id": "e067c02e-8b1c-4632-ac27-dc17e3b3684f",
+                                                "contents": {
+                                                    "rich_text": "Who is this person to you?"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "id": "b1f68803-cd3b-47af-827e-9968addabc68",
+                                                "contents": {
+                                                    "contents": []
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "type": "heading_1",
+                                                "id": "1add1b33-013f-4c9f-8541-27ecaeee7b11",
+                                                "contents": {
+                                                    "rich_text": "How did you meet?"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "id": "0060c162-c521-4858-a398-f5bb0c57ec66",
+                                                "contents": {
+                                                    "contents": []
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "type": "heading_1",
+                                                "id": "4590ca9e-c8c6-4fa4-9a4d-ac0c63b85b78",
+                                                "contents": {
+                                                    "rich_text": "What’s special?"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "id": "c3aa6563-d5a3-4ab1-bc2b-958d8f131fce",
+                                                "contents": {
+                                                    "contents": []
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "type": "heading_1",
+                                                "id": "73f1dc48-b3a2-41ce-bffc-3b0ba0640e1d",
+                                                "contents": {
+                                                    "rich_text": "Timeline"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "id": "1f398c68-9353-4642-aadf-225858e3681a",
+                                                "contents": {
+                                                    "contents": []
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "child_page",
+                                        "id": "1f01f9e4-8516-4584-80fa-dc4ed0470622",
+                                        "contents": {
+                                            "title": "Lily Zhou"
+                                        },
+                                        "children": [
+                                            {
+                                                "type": "heading_1",
+                                                "id": "0860f2b3-90a6-4073-8737-dcec6262f640",
+                                                "contents": {
+                                                    "rich_text": "Who is this person to you?"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "id": "dd2a1e1a-4bc9-4e94-a6f7-833a1792f837",
+                                                "contents": {
+                                                    "contents": []
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "type": "heading_1",
+                                                "id": "1d3233f7-2d1c-4041-b55d-08f3b03932a6",
+                                                "contents": {
+                                                    "rich_text": "How did you meet?"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "id": "2f0db5f6-9514-4c45-939c-fc2b5379d673",
+                                                "contents": {
+                                                    "contents": []
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "type": "heading_1",
+                                                "id": "699f28b9-b842-47a3-8dd8-a01b8138f76e",
+                                                "contents": {
+                                                    "rich_text": "What’s special?"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "id": "4fc5d752-9086-4cc1-9280-bd3381120663",
+                                                "contents": {
+                                                    "contents": []
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "type": "heading_1",
+                                                "id": "823bb5df-9fd5-4511-a8e8-debb51e1f207",
+                                                "contents": {
+                                                    "rich_text": "Timeline"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "id": "94d8a42d-6c2c-4175-9c2d-bcf268cfba7d",
+                                                "contents": {
+                                                    "contents": []
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "child_page",
+                                        "id": "2242ea11-b935-4f49-9f9e-badf7d9a22ef",
+                                        "contents": {
+                                            "title": "Jason Zhu"
+                                        },
+                                        "children": [
+                                            {
+                                                "type": "heading_1",
+                                                "id": "a07d07d0-7bde-4eda-843d-714b6445de85",
+                                                "contents": {
+                                                    "rich_text": "Who is this person to you?"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "id": "d0652baf-4743-4d6a-9a41-d36b16b31385",
+                                                "contents": {
+                                                    "rich_text": "It’s me, myself, and I."
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "type": "heading_1",
+                                                "id": "f4d0f30e-ed79-47b2-8bf9-9258fb468fa9",
+                                                "contents": {
+                                                    "rich_text": "What’s special?"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "id": "fd8cded1-c404-422c-ae92-a738eb319cb4",
+                                                "contents": {
+                                                    "rich_text": "Keep trying!"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "type": "heading_1",
+                                                "id": "82c61356-e64d-4aca-b3b1-9688d41adddc",
+                                                "contents": {
+                                                    "rich_text": "Timeline"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "id": "4baa8c81-c521-4400-9388-ed73fe99e29b",
+                                                "contents": {
+                                                    "contents": []
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "heading_2",
+                                "id": "76ff4048-2f52-40b2-9f17-aba87d8e479f",
+                                "contents": {
+                                    "rich_text": "Dashboard Components"
+                                },
+                                "children": []
+                            },
+                            {
+                                "type": "to_do",
+                                "id": "7c3dda23-6586-45b3-92c5-78ea80f6e6d8",
+                                "contents": {
+                                    "rich_text": "“Next Birthday” widget"
+                                },
+                                "children": []
+                            },
+                            {
+                                "type": "to_do",
+                                "id": "9e1b9fee-b956-47ff-b91c-6f0041096773",
+                                "contents": {
+                                    "rich_text": "“Coming Up” widget - scroll through coming up events with friends"
+                                },
+                                "children": []
+                            },
+                            {
+                                "type": "to_do",
+                                "id": "be728fa8-4a48-4b3d-a116-9e15ee63707e",
+                                "contents": {
+                                    "rich_text": "“Relationship Analytics” - where are they, how many per relationship tag, how many in different communities"
+                                },
+                                "children": []
+                            },
+                            {
+                                "type": "divider",
+                                "id": "c11c4a46-09da-4317-80d9-a2f771e43e04",
+                                "contents": {
+                                    "contents": {}
+                                },
+                                "children": []
+                            },
+                            {
+                                "type": "column_list",
+                                "id": "116feb94-c561-46b0-bb5c-932c746879c5",
+                                "contents": {
+                                    "contents": {}
+                                },
+                                "children": [
+                                    {
+                                        "type": "column",
+                                        "id": "5f2816f8-6ef3-4e28-80d1-8542bbeddac0",
+                                        "contents": {
+                                            "contents": {}
+                                        },
+                                        "children": [
+                                            {
+                                                "type": "callout",
+                                                "id": "0bb55a42-7916-4c85-8f79-aed9b27bed47",
+                                                "contents": {
+                                                    "rich_text": "Next Birthday"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "column",
+                                        "id": "251099c5-33f1-42e5-9cc4-b90f4a941286",
+                                        "contents": {
+                                            "contents": {}
+                                        },
+                                        "children": [
+                                            {
+                                                "type": "callout",
+                                                "id": "4eb2acfc-0590-47b0-844a-de08fa95052b",
+                                                "contents": {
+                                                    "rich_text": "Coming Up…"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "id": "1ddc1182-39f1-491e-8d13-67f7536d91d3",
+                                                        "contents": {
+                                                            "contents": []
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "divider",
+                                "id": "03d680c9-7a32-4ab1-9b24-4dc53760b141",
+                                "contents": {
+                                    "contents": {}
+                                },
+                                "children": []
+                            },
+                            {
+                                "type": "callout",
+                                "id": "88d9472e-bc54-44c6-b523-26faa9227574",
+                                "contents": {
+                                    "rich_text": "Relationships"
+                                },
+                                "children": []
+                            },
+                            {
+                                "type": "divider",
+                                "id": "d05a9edd-8f4e-4858-bf11-d5cd952d8dc7",
+                                "contents": {
+                                    "contents": {}
+                                },
+                                "children": []
+                            },
+                            {
+                                "type": "paragraph",
+                                "id": "fa465258-f59e-491d-9f39-f448307e0eda",
+                                "contents": {
+                                    "contents": []
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
