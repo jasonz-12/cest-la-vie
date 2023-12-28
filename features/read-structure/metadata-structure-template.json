@@ -1,32 +1,5 @@
 [
   {
-    "id": "df94a7d2-43f1-4ed8-87d5-1b155f82ada1",
-    "type": "child_page",
-    "url": "https://www.notion.so/df94a7d243f14ed887d51b155f82ada1",
-    "parent": null,
-    "contents": {
-      "rich_text": []
-    }
-  },
-  {
-    "id": "d026a7bb-94f2-465e-8732-b02343b1a479",
-    "type": "child_database",
-    "url": null,
-    "parent": "df94a7d2-43f1-4ed8-87d5-1b155f82ada1",
-    "contents": {
-      "rich_text": []
-    }
-  },
-  {
-    "id": "b01ef335-be8a-46a2-bf10-51ffe9bd1bd6",
-    "type": "child_page",
-    "url": "https://www.notion.so/b01ef335be8a46a2bf1051ffe9bd1bd6",
-    "parent": "d026a7bb-94f2-465e-8732-b02343b1a479",
-    "contents": {
-      "rich_text": []
-    }
-  },
-  {
     "id": "f4189443-107e-4970-a3b8-a93fe0e0ad58",
     "type": "child_database",
     "url": null,
@@ -41,25 +14,16 @@
     "url": null,
     "parent": "b01ef335-be8a-46a2-bf10-51ffe9bd1bd6",
     "contents": {
-      "rich_text": []
+      "contents": []
     }
   },
   {
-    "id": "42b52718-e4c1-4fd3-9232-0e774a59eccf",
+    "id": "b01ef335-be8a-46a2-bf10-51ffe9bd1bd6",
     "type": "child_page",
-    "url": "https://www.notion.so/42b52718e4c14fd392320e774a59eccf",
+    "url": "https://www.notion.so/b01ef335be8a46a2bf1051ffe9bd1bd6",
     "parent": "d026a7bb-94f2-465e-8732-b02343b1a479",
     "contents": {
-      "rich_text": []
-    }
-  },
-  {
-    "id": "79f048f0-19f0-4fbd-b888-9ff795a99507",
-    "type": "child_database",
-    "url": null,
-    "parent": "42b52718-e4c1-4fd3-9232-0e774a59eccf",
-    "contents": {
-      "rich_text": []
+      "title": "Beliefs & Practices"
     }
   },
   {
@@ -72,36 +36,12 @@
     }
   },
   {
-    "id": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
-    "type": "child_page",
-    "url": "https://www.notion.so/a21f7b0a6b5540e5a803a828c9943dd4",
-    "parent": "79f048f0-19f0-4fbd-b888-9ff795a99507",
-    "contents": {
-      "rich_text": []
-    }
-  },
-  {
-    "id": "6a34cc9a-c8a9-4d1e-804f-a9b45883d5ff",
-    "type": "heading_1",
-    "url": null,
-    "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
-    "contents": {
-      "rich_text": {
-        "content": "🐷带垃圾袋",
-        "link": null
-      }
-    }
-  },
-  {
     "id": "75f41f7d-809e-4c1c-9184-0ba0de8ecbe4",
     "type": "to_do",
     "url": null,
     "parent": "6a34cc9a-c8a9-4d1e-804f-a9b45883d5ff",
     "contents": {
-      "rich_text": {
-        "content": "鸡翅",
-        "link": null
-      }
+      "rich_text": "鸡翅"
     }
   },
   {
@@ -110,10 +50,7 @@
     "url": null,
     "parent": "6a34cc9a-c8a9-4d1e-804f-a9b45883d5ff",
     "contents": {
-      "rich_text": {
-        "content": "培根",
-        "link": null
-      }
+      "rich_text": "培根"
     }
   },
   {
@@ -122,10 +59,7 @@
     "url": null,
     "parent": "6a34cc9a-c8a9-4d1e-804f-a9b45883d5ff",
     "contents": {
-      "rich_text": {
-        "content": "金针菇",
-        "link": null
-      }
+      "rich_text": "金针菇"
     }
   },
   {
@@ -134,10 +68,7 @@
     "url": null,
     "parent": "6a34cc9a-c8a9-4d1e-804f-a9b45883d5ff",
     "contents": {
-      "rich_text": {
-        "content": "锡纸",
-        "link": null
-      }
+      "rich_text": "锡纸"
     }
   },
   {
@@ -146,10 +77,7 @@
     "url": null,
     "parent": "6a34cc9a-c8a9-4d1e-804f-a9b45883d5ff",
     "contents": {
-      "rich_text": {
-        "content": "🐷带一个烤盘",
-        "link": null
-      }
+      "rich_text": "🐷带一个烤盘"
     }
   },
   {
@@ -158,10 +86,7 @@
     "url": null,
     "parent": "6a34cc9a-c8a9-4d1e-804f-a9b45883d5ff",
     "contents": {
-      "rich_text": {
-        "content": "凉拌黄瓜丝",
-        "link": null
-      }
+      "rich_text": "凉拌黄瓜丝"
     }
   },
   {
@@ -170,10 +95,7 @@
     "url": null,
     "parent": "6a34cc9a-c8a9-4d1e-804f-a9b45883d5ff",
     "contents": {
-      "rich_text": {
-        "content": "厚切长条五花肉",
-        "link": null
-      }
+      "rich_text": "厚切长条五花肉"
     }
   },
   {
@@ -182,10 +104,7 @@
     "url": null,
     "parent": "6a34cc9a-c8a9-4d1e-804f-a9b45883d5ff",
     "contents": {
-      "rich_text": {
-        "content": "韩式牛肉片",
-        "link": null
-      }
+      "rich_text": "韩式牛肉片"
     }
   },
   {
@@ -194,10 +113,7 @@
     "url": null,
     "parent": "6a34cc9a-c8a9-4d1e-804f-a9b45883d5ff",
     "contents": {
-      "rich_text": {
-        "content": "炒豆芽",
-        "link": null
-      }
+      "rich_text": "炒豆芽"
     }
   },
   {
@@ -206,10 +122,7 @@
     "url": null,
     "parent": "6a34cc9a-c8a9-4d1e-804f-a9b45883d5ff",
     "contents": {
-      "rich_text": {
-        "content": "腊肠炒饭",
-        "link": null
-      }
+      "rich_text": "腊肠炒饭"
     }
   },
   {
@@ -218,10 +131,7 @@
     "url": null,
     "parent": "6a34cc9a-c8a9-4d1e-804f-a9b45883d5ff",
     "contents": {
-      "rich_text": {
-        "content": "炒土豆丝",
-        "link": null
-      }
+      "rich_text": "炒土豆丝"
     }
   },
   {
@@ -230,10 +140,7 @@
     "url": null,
     "parent": "6a34cc9a-c8a9-4d1e-804f-a9b45883d5ff",
     "contents": {
-      "rich_text": {
-        "content": "一次性盘子&杯子",
-        "link": null
-      }
+      "rich_text": "一次性盘子&杯子"
     }
   },
   {
@@ -242,10 +149,7 @@
     "url": null,
     "parent": "6a34cc9a-c8a9-4d1e-804f-a9b45883d5ff",
     "contents": {
-      "rich_text": {
-        "content": "🍺",
-        "link": null
-      }
+      "rich_text": "🍺"
     }
   },
   {
@@ -254,10 +158,7 @@
     "url": null,
     "parent": "6a34cc9a-c8a9-4d1e-804f-a9b45883d5ff",
     "contents": {
-      "rich_text": {
-        "content": "Coke Zero - Family Size",
-        "link": null
-      }
+      "rich_text": "Coke Zero - Family Size"
     }
   },
   {
@@ -266,10 +167,7 @@
     "url": null,
     "parent": "6a34cc9a-c8a9-4d1e-804f-a9b45883d5ff",
     "contents": {
-      "rich_text": {
-        "content": "薯片Family Size",
-        "link": null
-      }
+      "rich_text": "薯片Family Size"
     }
   },
   {
@@ -278,10 +176,7 @@
     "url": null,
     "parent": "6a34cc9a-c8a9-4d1e-804f-a9b45883d5ff",
     "contents": {
-      "rich_text": {
-        "content": "橙汁儿",
-        "link": null
-      }
+      "rich_text": "橙汁儿"
     }
   },
   {
@@ -290,10 +185,7 @@
     "url": null,
     "parent": "6a34cc9a-c8a9-4d1e-804f-a9b45883d5ff",
     "contents": {
-      "rich_text": {
-        "content": "西葫芦",
-        "link": null
-      }
+      "rich_text": "西葫芦"
     }
   },
   {
@@ -302,10 +194,7 @@
     "url": null,
     "parent": "6a34cc9a-c8a9-4d1e-804f-a9b45883d5ff",
     "contents": {
-      "rich_text": {
-        "content": "蒜蓉煎豆腐",
-        "link": null
-      }
+      "rich_text": "蒜蓉煎豆腐"
     }
   },
   {
@@ -314,10 +203,7 @@
     "url": null,
     "parent": "6a34cc9a-c8a9-4d1e-804f-a9b45883d5ff",
     "contents": {
-      "rich_text": {
-        "content": "生菜卷烤肉",
-        "link": null
-      }
+      "rich_text": "生菜卷烤肉"
     }
   },
   {
@@ -326,10 +212,7 @@
     "url": null,
     "parent": "6a34cc9a-c8a9-4d1e-804f-a9b45883d5ff",
     "contents": {
-      "rich_text": {
-        "content": "烧烤酱 - 🐷哥酱 & 韩式烧烤酱",
-        "link": null
-      }
+      "rich_text": "烧烤酱 - 🐷哥酱 & 韩式烧烤酱"
     }
   },
   {
@@ -338,10 +221,7 @@
     "url": null,
     "parent": "6a34cc9a-c8a9-4d1e-804f-a9b45883d5ff",
     "contents": {
-      "rich_text": {
-        "content": "香肠",
-        "link": null
-      }
+      "rich_text": "香肠"
     }
   },
   {
@@ -350,10 +230,296 @@
     "url": null,
     "parent": "6a34cc9a-c8a9-4d1e-804f-a9b45883d5ff",
     "contents": {
-      "rich_text": {
-        "content": "🐷带垃圾袋",
-        "link": null
+      "rich_text": "🐷带垃圾袋"
+    }
+  },
+  {
+    "id": "6a34cc9a-c8a9-4d1e-804f-a9b45883d5ff",
+    "type": "heading_1",
+    "url": null,
+    "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
+    "contents": {
+      "rich_text": "菜谱&购物清单"
+    }
+  },
+  {
+    "id": "95d39bb7-1c8e-451d-aac7-3879323ac6b1",
+    "type": "table_row",
+    "url": null,
+    "parent": "c339e795-e827-41c9-9fe9-6d36fc93e108",
+    "contents": {
+      "contents": [
+        [
+          "Status"
+        ],
+        [
+          "Dish"
+        ],
+        [
+          "Cook Top"
+        ],
+        [
+          "Oven"
+        ],
+        [
+          "Air Fryer"
+        ],
+        [
+          "Time"
+        ],
+        [
+          "Amount"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "a245292b-041f-4e1a-ad2c-5ee933e21129",
+    "type": "table_row",
+    "url": null,
+    "parent": "c339e795-e827-41c9-9fe9-6d36fc93e108",
+    "contents": {
+      "contents": [
+        [
+          "Yes"
+        ],
+        [
+          "烤鸡腿"
+        ],
+        [],
+        [
+          "200 C"
+        ],
+        [],
+        [
+          "25 mins"
+        ],
+        [
+          "8 drumsticks"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "3c7a2da3-28a6-49ba-b9ad-8651340f8770",
+    "type": "table_row",
+    "url": null,
+    "parent": "c339e795-e827-41c9-9fe9-6d36fc93e108",
+    "contents": {
+      "contents": [
+        [
+          "Yes"
+        ],
+        [
+          "培根金针菇"
+        ],
+        [],
+        [],
+        [
+          "180 C"
+        ],
+        [
+          "8 mins"
+        ],
+        [
+          "10"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "4fba2c69-9da2-4770-832d-69030e1ed2b4",
+    "type": "table_row",
+    "url": null,
+    "parent": "c339e795-e827-41c9-9fe9-6d36fc93e108",
+    "contents": {
+      "contents": [
+        [
+          "Yes"
+        ],
+        [
+          "腊肠炒饭"
+        ],
+        [
+          "Big Pan"
+        ],
+        [],
+        [],
+        [],
+        [
+          "6 bowls"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "c072e703-3787-4207-b3f8-d61a5bd5f060",
+    "type": "table_row",
+    "url": null,
+    "parent": "c339e795-e827-41c9-9fe9-6d36fc93e108",
+    "contents": {
+      "contents": [
+        [
+          "Yes"
+        ],
+        [
+          "炒豆芽菜"
+        ],
+        [
+          "Big Pan"
+        ],
+        [],
+        [],
+        [],
+        [
+          "3/4 bag"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "fa6091e8-b12c-4232-876b-933849066099",
+    "type": "table_row",
+    "url": null,
+    "parent": "c339e795-e827-41c9-9fe9-6d36fc93e108",
+    "contents": {
+      "contents": [
+        [
+          "No"
+        ],
+        [
+          "炒土豆丝"
+        ],
+        [
+          "Big Pan"
+        ],
+        [],
+        [],
+        [],
+        []
+      ]
+    }
+  },
+  {
+    "id": "6c396cca-047e-4294-bb67-c4d2dc32849e",
+    "type": "table_row",
+    "url": null,
+    "parent": "c339e795-e827-41c9-9fe9-6d36fc93e108",
+    "contents": {
+      "contents": [
+        [
+          "Yes"
+        ],
+        [
+          "凉拌黄瓜"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "1 whole"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "0c58cc10-4e60-4636-ba6e-87017daee779",
+    "type": "table_row",
+    "url": null,
+    "parent": "c339e795-e827-41c9-9fe9-6d36fc93e108",
+    "contents": {
+      "contents": [
+        [
+          "Yes"
+        ],
+        [
+          "韩式牛肉片"
+        ],
+        [],
+        [
+          "200 C"
+        ],
+        [],
+        [
+          "15 mins"
+        ],
+        [
+          "1 pack"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "9dfab964-16fc-40e0-8efa-0245946ef498",
+    "type": "table_row",
+    "url": null,
+    "parent": "c339e795-e827-41c9-9fe9-6d36fc93e108",
+    "contents": {
+      "contents": [
+        [
+          "Yes"
+        ],
+        [
+          "西葫芦"
+        ],
+        [],
+        [
+          "200 C"
+        ],
+        [],
+        [
+          "18 mins"
+        ],
+        [
+          "2"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "fc3f3b67-7d98-4e52-b367-7c2316ce5c00",
+    "type": "table_row",
+    "url": null,
+    "parent": "c339e795-e827-41c9-9fe9-6d36fc93e108",
+    "contents": {
+      "contents": [
+        [
+          "No"
+        ],
+        [
+          "蒜蓉煎豆腐"
+        ],
+        [
+          "Small Pan"
+        ],
+        [],
+        [],
+        [],
+        []
+      ]
+    }
+  },
+  {
+    "id": "c339e795-e827-41c9-9fe9-6d36fc93e108",
+    "type": "table",
+    "url": null,
+    "parent": "0aad1fe2-f64b-4351-86fd-ef459899ab65",
+    "contents": {
+      "contents": {
+        "table_width": 7,
+        "has_column_header": false,
+        "has_row_header": false
       }
+    }
+  },
+  {
+    "id": "fb4e3a2c-1a35-496d-a2c0-dba703007b65",
+    "type": "paragraph",
+    "url": null,
+    "parent": "0aad1fe2-f64b-4351-86fd-ef459899ab65",
+    "contents": {
+      "contents": []
     }
   },
   {
@@ -362,117 +528,17 @@
     "url": null,
     "parent": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
     "contents": {
-      "rich_text": []
+      "rich_text": "Cooking"
     }
   },
   {
-    "id": "c339e795-e827-41c9-9fe9-6d36fc93e108",
-    "type": "table",
-    "url": null,
-    "parent": "0aad1fe2-f64b-4351-86fd-ef459899ab65",
-    "contents": "{\"cells\":[[{\"type\":\"text\",\"text\":{\"content\":\"No\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"No\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"蒜蓉煎豆腐\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"蒜蓉煎豆腐\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"Small Pan\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Small Pan\",\"href\":null}],[],[],[],[]]}"
-  },
-  {
-    "id": "95d39bb7-1c8e-451d-aac7-3879323ac6b1",
-    "type": "table_row",
-    "url": null,
-    "parent": "c339e795-e827-41c9-9fe9-6d36fc93e108",
-    "contents": "{\"cells\":[[{\"type\":\"text\",\"text\":{\"content\":\"Status\",\"link\":null},\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Status\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"Dish\",\"link\":null},\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Dish\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"Cook Top\",\"link\":null},\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Cook Top\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"Oven\",\"link\":null},\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Oven\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"Air Fryer\",\"link\":null},\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Air Fryer\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"Time\",\"link\":null},\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Time\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"Amount\",\"link\":null},\"annotations\":{\"bold\":true,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Amount\",\"href\":null}]]}"
-  },
-  {
-    "id": "a245292b-041f-4e1a-ad2c-5ee933e21129",
-    "type": "table_row",
-    "url": null,
-    "parent": "c339e795-e827-41c9-9fe9-6d36fc93e108",
-    "contents": "{\"cells\":[[{\"type\":\"text\",\"text\":{\"content\":\"Yes\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Yes\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"烤鸡腿\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"烤鸡腿\",\"href\":null}],[],[{\"type\":\"text\",\"text\":{\"content\":\"200 C\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"200 C\",\"href\":null}],[],[{\"type\":\"text\",\"text\":{\"content\":\"25 mins\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"25 mins\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"8 drumsticks\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"8 drumsticks\",\"href\":null}]]}"
-  },
-  {
-    "id": "3c7a2da3-28a6-49ba-b9ad-8651340f8770",
-    "type": "table_row",
-    "url": null,
-    "parent": "c339e795-e827-41c9-9fe9-6d36fc93e108",
-    "contents": "{\"cells\":[[{\"type\":\"text\",\"text\":{\"content\":\"Yes\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Yes\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"培根金针菇\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"培根金针菇\",\"href\":null}],[],[],[{\"type\":\"text\",\"text\":{\"content\":\"180 C\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"180 C\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"8 mins\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"8 mins\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"10\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"10\",\"href\":null}]]}"
-  },
-  {
-    "id": "4fba2c69-9da2-4770-832d-69030e1ed2b4",
-    "type": "table_row",
-    "url": null,
-    "parent": "c339e795-e827-41c9-9fe9-6d36fc93e108",
-    "contents": "{\"cells\":[[{\"type\":\"text\",\"text\":{\"content\":\"Yes\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Yes\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"腊肠炒饭\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"腊肠炒饭\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"Big Pan\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Big Pan\",\"href\":null}],[],[],[],[{\"type\":\"text\",\"text\":{\"content\":\"6 bowls\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"6 bowls\",\"href\":null}]]}"
-  },
-  {
-    "id": "c072e703-3787-4207-b3f8-d61a5bd5f060",
-    "type": "table_row",
-    "url": null,
-    "parent": "c339e795-e827-41c9-9fe9-6d36fc93e108",
-    "contents": "{\"cells\":[[{\"type\":\"text\",\"text\":{\"content\":\"Yes\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Yes\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"炒豆芽菜\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"炒豆芽菜\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"Big Pan\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Big Pan\",\"href\":null}],[],[],[],[{\"type\":\"text\",\"text\":{\"content\":\"3/4 bag\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"3/4 bag\",\"href\":null}]]}"
-  },
-  {
-    "id": "fa6091e8-b12c-4232-876b-933849066099",
-    "type": "table_row",
-    "url": null,
-    "parent": "c339e795-e827-41c9-9fe9-6d36fc93e108",
-    "contents": "{\"cells\":[[{\"type\":\"text\",\"text\":{\"content\":\"No\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"No\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"炒土豆丝\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"炒土豆丝\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"Big Pan\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Big Pan\",\"href\":null}],[],[],[],[]]}"
-  },
-  {
-    "id": "6c396cca-047e-4294-bb67-c4d2dc32849e",
-    "type": "table_row",
-    "url": null,
-    "parent": "c339e795-e827-41c9-9fe9-6d36fc93e108",
-    "contents": "{\"cells\":[[{\"type\":\"text\",\"text\":{\"content\":\"Yes\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Yes\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"凉拌黄瓜\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"凉拌黄瓜\",\"href\":null}],[],[],[],[],[{\"type\":\"text\",\"text\":{\"content\":\"1 whole\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"1 whole\",\"href\":null}]]}"
-  },
-  {
-    "id": "0c58cc10-4e60-4636-ba6e-87017daee779",
-    "type": "table_row",
-    "url": null,
-    "parent": "c339e795-e827-41c9-9fe9-6d36fc93e108",
-    "contents": "{\"cells\":[[{\"type\":\"text\",\"text\":{\"content\":\"Yes\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Yes\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"韩式牛肉片\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"韩式牛肉片\",\"href\":null}],[],[{\"type\":\"text\",\"text\":{\"content\":\"200 C\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"200 C\",\"href\":null}],[],[{\"type\":\"text\",\"text\":{\"content\":\"15 mins\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"15 mins\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"1 pack\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"1 pack\",\"href\":null}]]}"
-  },
-  {
-    "id": "9dfab964-16fc-40e0-8efa-0245946ef498",
-    "type": "table_row",
-    "url": null,
-    "parent": "c339e795-e827-41c9-9fe9-6d36fc93e108",
-    "contents": "{\"cells\":[[{\"type\":\"text\",\"text\":{\"content\":\"Yes\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Yes\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"西葫芦\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"西葫芦\",\"href\":null}],[],[{\"type\":\"text\",\"text\":{\"content\":\"200 C\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"200 C\",\"href\":null}],[],[{\"type\":\"text\",\"text\":{\"content\":\"18 mins\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"18 mins\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"2\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"2\",\"href\":null}]]}"
-  },
-  {
-    "id": "fc3f3b67-7d98-4e52-b367-7c2316ce5c00",
-    "type": "table_row",
-    "url": null,
-    "parent": "c339e795-e827-41c9-9fe9-6d36fc93e108",
-    "contents": "{\"cells\":[[{\"type\":\"text\",\"text\":{\"content\":\"No\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"No\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"蒜蓉煎豆腐\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"蒜蓉煎豆腐\",\"href\":null}],[{\"type\":\"text\",\"text\":{\"content\":\"Small Pan\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"Small Pan\",\"href\":null}],[],[],[],[]]}"
-  },
-  {
-    "id": "4985e4df-a14b-4ffd-b89e-33de35c97bf8",
-    "type": "paragraph",
-    "url": null,
-    "parent": "0aad1fe2-f64b-4351-86fd-ef459899ab65",
-    "contents": {}
-  },
-  {
-    "id": "fb4e3a2c-1a35-496d-a2c0-dba703007b65",
-    "type": "paragraph",
-    "url": null,
-    "parent": "0aad1fe2-f64b-4351-86fd-ef459899ab65",
-    "contents": {
-      "rich_text": []
-    }
-  },
-  {
-    "id": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
+    "id": "a21f7b0a-6b55-40e5-a803-a828c9943dd4",
     "type": "child_page",
-    "url": "https://www.notion.so/9f3338f850fa4636b6cd34ebcdee9afc",
+    "url": "https://www.notion.so/a21f7b0a6b5540e5a803a828c9943dd4",
     "parent": "79f048f0-19f0-4fbd-b888-9ff795a99507",
     "contents": {
-      "rich_text": []
+      "title": "Lily’s Place Eat Eat"
     }
-  },
-  {
-    "id": "1276fa7a-957f-4f44-8339-cdfc8df39ab2",
-    "type": "paragraph",
-    "url": null,
-    "parent": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
-    "contents": {}
   },
   {
     "id": "636a88ce-c041-4404-b4b8-5010f998daaa",
@@ -480,10 +546,7 @@
     "url": null,
     "parent": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
     "contents": {
-      "rich_text": {
-        "content": "CLV Pitching",
-        "link": null
-      }
+      "rich_text": "CLV Pitching"
     }
   },
   {
@@ -492,10 +555,7 @@
     "url": null,
     "parent": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
     "contents": {
-      "rich_text": {
-        "content": "CLV是一个集合ChatGPT和Notion为一体的工具。我们都想要AI来帮助我们，而不是替代我们。因此我就在想AI能怎么帮助我们提升效率，以及减轻负担。",
-        "link": null
-      }
+      "rich_text": "CLV是一个集合ChatGPT和Notion为一体的工具。我们都想要AI来帮助我们，而不是替代我们。因此我就在想AI能怎么帮助我们提升效率，以及减轻负担。"
     }
   },
   {
@@ -504,10 +564,7 @@
     "url": null,
     "parent": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
     "contents": {
-      "rich_text": {
-        "content": "我发现的问题：",
-        "link": null
-      }
+      "rich_text": "我发现的问题："
     }
   },
   {
@@ -516,10 +573,7 @@
     "url": null,
     "parent": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
     "contents": {
-      "rich_text": {
-        "content": "每个人都能从一点生活里的管理学的知识中受益",
-        "link": null
-      }
+      "rich_text": "每个人都能从一点生活里的管理学的知识中受益"
     }
   },
   {
@@ -528,10 +582,7 @@
     "url": null,
     "parent": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
     "contents": {
-      "rich_text": {
-        "content": "人们的管理工具大同小异，但是种类繁多、难以选择，会让人无法专注",
-        "link": null
-      }
+      "rich_text": "人们的管理工具大同小异，但是种类繁多、难以选择，会让人无法专注"
     }
   },
   {
@@ -540,10 +591,7 @@
     "url": null,
     "parent": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
     "contents": {
-      "rich_text": {
-        "content": "大部分管理工具过于复杂",
-        "link": null
-      }
+      "rich_text": "大部分管理工具过于复杂"
     }
   },
   {
@@ -552,10 +600,7 @@
     "url": null,
     "parent": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
     "contents": {
-      "rich_text": {
-        "content": "然而开发一个复杂且全面的生活管理工具非常复杂，但现在有这样的一个小风口：GPT和Notion的结合工具。",
-        "link": null
-      }
+      "rich_text": "然而开发一个复杂且全面的生活管理工具非常复杂，但现在有这样的一个小风口：GPT和Notion的结合工具。"
     }
   },
   {
@@ -564,10 +609,7 @@
     "url": null,
     "parent": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
     "contents": {
-      "rich_text": {
-        "content": "GPT可以提供自然语言的界面，同时拥有语音对话、网上浏览、写程序做分析等功能。",
-        "link": null
-      }
+      "rich_text": "GPT可以提供自然语言的界面，同时拥有语音对话、网上浏览、写程序做分析等功能。"
     }
   },
   {
@@ -576,10 +618,7 @@
     "url": null,
     "parent": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
     "contents": {
-      "rich_text": {
-        "content": "Notion可以提供一个非常全面且flexible的API，并且可以做出非常美观好看的dashboard，使用起来便捷，并且对于使用的用户的正反馈很多。",
-        "link": null
-      }
+      "rich_text": "Notion可以提供一个非常全面且flexible的API，并且可以做出非常美观好看的dashboard，使用起来便捷，并且对于使用的用户的正反馈很多。"
     }
   },
   {
@@ -588,10 +627,7 @@
     "url": null,
     "parent": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
     "contents": {
-      "rich_text": {
-        "content": "因此做这个东西会是一个很好的赚钱的机会，可以很快做出来，并且赚钱的方式很多。",
-        "link": null
-      }
+      "rich_text": "因此做这个东西会是一个很好的赚钱的机会，可以很快做出来，并且赚钱的方式很多。"
     }
   },
   {
@@ -600,10 +636,7 @@
     "url": null,
     "parent": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
     "contents": {
-      "rich_text": {
-        "content": "想做成这个项目需要从GPT和Notion两头做出努力to meet each other in the middle - 需要Notion好看高效，也需要ChatGPT本身能够handle不同的request。",
-        "link": null
-      }
+      "rich_text": "想做成这个项目需要从GPT和Notion两头做出努力to meet each other in the middle - 需要Notion好看高效，也需要ChatGPT本身能够handle不同的request。"
     }
   },
   {
@@ -612,7 +645,25 @@
     "url": null,
     "parent": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
     "contents": {
-      "rich_text": []
+      "contents": []
+    }
+  },
+  {
+    "id": "9f3338f8-50fa-4636-b6cd-34ebcdee9afc",
+    "type": "child_page",
+    "url": "https://www.notion.so/9f3338f850fa4636b6cd34ebcdee9afc",
+    "parent": "79f048f0-19f0-4fbd-b888-9ff795a99507",
+    "contents": {
+      "title": "Jenny & Inks"
+    }
+  },
+  {
+    "id": "79f048f0-19f0-4fbd-b888-9ff795a99507",
+    "type": "child_database",
+    "url": null,
+    "parent": "42b52718-e4c1-4fd3-9232-0e774a59eccf",
+    "contents": {
+      "title": "Personal Calendar"
     }
   },
   {
@@ -621,25 +672,16 @@
     "url": null,
     "parent": "42b52718-e4c1-4fd3-9232-0e774a59eccf",
     "contents": {
-      "rich_text": []
+      "contents": []
     }
   },
   {
-    "id": "5954afc3-a749-449d-893c-017a0ead54a4",
+    "id": "42b52718-e4c1-4fd3-9232-0e774a59eccf",
     "type": "child_page",
-    "url": "https://www.notion.so/5954afc3a749449d893c017a0ead54a4",
+    "url": "https://www.notion.so/42b52718e4c14fd392320e774a59eccf",
     "parent": "d026a7bb-94f2-465e-8732-b02343b1a479",
     "contents": {
-      "rich_text": []
-    }
-  },
-  {
-    "id": "93dc25f2-705f-451c-907c-001f7fec4528",
-    "type": "child_database",
-    "url": null,
-    "parent": "5954afc3-a749-449d-893c-017a0ead54a4",
-    "contents": {
-      "rich_text": []
+      "title": "Time Management"
     }
   },
   {
@@ -652,21 +694,12 @@
     }
   },
   {
-    "id": "f8045110-0103-4b14-a79c-65f5b467adf2",
-    "type": "child_page",
-    "url": "https://www.notion.so/f804511001034b14a79c65f5b467adf2",
-    "parent": "93dc25f2-705f-451c-907c-001f7fec4528",
-    "contents": {
-      "rich_text": []
-    }
-  },
-  {
-    "id": "8e102626-f912-4f11-a403-7b50a4ab7261",
-    "type": "child_database",
+    "id": "e9cd1bed-3bca-4f44-9ba9-cc31b5b97641",
+    "type": "unsupported",
     "url": null,
-    "parent": "f8045110-0103-4b14-a79c-65f5b467adf2",
+    "parent": "ca6ac7c0-153d-4a6a-850c-39bc8d35607e",
     "contents": {
-      "title": "Gym 45 x 180"
+      "contents": {}
     }
   },
   {
@@ -674,22 +707,8 @@
     "type": "child_page",
     "url": "https://www.notion.so/ca6ac7c0153d4a6a850c39bc8d35607e",
     "parent": "8e102626-f912-4f11-a403-7b50a4ab7261",
-    "contents": "{}"
-  },
-  {
-    "id": "e9cd1bed-3bca-4f44-9ba9-cc31b5b97641",
-    "type": "unsupported",
-    "url": null,
-    "parent": "ca6ac7c0-153d-4a6a-850c-39bc8d35607e",
-    "contents": "{}"
-  },
-  {
-    "id": "1bcb2135-5466-4bcd-bb97-b088891b508d",
-    "type": "child_page",
-    "url": "https://www.notion.so/1bcb213554664bcdbb97b088891b508d",
-    "parent": "8e102626-f912-4f11-a403-7b50a4ab7261",
     "contents": {
-      "title": "75 HARD Tracker"
+      "title": "Release CLV v1.0"
     }
   },
   {
@@ -698,10 +717,7 @@
     "url": null,
     "parent": "1bcb2135-5466-4bcd-bb97-b088891b508d",
     "contents": {
-      "rich_text": {
-        "content": "Timeline",
-        "link": null
-      }
+      "rich_text": "Timeline"
     }
   },
   {
@@ -710,10 +726,7 @@
     "url": null,
     "parent": "1bcb2135-5466-4bcd-bb97-b088891b508d",
     "contents": {
-      "rich_text": {
-        "content": "March 1st - May 15th",
-        "link": null
-      }
+      "rich_text": "March 1st - May 15th"
     }
   },
   {
@@ -722,10 +735,7 @@
     "url": null,
     "parent": "1bcb2135-5466-4bcd-bb97-b088891b508d",
     "contents": {
-      "rich_text": {
-        "content": "Daily Requirements",
-        "link": null
-      }
+      "rich_text": "Daily Requirements"
     }
   },
   {
@@ -734,10 +744,7 @@
     "url": null,
     "parent": "1bcb2135-5466-4bcd-bb97-b088891b508d",
     "contents": {
-      "rich_text": {
-        "content": "Read 10 pages - non-fiction",
-        "link": null
-      }
+      "rich_text": "Read 10 pages - non-fiction"
     }
   },
   {
@@ -746,10 +753,7 @@
     "url": null,
     "parent": "1bcb2135-5466-4bcd-bb97-b088891b508d",
     "contents": {
-      "rich_text": {
-        "content": "Normal diet - no alcohol, no cheat meals",
-        "link": null
-      }
+      "rich_text": "Normal diet - no alcohol, no cheat meals"
     }
   },
   {
@@ -758,10 +762,7 @@
     "url": null,
     "parent": "1bcb2135-5466-4bcd-bb97-b088891b508d",
     "contents": {
-      "rich_text": {
-        "content": "1h workout - ≥ 30 mins outdoors",
-        "link": null
-      }
+      "rich_text": "1h workout - ≥ 30 mins outdoors"
     }
   },
   {
@@ -770,10 +771,7 @@
     "url": null,
     "parent": "1bcb2135-5466-4bcd-bb97-b088891b508d",
     "contents": {
-      "rich_text": {
-        "content": "Progress photo - upper body",
-        "link": null
-      }
+      "rich_text": "Progress photo - upper body"
     }
   },
   {
@@ -782,10 +780,7 @@
     "url": null,
     "parent": "1bcb2135-5466-4bcd-bb97-b088891b508d",
     "contents": {
-      "rich_text": {
-        "content": "1 gallon water",
-        "link": null
-      }
+      "rich_text": "1 gallon water"
     }
   },
   {
@@ -794,10 +789,7 @@
     "url": null,
     "parent": "1bcb2135-5466-4bcd-bb97-b088891b508d",
     "contents": {
-      "rich_text": {
-        "content": "Tracking",
-        "link": null
-      }
+      "rich_text": "Tracking"
     }
   },
   {
@@ -807,6 +799,15 @@
     "parent": "1bcb2135-5466-4bcd-bb97-b088891b508d",
     "contents": {
       "title": "75 HARD Tracker"
+    }
+  },
+  {
+    "id": "1bcb2135-5466-4bcd-bb97-b088891b508d",
+    "type": "child_page",
+    "url": "https://www.notion.so/1bcb213554664bcdbb97b088891b508d",
+    "parent": "8e102626-f912-4f11-a403-7b50a4ab7261",
+    "contents": {
+      "title": "75 HARD 2024"
     }
   },
   {
@@ -837,21 +838,48 @@
     }
   },
   {
+    "id": "8e102626-f912-4f11-a403-7b50a4ab7261",
+    "type": "child_database",
+    "url": null,
+    "parent": "f8045110-0103-4b14-a79c-65f5b467adf2",
+    "contents": {
+      "title": "2024 Resolution"
+    }
+  },
+  {
     "id": "277e3581-a4a6-45a0-b8bc-afe36b754460",
     "type": "paragraph",
     "url": null,
     "parent": "f8045110-0103-4b14-a79c-65f5b467adf2",
     "contents": {
-      "rich_text": []
+      "contents": []
     }
   },
   {
-    "id": "fe1120c0-0e74-4ea2-a098-f6d574280f86",
+    "id": "f8045110-0103-4b14-a79c-65f5b467adf2",
     "type": "child_page",
-    "url": "https://www.notion.so/fe1120c00e744ea2a098f6d574280f86",
+    "url": "https://www.notion.so/f804511001034b14a79c65f5b467adf2",
+    "parent": "93dc25f2-705f-451c-907c-001f7fec4528",
+    "contents": {
+      "title": "2024 Resolution"
+    }
+  },
+  {
+    "id": "93dc25f2-705f-451c-907c-001f7fec4528",
+    "type": "child_database",
+    "url": null,
+    "parent": "5954afc3-a749-449d-893c-017a0ead54a4",
+    "contents": {
+      "title": "growth goals"
+    }
+  },
+  {
+    "id": "5954afc3-a749-449d-893c-017a0ead54a4",
+    "type": "child_page",
+    "url": "https://www.notion.so/5954afc3a749449d893c017a0ead54a4",
     "parent": "d026a7bb-94f2-465e-8732-b02343b1a479",
     "contents": {
-      "title": ""
+      "title": "Personal Growth"
     }
   },
   {
@@ -864,12 +892,12 @@
     }
   },
   {
-    "id": "750bf05a-932e-4f9d-856c-dcc1f6d011bf",
+    "id": "fe1120c0-0e74-4ea2-a098-f6d574280f86",
     "type": "child_page",
-    "url": "https://www.notion.so/750bf05a932e4f9d856cdcc1f6d011bf",
+    "url": "https://www.notion.so/fe1120c00e744ea2a098f6d574280f86",
     "parent": "d026a7bb-94f2-465e-8732-b02343b1a479",
     "contents": {
-      "title": ""
+      "title": "Finances"
     }
   },
   {
@@ -882,12 +910,12 @@
     }
   },
   {
-    "id": "aa318afe-f9d4-4b08-9ac8-e5d3d75d94a0",
+    "id": "750bf05a-932e-4f9d-856c-dcc1f6d011bf",
     "type": "child_page",
-    "url": "https://www.notion.so/aa318afef9d44b089ac8e5d3d75d94a0",
+    "url": "https://www.notion.so/750bf05a932e4f9d856cdcc1f6d011bf",
     "parent": "d026a7bb-94f2-465e-8732-b02343b1a479",
     "contents": {
-      "title": ""
+      "title": "Professional"
     }
   },
   {
@@ -900,21 +928,21 @@
     }
   },
   {
-    "id": "e1cf4d50-c509-4d06-aa8a-cedd13ee9ca6",
-    "type": "child_page",
-    "url": "https://www.notion.so/e1cf4d50c5094d06aa8acedd13ee9ca6",
-    "parent": "d026a7bb-94f2-465e-8732-b02343b1a479",
+    "id": "1e7f5a5e-dab4-4fc1-b5c0-2ce0fddb99bb",
+    "type": "paragraph",
+    "url": null,
+    "parent": "aa318afe-f9d4-4b08-9ac8-e5d3d75d94a0",
     "contents": {
-      "rich_text": []
+      "contents": []
     }
   },
   {
-    "id": "60781c17-6be9-4ece-b487-8a0547d2295b",
-    "type": "child_database",
-    "url": null,
-    "parent": "e1cf4d50-c509-4d06-aa8a-cedd13ee9ca6",
+    "id": "aa318afe-f9d4-4b08-9ac8-e5d3d75d94a0",
+    "type": "child_page",
+    "url": "https://www.notion.so/aa318afef9d44b089ac8e5d3d75d94a0",
+    "parent": "d026a7bb-94f2-465e-8732-b02343b1a479",
     "contents": {
-      "rich_text": []
+      "title": "Well Being"
     }
   },
   {
@@ -945,24 +973,12 @@
     }
   },
   {
-    "id": "1da51b81-ee18-4111-b9ce-6bb66e241d1a",
-    "type": "child_page",
-    "url": "https://www.notion.so/1da51b81ee184111b9ce6bb66e241d1a",
-    "parent": "60781c17-6be9-4ece-b487-8a0547d2295b",
-    "contents": {
-      "rich_text": []
-    }
-  },
-  {
     "id": "e067c02e-8b1c-4632-ac27-dc17e3b3684f",
     "type": "heading_1",
     "url": null,
     "parent": "1da51b81-ee18-4111-b9ce-6bb66e241d1a",
     "contents": {
-      "rich_text": {
-        "content": "Who is this person to you?",
-        "link": null
-      }
+      "rich_text": "Who is this person to you?"
     }
   },
   {
@@ -971,7 +987,7 @@
     "url": null,
     "parent": "1da51b81-ee18-4111-b9ce-6bb66e241d1a",
     "contents": {
-      "rich_text": []
+      "contents": []
     }
   },
   {
@@ -980,10 +996,7 @@
     "url": null,
     "parent": "1da51b81-ee18-4111-b9ce-6bb66e241d1a",
     "contents": {
-      "rich_text": {
-        "content": "How did you meet?",
-        "link": null
-      }
+      "rich_text": "How did you meet?"
     }
   },
   {
@@ -992,7 +1005,7 @@
     "url": null,
     "parent": "1da51b81-ee18-4111-b9ce-6bb66e241d1a",
     "contents": {
-      "rich_text": []
+      "contents": []
     }
   },
   {
@@ -1001,10 +1014,7 @@
     "url": null,
     "parent": "1da51b81-ee18-4111-b9ce-6bb66e241d1a",
     "contents": {
-      "rich_text": {
-        "content": "What’s special?",
-        "link": null
-      }
+      "rich_text": "What’s special?"
     }
   },
   {
@@ -1013,7 +1023,7 @@
     "url": null,
     "parent": "1da51b81-ee18-4111-b9ce-6bb66e241d1a",
     "contents": {
-      "rich_text": []
+      "contents": []
     }
   },
   {
@@ -1022,18 +1032,8 @@
     "url": null,
     "parent": "1da51b81-ee18-4111-b9ce-6bb66e241d1a",
     "contents": {
-      "rich_text": {
-        "content": "Timeline",
-        "link": null
-      }
+      "rich_text": "Timeline"
     }
-  },
-  {
-    "id": "cf88c928-0768-4c41-aaea-d759ee9b4f45",
-    "type": "child_database",
-    "url": null,
-    "parent": "1da51b81-ee18-4111-b9ce-6bb66e241d1a",
-    "contents": "{\"title\":\"\"}"
   },
   {
     "id": "1f398c68-9353-4642-aadf-225858e3681a",
@@ -1041,16 +1041,16 @@
     "url": null,
     "parent": "1da51b81-ee18-4111-b9ce-6bb66e241d1a",
     "contents": {
-      "rich_text": []
+      "contents": []
     }
   },
   {
-    "id": "1f01f9e4-8516-4584-80fa-dc4ed0470622",
+    "id": "1da51b81-ee18-4111-b9ce-6bb66e241d1a",
     "type": "child_page",
-    "url": "https://www.notion.so/1f01f9e48516458480fadc4ed0470622",
+    "url": "https://www.notion.so/1da51b81ee184111b9ce6bb66e241d1a",
     "parent": "60781c17-6be9-4ece-b487-8a0547d2295b",
     "contents": {
-      "rich_text": []
+      "title": "Grace Xu"
     }
   },
   {
@@ -1059,10 +1059,7 @@
     "url": null,
     "parent": "1f01f9e4-8516-4584-80fa-dc4ed0470622",
     "contents": {
-      "rich_text": {
-        "content": "Who is this person to you?",
-        "link": null
-      }
+      "rich_text": "Who is this person to you?"
     }
   },
   {
@@ -1071,7 +1068,7 @@
     "url": null,
     "parent": "1f01f9e4-8516-4584-80fa-dc4ed0470622",
     "contents": {
-      "rich_text": []
+      "contents": []
     }
   },
   {
@@ -1080,10 +1077,7 @@
     "url": null,
     "parent": "1f01f9e4-8516-4584-80fa-dc4ed0470622",
     "contents": {
-      "rich_text": {
-        "content": "How did you meet?",
-        "link": null
-      }
+      "rich_text": "How did you meet?"
     }
   },
   {
@@ -1092,7 +1086,7 @@
     "url": null,
     "parent": "1f01f9e4-8516-4584-80fa-dc4ed0470622",
     "contents": {
-      "rich_text": []
+      "contents": []
     }
   },
   {
@@ -1101,10 +1095,7 @@
     "url": null,
     "parent": "1f01f9e4-8516-4584-80fa-dc4ed0470622",
     "contents": {
-      "rich_text": {
-        "content": "What’s special?",
-        "link": null
-      }
+      "rich_text": "What’s special?"
     }
   },
   {
@@ -1113,7 +1104,7 @@
     "url": null,
     "parent": "1f01f9e4-8516-4584-80fa-dc4ed0470622",
     "contents": {
-      "rich_text": []
+      "contents": []
     }
   },
   {
@@ -1122,18 +1113,8 @@
     "url": null,
     "parent": "1f01f9e4-8516-4584-80fa-dc4ed0470622",
     "contents": {
-      "rich_text": {
-        "content": "Timeline",
-        "link": null
-      }
+      "rich_text": "Timeline"
     }
-  },
-  {
-    "id": "f36155a2-6efe-41ec-bbbe-06d70674fc13",
-    "type": "child_database",
-    "url": null,
-    "parent": "1f01f9e4-8516-4584-80fa-dc4ed0470622",
-    "contents": "{\"title\":\"\"}"
   },
   {
     "id": "94d8a42d-6c2c-4175-9c2d-bcf268cfba7d",
@@ -1141,16 +1122,16 @@
     "url": null,
     "parent": "1f01f9e4-8516-4584-80fa-dc4ed0470622",
     "contents": {
-      "rich_text": []
+      "contents": []
     }
   },
   {
-    "id": "2242ea11-b935-4f49-9f9e-badf7d9a22ef",
+    "id": "1f01f9e4-8516-4584-80fa-dc4ed0470622",
     "type": "child_page",
-    "url": "https://www.notion.so/2242ea11b9354f499f9ebadf7d9a22ef",
+    "url": "https://www.notion.so/1f01f9e48516458480fadc4ed0470622",
     "parent": "60781c17-6be9-4ece-b487-8a0547d2295b",
     "contents": {
-      "rich_text": []
+      "title": "Lily Zhou"
     }
   },
   {
@@ -1159,10 +1140,7 @@
     "url": null,
     "parent": "2242ea11-b935-4f49-9f9e-badf7d9a22ef",
     "contents": {
-      "rich_text": {
-        "content": "Who is this person to you?",
-        "link": null
-      }
+      "rich_text": "Who is this person to you?"
     }
   },
   {
@@ -1171,10 +1149,7 @@
     "url": null,
     "parent": "2242ea11-b935-4f49-9f9e-badf7d9a22ef",
     "contents": {
-      "rich_text": {
-        "content": "It’s me, myself, and I.",
-        "link": null
-      }
+      "rich_text": "It’s me, myself, and I."
     }
   },
   {
@@ -1183,10 +1158,7 @@
     "url": null,
     "parent": "2242ea11-b935-4f49-9f9e-badf7d9a22ef",
     "contents": {
-      "rich_text": {
-        "content": "What’s special?",
-        "link": null
-      }
+      "rich_text": "What’s special?"
     }
   },
   {
@@ -1195,10 +1167,7 @@
     "url": null,
     "parent": "2242ea11-b935-4f49-9f9e-badf7d9a22ef",
     "contents": {
-      "rich_text": {
-        "content": "Keep trying!",
-        "link": null
-      }
+      "rich_text": "Keep trying!"
     }
   },
   {
@@ -1207,18 +1176,8 @@
     "url": null,
     "parent": "2242ea11-b935-4f49-9f9e-badf7d9a22ef",
     "contents": {
-      "rich_text": {
-        "content": "Timeline",
-        "link": null
-      }
+      "rich_text": "Timeline"
     }
-  },
-  {
-    "id": "440a5ed3-2aa0-4f15-9f5c-eaee664e3c29",
-    "type": "child_database",
-    "url": null,
-    "parent": "2242ea11-b935-4f49-9f9e-badf7d9a22ef",
-    "contents": "{\"title\":\"\"}"
   },
   {
     "id": "4baa8c81-c521-4400-9388-ed73fe99e29b",
@@ -1226,7 +1185,25 @@
     "url": null,
     "parent": "2242ea11-b935-4f49-9f9e-badf7d9a22ef",
     "contents": {
-      "rich_text": []
+      "contents": []
+    }
+  },
+  {
+    "id": "2242ea11-b935-4f49-9f9e-badf7d9a22ef",
+    "type": "child_page",
+    "url": "https://www.notion.so/2242ea11b9354f499f9ebadf7d9a22ef",
+    "parent": "60781c17-6be9-4ece-b487-8a0547d2295b",
+    "contents": {
+      "title": "Jason Zhu"
+    }
+  },
+  {
+    "id": "60781c17-6be9-4ece-b487-8a0547d2295b",
+    "type": "child_database",
+    "url": null,
+    "parent": "e1cf4d50-c509-4d06-aa8a-cedd13ee9ca6",
+    "contents": {
+      "title": "Contact List"
     }
   },
   {
@@ -1235,10 +1212,7 @@
     "url": null,
     "parent": "e1cf4d50-c509-4d06-aa8a-cedd13ee9ca6",
     "contents": {
-      "rich_text": {
-        "content": "Dashboard Components",
-        "link": null
-      }
+      "rich_text": "Dashboard Components"
     }
   },
   {
@@ -1247,10 +1221,7 @@
     "url": null,
     "parent": "e1cf4d50-c509-4d06-aa8a-cedd13ee9ca6",
     "contents": {
-      "rich_text": {
-        "content": "“Next Birthday” widget",
-        "link": null
-      }
+      "rich_text": "“Next Birthday” widget"
     }
   },
   {
@@ -1259,10 +1230,7 @@
     "url": null,
     "parent": "e1cf4d50-c509-4d06-aa8a-cedd13ee9ca6",
     "contents": {
-      "rich_text": {
-        "content": "“Coming Up” widget - scroll through coming up events with friends",
-        "link": null
-      }
+      "rich_text": "“Coming Up” widget - scroll through coming up events with friends"
     }
   },
   {
@@ -1271,10 +1239,7 @@
     "url": null,
     "parent": "e1cf4d50-c509-4d06-aa8a-cedd13ee9ca6",
     "contents": {
-      "rich_text": {
-        "content": "“Relationship Analytics” - where are they, how many per relationship tag, how many in different communities",
-        "link": null
-      }
+      "rich_text": "“Relationship Analytics” - where are they, how many per relationship tag, how many in different communities"
     }
   },
   {
@@ -1282,24 +1247,8 @@
     "type": "divider",
     "url": null,
     "parent": "e1cf4d50-c509-4d06-aa8a-cedd13ee9ca6",
-    "contents": "{}"
-  },
-  {
-    "id": "116feb94-c561-46b0-bb5c-932c746879c5",
-    "type": "column_list",
-    "url": null,
-    "parent": "e1cf4d50-c509-4d06-aa8a-cedd13ee9ca6",
     "contents": {
-      "rich_text": []
-    }
-  },
-  {
-    "id": "5f2816f8-6ef3-4e28-80d1-8542bbeddac0",
-    "type": "column",
-    "url": null,
-    "parent": "116feb94-c561-46b0-bb5c-932c746879c5",
-    "contents": {
-      "title": ""
+      "contents": {}
     }
   },
   {
@@ -1308,23 +1257,25 @@
     "url": null,
     "parent": "5f2816f8-6ef3-4e28-80d1-8542bbeddac0",
     "contents": {
-      "title": ""
+      "rich_text": "Next Birthday"
     }
   },
   {
-    "id": "ad0c134e-40eb-4d6e-99d0-e0c2f3522d96",
-    "type": "child_database",
-    "url": null,
-    "parent": "0bb55a42-7916-4c85-8f79-aed9b27bed47",
-    "contents": "{\"title\":\"\"}"
-  },
-  {
-    "id": "251099c5-33f1-42e5-9cc4-b90f4a941286",
+    "id": "5f2816f8-6ef3-4e28-80d1-8542bbeddac0",
     "type": "column",
     "url": null,
     "parent": "116feb94-c561-46b0-bb5c-932c746879c5",
     "contents": {
-      "rich_text": []
+      "contents": {}
+    }
+  },
+  {
+    "id": "1ddc1182-39f1-491e-8d13-67f7536d91d3",
+    "type": "paragraph",
+    "url": null,
+    "parent": "4eb2acfc-0590-47b0-844a-de08fa95052b",
+    "contents": {
+      "contents": []
     }
   },
   {
@@ -1333,23 +1284,25 @@
     "url": null,
     "parent": "251099c5-33f1-42e5-9cc4-b90f4a941286",
     "contents": {
-      "rich_text": []
+      "rich_text": "Coming Up…"
     }
   },
   {
-    "id": "76e2f935-dfd0-42dc-bc14-e64f0ba5d77b",
-    "type": "child_database",
+    "id": "251099c5-33f1-42e5-9cc4-b90f4a941286",
+    "type": "column",
     "url": null,
-    "parent": "4eb2acfc-0590-47b0-844a-de08fa95052b",
-    "contents": "{\"title\":\"\"}"
+    "parent": "116feb94-c561-46b0-bb5c-932c746879c5",
+    "contents": {
+      "contents": {}
+    }
   },
   {
-    "id": "1ddc1182-39f1-491e-8d13-67f7536d91d3",
-    "type": "paragraph",
+    "id": "116feb94-c561-46b0-bb5c-932c746879c5",
+    "type": "column_list",
     "url": null,
-    "parent": "4eb2acfc-0590-47b0-844a-de08fa95052b",
+    "parent": "e1cf4d50-c509-4d06-aa8a-cedd13ee9ca6",
     "contents": {
-      "rich_text": []
+      "contents": {}
     }
   },
   {
@@ -1357,7 +1310,9 @@
     "type": "divider",
     "url": null,
     "parent": "e1cf4d50-c509-4d06-aa8a-cedd13ee9ca6",
-    "contents": "{}"
+    "contents": {
+      "contents": {}
+    }
   },
   {
     "id": "88d9472e-bc54-44c6-b523-26faa9227574",
@@ -1365,22 +1320,17 @@
     "url": null,
     "parent": "e1cf4d50-c509-4d06-aa8a-cedd13ee9ca6",
     "contents": {
-      "title": ""
+      "rich_text": "Relationships"
     }
-  },
-  {
-    "id": "e7e5a549-2af7-4819-a411-b7b08e10c31e",
-    "type": "child_database",
-    "url": null,
-    "parent": "88d9472e-bc54-44c6-b523-26faa9227574",
-    "contents": "{\"title\":\"\"}"
   },
   {
     "id": "d05a9edd-8f4e-4858-bf11-d5cd952d8dc7",
     "type": "divider",
     "url": null,
     "parent": "e1cf4d50-c509-4d06-aa8a-cedd13ee9ca6",
-    "contents": "{}"
+    "contents": {
+      "contents": {}
+    }
   },
   {
     "id": "fa465258-f59e-491d-9f39-f448307e0eda",
@@ -1388,16 +1338,34 @@
     "url": null,
     "parent": "e1cf4d50-c509-4d06-aa8a-cedd13ee9ca6",
     "contents": {
-      "rich_text": []
+      "contents": []
     }
   },
   {
-    "id": "c6a43c54-7a78-4278-af51-e66c4f38a1bd",
-    "type": "paragraph",
+    "id": "e1cf4d50-c509-4d06-aa8a-cedd13ee9ca6",
+    "type": "child_page",
+    "url": "https://www.notion.so/e1cf4d50c5094d06aa8acedd13ee9ca6",
+    "parent": "d026a7bb-94f2-465e-8732-b02343b1a479",
+    "contents": {
+      "title": "Social & Relationships"
+    }
+  },
+  {
+    "id": "d026a7bb-94f2-465e-8732-b02343b1a479",
+    "type": "child_database",
     "url": null,
     "parent": "df94a7d2-43f1-4ed8-87d5-1b155f82ada1",
     "contents": {
-      "rich_text": []
+      "title": "CLV"
+    }
+  },
+  {
+    "id": "df94a7d2-43f1-4ed8-87d5-1b155f82ada1",
+    "type": "child_page",
+    "url": "https://www.notion.so/df94a7d243f14ed887d51b155f82ada1",
+    "parent": null,
+    "contents": {
+      "title": "Template Sandbox"
     }
   }
 ]

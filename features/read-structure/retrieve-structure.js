@@ -17,6 +17,14 @@ function sleep(milliseconds) {
     return new Promise(resolve => setTimeout(resolve, milliseconds));
 }
 
+async function extractTextContents(tableRowContents) {
+    return tableRowContents.map(row => 
+        row.map(cell => 
+            cell.text.content
+        )
+    );
+}
+
 
 
 // API Call Auth
@@ -42,7 +50,7 @@ async function processBlock(blockId, parentId = null) {
         typeObj = block.type;
         // Show the ID and type
         console.log("Block ID: "+blockId+" Type: "+typeObj);
-        blockContent = JSON.stringify(block[typeObj]);
+        const blockContent = JSON.stringify(block[typeObj]); // Adding a `const` is ABSOLUTELY necessary as it will prevent parent-children content conflicts
         let blockObj = {
             id: block.id,
             type: block.type,
@@ -50,8 +58,6 @@ async function processBlock(blockId, parentId = null) {
             parent: parentId,
             contents: blockContent
         };
-        // .push means append
-        blocks.push(blockObj);
 
         // High level type for the block
         if (block.type === 'child_database') {
@@ -71,7 +77,6 @@ async function processBlock(blockId, parentId = null) {
         if (typeObj && JSON.parse(blockContent)) {
             if (JSON.parse(blockContent).hasOwnProperty("title")) {
                     blockObj.contents = {"title": JSON.parse(blockContent).title};
-                
             } else if (JSON.parse(blockContent).hasOwnProperty("rich_text")) {
                 // blockObj.contents = {"rich_text": blockContent["rich_text"][0].text.content.slice(0, 50)};
                 if (JSON.parse(blockContent).rich_text.length > 0) {
@@ -79,19 +84,26 @@ async function processBlock(blockId, parentId = null) {
                         richTextTypeObj = JSON.parse(blockContent).rich_text[0].type;
                         blockObj.contents = {"rich_text": JSON.parse(blockContent).rich_text[0][richTextTypeObj].content};
                     } else {
-                        blockObj.contents = {"rich_text": JSON.parse(blockContent).rich_text[0].text};
+                        blockObj.contents = {"rich_text": JSON.parse(blockContent).rich_text[0].text.content};
                     }
                 } else {
-                    blockObj.contents = {"rich_text": JSON.parse(blockContent).rich_text};
+                    blockObj.contents = {"contents": JSON.parse(blockContent).rich_text};
                 }
+            } else if (JSON.parse(blockContent).hasOwnProperty("cells")) {
+                blockObj.contents = {"contents": await extractTextContents(JSON.parse(blockContent).cells)};
             } else {
-                console.log("Neither `rich_text` nor `title`."+" Type: "+Object.keys(JSON.parse(blockContent)));
-                blockObj.contents = blockContent;
+                console.log("Neither `rich_text` nor `title` nor `table_row`."+" Type: "+Object.keys(JSON.parse(blockContent)));
+                const subTypeObj = Object.keys(JSON.parse(blockContent));
+                blockObj.contents = {"contents": JSON.parse(blockContent)};
+                // blockObj.contents = {"contents": await extractTextContents(JSON.parse(blockContent).rich_text)};
             }
         } else {
             console.log("ID: "+blockId+" Issue: `"+typeObj+"` not found in API response - or API response has an error:"+block);
             logErrorToFile("ID: "+blockId+" Issue: `"+typeObj+"` not found in API response - or API response has an error."+block);
         };
+
+        // .push means append
+        blocks.push(blockObj);
 
         // Transform to JSON compatible string
         let data = blocks;
