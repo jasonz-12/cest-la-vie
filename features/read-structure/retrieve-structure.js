@@ -45,6 +45,7 @@ async function processBlock(blockId, parentId = null) {
         }
         
         // Handle the content part here
+        // It works so far - but need to handle the `else` part a bit better
         if ("rich_text" in block[typeObj]) {
             blockObj.contents = {"rich_text": block[typeObj]["rich_text"][0].text.content.slice(0, 50)}
         } else if ("title" in block[typeObj]) {
