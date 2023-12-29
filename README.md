@@ -12,3 +12,7 @@ This project includes the minimal viable product (MVP) for a simple version that
 * `./utils/notionDataParser.js`: defines the function that takes the `dataFromGPT` value and fills in the Notion POST request data template in `./utils/template.json` and returns the value `dataForNotion`.
 * `./utils/notionApi.js`: pass the Notion API-compatible data to the Notion API endpoint (`https://api.notion.com/v1/pages/`) to create a page. Note that here the environment variable `NOTION_API_KEY` needs to be specified for this to work.
 * `./routes/post.js`: handles the request and response for the Notion API interaction, it gets the `parsedData` from `app.js` and sends it to the Notion endpoint and returns the response (either code `200` or code `500`) to GPT.
+
+## Features
+* `./features/read-structure/`: This is the `Dynamic Schema Recognition System (DSRS)` - meaning that it will be able to read the tree-like structure of any and all sub-structures within a page. 
+  * ISSUES: The system takes quite long to read it and also it needs to be organized into a more efficient tree structure for ChatGPT to read (Optimizing on the lowest count of tokens/words? Or just give it to Code Interpreter and give a program and a guidance document in knowledge to run it on).
