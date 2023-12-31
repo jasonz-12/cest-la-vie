@@ -27,6 +27,15 @@
     }
   },
   {
+    "id": "5e374a37-090a-4854-ab06-241de83039fe",
+    "type": "child_page",
+    "url": "https://www.notion.so/5e374a37090a4854ab06241de83039fe",
+    "parent": "79f048f0-19f0-4fbd-b888-9ff795a99507",
+    "contents": {
+      "title": "2024 Resolution Details"
+    }
+  },
+  {
     "id": "16dfd1d8-f9f7-4839-aa5e-e5dd995fa558",
     "type": "child_page",
     "url": "https://www.notion.so/16dfd1d8f9f74839aa5ee5dd995fa558",
@@ -694,12 +703,291 @@
     }
   },
   {
+    "id": "400672ba-c787-4184-85bb-52a69729de11",
+    "type": "paragraph",
+    "url": null,
+    "parent": "7cacc7f1-a410-4161-8959-38fc156a8f3d",
+    "contents": {
+      "rich_text": "100"
+    }
+  },
+  {
+    "id": "af5d72ae-e70f-4be9-b057-317842c6c022",
+    "type": "paragraph",
+    "url": null,
+    "parent": "7cacc7f1-a410-4161-8959-38fc156a8f3d",
+    "contents": {
+      "rich_text": "Contents:"
+    }
+  },
+  {
+    "id": "fc4035f6-7b2a-4499-aac0-8e81c13f7620",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "7cacc7f1-a410-4161-8959-38fc156a8f3d",
+    "contents": {
+      "rich_text": "AI 新闻 + 配图"
+    }
+  },
+  {
+    "id": "49684500-8737-4c43-8141-bee16c49942a",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "7cacc7f1-a410-4161-8959-38fc156a8f3d",
+    "contents": {
+      "rich_text": "新年Resolution & 进展 + meditation哲学思考智慧话语"
+    }
+  },
+  {
+    "id": "e44b213c-8a6e-488a-8ce4-06241f350870",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "7cacc7f1-a410-4161-8959-38fc156a8f3d",
+    "contents": {
+      "rich_text": "新学到的Notion小技巧 ——— 普及Notion，Notion教育"
+    }
+  },
+  {
+    "id": "a1a37550-10b1-40aa-9918-cfbf3b58f8b6",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "7cacc7f1-a410-4161-8959-38fc156a8f3d",
+    "contents": {
+      "rich_text": "读书笔记 ——— Notion 页面格式"
+    }
+  },
+  {
+    "id": "cd6b39c8-2f5f-4a02-b5c6-69f9509a7680",
+    "type": "paragraph",
+    "url": null,
+    "parent": "7cacc7f1-a410-4161-8959-38fc156a8f3d",
+    "contents": {
+      "contents": []
+    }
+  },
+  {
+    "id": "e6a11a3f-1636-4823-94b6-2279fc2b0228",
+    "type": "table_row",
+    "url": null,
+    "parent": "2e84aa64-032b-4d1d-a047-da2df4a9f5de",
+    "contents": {
+      "contents": [
+        [
+          "描述"
+        ],
+        [
+          "目的"
+        ],
+        [
+          "格式"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "5f572078-dc88-4e8f-b440-77afc362871e",
+    "type": "table_row",
+    "url": null,
+    "parent": "2e84aa64-032b-4d1d-a047-da2df4a9f5de",
+    "contents": {
+      "contents": [
+        [
+          "AI 新闻"
+        ],
+        [
+          "蹭流量"
+        ],
+        [
+          "图文"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "430e6024-46c8-4ca7-ad86-5b2cad7ec576",
+    "type": "table_row",
+    "url": null,
+    "parent": "2e84aa64-032b-4d1d-a047-da2df4a9f5de",
+    "contents": {
+      "contents": [
+        [
+          "新年Resolution及进展"
+        ],
+        [
+          "监督自己"
+        ],
+        [
+          "图文"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "e3aaa9be-464e-478a-bd57-6d2b5c1c951c",
+    "type": "table_row",
+    "url": null,
+    "parent": "2e84aa64-032b-4d1d-a047-da2df4a9f5de",
+    "contents": {
+      "contents": [
+        [
+          "Notion小技巧"
+        ],
+        [
+          "普及Notion"
+        ],
+        [
+          "Notion页面图文"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "debe0cc8-fe9e-4015-a98f-fb8d0eb7afe9",
+    "type": "table_row",
+    "url": null,
+    "parent": "2e84aa64-032b-4d1d-a047-da2df4a9f5de",
+    "contents": {
+      "contents": [
+        [
+          "读书笔记"
+        ],
+        [
+          "提供价值"
+        ],
+        [
+          "Notion页面图文"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "2e84aa64-032b-4d1d-a047-da2df4a9f5de",
+    "type": "table",
+    "url": null,
+    "parent": "7cacc7f1-a410-4161-8959-38fc156a8f3d",
+    "contents": {
+      "contents": {
+        "table_width": 3,
+        "has_column_header": false,
+        "has_row_header": false
+      }
+    }
+  },
+  {
+    "id": "13869e76-d9d6-4610-a763-c270d5b64344",
+    "type": "paragraph",
+    "url": null,
+    "parent": "7cacc7f1-a410-4161-8959-38fc156a8f3d",
+    "contents": {
+      "contents": []
+    }
+  },
+  {
+    "id": "7cacc7f1-a410-4161-8959-38fc156a8f3d",
+    "type": "child_page",
+    "url": "https://www.notion.so/7cacc7f1a4104161895938fc156a8f3d",
+    "parent": "8e102626-f912-4f11-a403-7b50a4ab7261",
+    "contents": {
+      "title": "小红书 x 100"
+    }
+  },
+  {
+    "id": "278e8435-89ca-45ff-ba29-e7c2c12ad411",
+    "type": "paragraph",
+    "url": null,
+    "parent": "62738ac4-b3e4-4f89-bc8f-e01cbd9afa1e",
+    "contents": {
+      "rich_text": "Learn Japanese and Korean to the extent of being able to order in a Japanese/Korean restaurant."
+    }
+  },
+  {
+    "id": "62738ac4-b3e4-4f89-bc8f-e01cbd9afa1e",
+    "type": "child_page",
+    "url": "https://www.notion.so/62738ac4b3e44f89bc8fe01cbd9afa1e",
+    "parent": "8e102626-f912-4f11-a403-7b50a4ab7261",
+    "contents": {
+      "title": "Language"
+    }
+  },
+  {
+    "id": "282b56cd-d3ad-4f30-9c9b-68fc58d2fe8c",
+    "type": "paragraph",
+    "url": null,
+    "parent": "1868d463-503f-42b9-b210-f0989e4fb2f1",
+    "contents": {
+      "rich_text": "2 mins every time"
+    }
+  },
+  {
+    "id": "1868d463-503f-42b9-b210-f0989e4fb2f1",
+    "type": "child_page",
+    "url": "https://www.notion.so/1868d463503f42b9b210f0989e4fb2f1",
+    "parent": "8e102626-f912-4f11-a403-7b50a4ab7261",
+    "contents": {
+      "title": "Cold Shower x 180"
+    }
+  },
+  {
     "id": "e9cd1bed-3bca-4f44-9ba9-cc31b5b97641",
     "type": "unsupported",
     "url": null,
     "parent": "ca6ac7c0-153d-4a6a-850c-39bc8d35607e",
     "contents": {
       "contents": {}
+    }
+  },
+  {
+    "id": "e39f2389-eade-43fe-9da5-b189de6af521",
+    "type": "paragraph",
+    "url": null,
+    "parent": "ca6ac7c0-153d-4a6a-850c-39bc8d35607e",
+    "contents": {
+      "rich_text": "On "
+    }
+  },
+  {
+    "id": "2383eb2c-05cc-46e6-b4d0-b300c7ea2623",
+    "type": "paragraph",
+    "url": null,
+    "parent": "ca6ac7c0-153d-4a6a-850c-39bc8d35607e",
+    "contents": {
+      "rich_text": "Tasks that need to be completed to fulfill this goal:"
+    }
+  },
+  {
+    "id": "caf49d7e-1e68-49df-ae0c-4f3b03b0e9ee",
+    "type": "to_do",
+    "url": null,
+    "parent": "ca6ac7c0-153d-4a6a-850c-39bc8d35607e",
+    "contents": {
+      "rich_text": "Find 20 users to test this product"
+    }
+  },
+  {
+    "id": "ad37b304-4335-48bc-b288-ab3211ecbf1c",
+    "type": "to_do",
+    "url": null,
+    "parent": "ca6ac7c0-153d-4a6a-850c-39bc8d35607e",
+    "contents": {
+      "rich_text": "Gather feedbacks"
+    }
+  },
+  {
+    "id": "dbb9adf0-1710-4fb4-9a02-3b22e18e7bd6",
+    "type": "to_do",
+    "url": null,
+    "parent": "ca6ac7c0-153d-4a6a-850c-39bc8d35607e",
+    "contents": {
+      "rich_text": "Figure out the final business model for this"
+    }
+  },
+  {
+    "id": "74424fea-9411-496c-a39f-4a65f3936c65",
+    "type": "to_do",
+    "url": null,
+    "parent": "ca6ac7c0-153d-4a6a-850c-39bc8d35607e",
+    "contents": {
+      "rich_text": "Complete the budgeting analysis"
     }
   },
   {
@@ -811,6 +1099,195 @@
     }
   },
   {
+    "id": "13b63668-c8d9-4684-8d02-c4f6558a3232",
+    "type": "to_do",
+    "url": null,
+    "parent": "4eb974d7-6ed9-4243-9bae-c942ea847a56",
+    "contents": {
+      "rich_text": "Atomic Habits"
+    }
+  },
+  {
+    "id": "c5bda2f1-2ac3-478c-bec7-dec71b52181f",
+    "type": "to_do",
+    "url": null,
+    "parent": "4eb974d7-6ed9-4243-9bae-c942ea847a56",
+    "contents": {
+      "rich_text": "围城"
+    }
+  },
+  {
+    "id": "97ee2f45-55d8-4107-b673-92b27f8bcb47",
+    "type": "to_do",
+    "url": null,
+    "parent": "4eb974d7-6ed9-4243-9bae-c942ea847a56",
+    "contents": {
+      "rich_text": "次第花开"
+    }
+  },
+  {
+    "id": "12510e77-554c-4573-bfb2-fe656f71204b",
+    "type": "to_do",
+    "url": null,
+    "parent": "4eb974d7-6ed9-4243-9bae-c942ea847a56",
+    "contents": {
+      "rich_text": "厚黑学"
+    }
+  },
+  {
+    "id": "44a27f45-ea62-499a-9f15-cd8d89a8c5db",
+    "type": "to_do",
+    "url": null,
+    "parent": "4eb974d7-6ed9-4243-9bae-c942ea847a56",
+    "contents": {
+      "rich_text": "How not to die alone"
+    }
+  },
+  {
+    "id": "592c5bcf-7939-47c8-91ca-483097769a89",
+    "type": "to_do",
+    "url": null,
+    "parent": "4eb974d7-6ed9-4243-9bae-c942ea847a56",
+    "contents": {
+      "rich_text": "Financial Freedom"
+    }
+  },
+  {
+    "id": "31b840d4-ba8b-4f4e-baca-047badabf457",
+    "type": "to_do",
+    "url": null,
+    "parent": "4eb974d7-6ed9-4243-9bae-c942ea847a56",
+    "contents": {
+      "rich_text": "Scattered Minds"
+    }
+  },
+  {
+    "id": "189606b5-29ec-46df-9aba-25337b12083a",
+    "type": "to_do",
+    "url": null,
+    "parent": "4eb974d7-6ed9-4243-9bae-c942ea847a56",
+    "contents": {
+      "rich_text": "The Gender Knot"
+    }
+  },
+  {
+    "id": "403e13f7-a8bd-4a56-930b-8b5d32e1d826",
+    "type": "to_do",
+    "url": null,
+    "parent": "4eb974d7-6ed9-4243-9bae-c942ea847a56",
+    "contents": {
+      "rich_text": "Daily Stoic"
+    }
+  },
+  {
+    "id": "1ea54304-5627-402f-a07e-e2cdf4150847",
+    "type": "to_do",
+    "url": null,
+    "parent": "4eb974d7-6ed9-4243-9bae-c942ea847a56",
+    "contents": {
+      "rich_text": "Why We Sleep"
+    }
+  },
+  {
+    "id": "f6298678-affe-4f08-9ccd-727d57c01bb2",
+    "type": "to_do",
+    "url": null,
+    "parent": "4eb974d7-6ed9-4243-9bae-c942ea847a56",
+    "contents": {
+      "rich_text": "Leaders Eat Last"
+    }
+  },
+  {
+    "id": "c183feb0-16e0-40ee-a5e7-69ecc989c92a",
+    "type": "to_do",
+    "url": null,
+    "parent": "4eb974d7-6ed9-4243-9bae-c942ea847a56",
+    "contents": {
+      "rich_text": "Management"
+    }
+  },
+  {
+    "id": "618ba97e-aee4-4e27-8494-a9d4bf39f510",
+    "type": "to_do",
+    "url": null,
+    "parent": "4eb974d7-6ed9-4243-9bae-c942ea847a56",
+    "contents": {
+      "rich_text": "Managing Oneself"
+    }
+  },
+  {
+    "id": "71015bca-111f-413e-83ee-89be0d243f71",
+    "type": "to_do",
+    "url": null,
+    "parent": "4eb974d7-6ed9-4243-9bae-c942ea847a56",
+    "contents": {
+      "rich_text": "Sapiens"
+    }
+  },
+  {
+    "id": "9519c565-0511-468b-b229-d1ede01a62a0",
+    "type": "to_do",
+    "url": null,
+    "parent": "4eb974d7-6ed9-4243-9bae-c942ea847a56",
+    "contents": {
+      "rich_text": "Psychology of Money"
+    }
+  },
+  {
+    "id": "478a06c0-9b58-4ddf-b7a9-84ecd8c88143",
+    "type": "to_do",
+    "url": null,
+    "parent": "4eb974d7-6ed9-4243-9bae-c942ea847a56",
+    "contents": {
+      "rich_text": "1984"
+    }
+  },
+  {
+    "id": "3bb7bf2f-ad38-4e48-98c3-7f7290a6e44e",
+    "type": "to_do",
+    "url": null,
+    "parent": "4eb974d7-6ed9-4243-9bae-c942ea847a56",
+    "contents": {
+      "rich_text": "Thinking, Fast & Slow"
+    }
+  },
+  {
+    "id": "c9dcf9fd-205b-404c-b120-33f5d8f699dd",
+    "type": "to_do",
+    "url": null,
+    "parent": "4eb974d7-6ed9-4243-9bae-c942ea847a56",
+    "contents": {
+      "rich_text": "Good Services"
+    }
+  },
+  {
+    "id": "8e131bcb-dab1-41e9-bd52-fe603d8dfb31",
+    "type": "to_do",
+    "url": null,
+    "parent": "4eb974d7-6ed9-4243-9bae-c942ea847a56",
+    "contents": {
+      "rich_text": "Emotions Revealed"
+    }
+  },
+  {
+    "id": "8ef77a68-9632-4a10-9ea1-8a3447c6848c",
+    "type": "to_do",
+    "url": null,
+    "parent": "4eb974d7-6ed9-4243-9bae-c942ea847a56",
+    "contents": {
+      "rich_text": "活法"
+    }
+  },
+  {
+    "id": "f850ad05-6b05-4348-856a-59055f39631b",
+    "type": "paragraph",
+    "url": null,
+    "parent": "4eb974d7-6ed9-4243-9bae-c942ea847a56",
+    "contents": {
+      "contents": []
+    }
+  },
+  {
     "id": "4eb974d7-6ed9-4243-9bae-c942ea847a56",
     "type": "child_page",
     "url": "https://www.notion.so/4eb974d76ed942439baec942ea847a56",
@@ -820,12 +1297,30 @@
     }
   },
   {
+    "id": "0467f2a9-0f32-43af-9797-ec3ac7546b42",
+    "type": "paragraph",
+    "url": null,
+    "parent": "7d438795-340c-4c67-b5c9-476ec1148a00",
+    "contents": {
+      "rich_text": "Morning (between 6-9 AM) runs - any type of runs, indoors or outdoors."
+    }
+  },
+  {
     "id": "7d438795-340c-4c67-b5c9-476ec1148a00",
     "type": "child_page",
     "url": "https://www.notion.so/7d438795340c4c67b5c9476ec1148a00",
     "parent": "8e102626-f912-4f11-a403-7b50a4ab7261",
     "contents": {
       "title": "Morning Runs x 300"
+    }
+  },
+  {
+    "id": "79acf26e-f299-40df-9788-747bc179ada0",
+    "type": "paragraph",
+    "url": null,
+    "parent": "ee6dd5fe-fc7f-4913-b385-61dc25e3679e",
+    "contents": {
+      "rich_text": "Go to the gym or workout at home 180 times for at least 45 minutes each visit for it to count"
     }
   },
   {
@@ -848,6 +1343,177 @@
   },
   {
     "id": "277e3581-a4a6-45a0-b8bc-afe36b754460",
+    "type": "heading_1",
+    "url": null,
+    "parent": "f8045110-0103-4b14-a79c-65f5b467adf2",
+    "contents": {
+      "rich_text": "Tracker"
+    }
+  },
+  {
+    "id": "6a388816-2f6a-4535-9dc3-8bf96d263889",
+    "type": "unsupported",
+    "url": null,
+    "parent": "4421656f-f8ab-4c6f-a162-50e0e7131263",
+    "contents": {
+      "contents": {}
+    }
+  },
+  {
+    "id": "4421656f-f8ab-4c6f-a162-50e0e7131263",
+    "type": "column",
+    "url": null,
+    "parent": "9596ae47-3bba-49f8-bbe5-2bc5677a1cd4",
+    "contents": {
+      "contents": {}
+    }
+  },
+  {
+    "id": "50ba8f74-f13b-4659-b7aa-d40eef75fa07",
+    "type": "unsupported",
+    "url": null,
+    "parent": "258e8fa4-1710-4fc6-9fe9-52444f32ea9c",
+    "contents": {
+      "contents": {}
+    }
+  },
+  {
+    "id": "258e8fa4-1710-4fc6-9fe9-52444f32ea9c",
+    "type": "column",
+    "url": null,
+    "parent": "9596ae47-3bba-49f8-bbe5-2bc5677a1cd4",
+    "contents": {
+      "contents": {}
+    }
+  },
+  {
+    "id": "85838bdc-5e17-4f70-a34c-ae3eeecdf19c",
+    "type": "unsupported",
+    "url": null,
+    "parent": "07fc55ba-6692-4e3f-81ca-af191d3564e1",
+    "contents": {
+      "contents": {}
+    }
+  },
+  {
+    "id": "07fc55ba-6692-4e3f-81ca-af191d3564e1",
+    "type": "column",
+    "url": null,
+    "parent": "9596ae47-3bba-49f8-bbe5-2bc5677a1cd4",
+    "contents": {
+      "contents": {}
+    }
+  },
+  {
+    "id": "04db85f8-5cde-4ce9-91d9-f9d94de88507",
+    "type": "unsupported",
+    "url": null,
+    "parent": "1dd1463a-4960-4b56-a465-b5a6fd18bde8",
+    "contents": {
+      "contents": {}
+    }
+  },
+  {
+    "id": "1dd1463a-4960-4b56-a465-b5a6fd18bde8",
+    "type": "column",
+    "url": null,
+    "parent": "9596ae47-3bba-49f8-bbe5-2bc5677a1cd4",
+    "contents": {
+      "contents": {}
+    }
+  },
+  {
+    "id": "9596ae47-3bba-49f8-bbe5-2bc5677a1cd4",
+    "type": "column_list",
+    "url": null,
+    "parent": "f8045110-0103-4b14-a79c-65f5b467adf2",
+    "contents": {
+      "contents": {}
+    }
+  },
+  {
+    "id": "e66dc65d-d304-41ef-8688-25f94a9cc86d",
+    "type": "divider",
+    "url": null,
+    "parent": "f8045110-0103-4b14-a79c-65f5b467adf2",
+    "contents": {
+      "contents": {}
+    }
+  },
+  {
+    "id": "9733d765-c1eb-4293-8cea-fb743ee23fcd",
+    "type": "child_database",
+    "url": null,
+    "parent": "da5afa2b-34b7-4a2b-a501-4987febad21d",
+    "contents": {
+      "title": "Test Tracker"
+    }
+  },
+  {
+    "id": "61a525cb-2cc2-4032-89a5-2d9f448bf7c6",
+    "type": "child_page",
+    "url": "https://www.notion.so/61a525cb2cc2403289a52d9f448bf7c6",
+    "parent": "b4ad7e7f-bb6e-4d8e-b6b3-0af42cfa24ac",
+    "contents": {
+      "title": "XHS Posts"
+    }
+  },
+  {
+    "id": "0f4b40cf-8cda-461f-be32-5992aceb7029",
+    "type": "child_page",
+    "url": "https://www.notion.so/0f4b40cf8cda461fbe325992aceb7029",
+    "parent": "b4ad7e7f-bb6e-4d8e-b6b3-0af42cfa24ac",
+    "contents": {
+      "title": "Gym Sessions"
+    }
+  },
+  {
+    "id": "612fa200-67d4-4ad7-8106-f22642abd15e",
+    "type": "child_page",
+    "url": "https://www.notion.so/612fa20067d44ad78106f22642abd15e",
+    "parent": "b4ad7e7f-bb6e-4d8e-b6b3-0af42cfa24ac",
+    "contents": {
+      "title": "Cold Showers"
+    }
+  },
+  {
+    "id": "e32ccf46-f42f-411d-8a86-3796161dda50",
+    "type": "child_page",
+    "url": "https://www.notion.so/e32ccf46f42f411d8a863796161dda50",
+    "parent": "b4ad7e7f-bb6e-4d8e-b6b3-0af42cfa24ac",
+    "contents": {
+      "title": "Morning Runs"
+    }
+  },
+  {
+    "id": "b4ad7e7f-bb6e-4d8e-b6b3-0af42cfa24ac",
+    "type": "child_database",
+    "url": null,
+    "parent": "da5afa2b-34b7-4a2b-a501-4987febad21d",
+    "contents": {
+      "title": "Tracker Overview"
+    }
+  },
+  {
+    "id": "ee27d2a4-0b3e-4a69-b02e-1c5fe2162ad5",
+    "type": "paragraph",
+    "url": null,
+    "parent": "da5afa2b-34b7-4a2b-a501-4987febad21d",
+    "contents": {
+      "contents": []
+    }
+  },
+  {
+    "id": "da5afa2b-34b7-4a2b-a501-4987febad21d",
+    "type": "heading_1",
+    "url": null,
+    "parent": "f8045110-0103-4b14-a79c-65f5b467adf2",
+    "contents": {
+      "rich_text": "Tracker DB"
+    }
+  },
+  {
+    "id": "a2be7677-ba77-4f82-95b9-b70c6f7efced",
     "type": "paragraph",
     "url": null,
     "parent": "f8045110-0103-4b14-a79c-65f5b467adf2",

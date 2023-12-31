@@ -54,6 +54,14 @@
                                 "children": [
                                     {
                                         "type": "child_page",
+                                        "id": "5e374a37-090a-4854-ab06-241de83039fe",
+                                        "contents": {
+                                            "title": "2024 Resolution Details"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "type": "child_page",
                                         "id": "16dfd1d8-f9f7-4839-aa5e-e5dd995fa558",
                                         "contents": {
                                             "title": "Dinner with Ben"
@@ -687,6 +695,216 @@
                                                 "children": [
                                                     {
                                                         "type": "child_page",
+                                                        "id": "7cacc7f1-a410-4161-8959-38fc156a8f3d",
+                                                        "contents": {
+                                                            "title": "小红书 x 100"
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "type": "paragraph",
+                                                                "id": "400672ba-c787-4184-85bb-52a69729de11",
+                                                                "contents": {
+                                                                    "rich_text": "100"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "paragraph",
+                                                                "id": "af5d72ae-e70f-4be9-b057-317842c6c022",
+                                                                "contents": {
+                                                                    "rich_text": "Contents:"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "bulleted_list_item",
+                                                                "id": "fc4035f6-7b2a-4499-aac0-8e81c13f7620",
+                                                                "contents": {
+                                                                    "rich_text": "AI 新闻 + 配图"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "bulleted_list_item",
+                                                                "id": "49684500-8737-4c43-8141-bee16c49942a",
+                                                                "contents": {
+                                                                    "rich_text": "新年Resolution & 进展 + meditation哲学思考智慧话语"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "bulleted_list_item",
+                                                                "id": "e44b213c-8a6e-488a-8ce4-06241f350870",
+                                                                "contents": {
+                                                                    "rich_text": "新学到的Notion小技巧 ——— 普及Notion，Notion教育"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "bulleted_list_item",
+                                                                "id": "a1a37550-10b1-40aa-9918-cfbf3b58f8b6",
+                                                                "contents": {
+                                                                    "rich_text": "读书笔记 ——— Notion 页面格式"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "paragraph",
+                                                                "id": "cd6b39c8-2f5f-4a02-b5c6-69f9509a7680",
+                                                                "contents": {
+                                                                    "contents": []
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "table",
+                                                                "id": "2e84aa64-032b-4d1d-a047-da2df4a9f5de",
+                                                                "contents": {
+                                                                    "contents": {
+                                                                        "table_width": 3,
+                                                                        "has_column_header": false,
+                                                                        "has_row_header": false
+                                                                    }
+                                                                },
+                                                                "children": [
+                                                                    {
+                                                                        "type": "table_row",
+                                                                        "id": "e6a11a3f-1636-4823-94b6-2279fc2b0228",
+                                                                        "contents": {
+                                                                            "contents": [
+                                                                                [
+                                                                                    "描述"
+                                                                                ],
+                                                                                [
+                                                                                    "目的"
+                                                                                ],
+                                                                                [
+                                                                                    "格式"
+                                                                                ]
+                                                                            ]
+                                                                        },
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "type": "table_row",
+                                                                        "id": "5f572078-dc88-4e8f-b440-77afc362871e",
+                                                                        "contents": {
+                                                                            "contents": [
+                                                                                [
+                                                                                    "AI 新闻"
+                                                                                ],
+                                                                                [
+                                                                                    "蹭流量"
+                                                                                ],
+                                                                                [
+                                                                                    "图文"
+                                                                                ]
+                                                                            ]
+                                                                        },
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "type": "table_row",
+                                                                        "id": "430e6024-46c8-4ca7-ad86-5b2cad7ec576",
+                                                                        "contents": {
+                                                                            "contents": [
+                                                                                [
+                                                                                    "新年Resolution及进展"
+                                                                                ],
+                                                                                [
+                                                                                    "监督自己"
+                                                                                ],
+                                                                                [
+                                                                                    "图文"
+                                                                                ]
+                                                                            ]
+                                                                        },
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "type": "table_row",
+                                                                        "id": "e3aaa9be-464e-478a-bd57-6d2b5c1c951c",
+                                                                        "contents": {
+                                                                            "contents": [
+                                                                                [
+                                                                                    "Notion小技巧"
+                                                                                ],
+                                                                                [
+                                                                                    "普及Notion"
+                                                                                ],
+                                                                                [
+                                                                                    "Notion页面图文"
+                                                                                ]
+                                                                            ]
+                                                                        },
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "type": "table_row",
+                                                                        "id": "debe0cc8-fe9e-4015-a98f-fb8d0eb7afe9",
+                                                                        "contents": {
+                                                                            "contents": [
+                                                                                [
+                                                                                    "读书笔记"
+                                                                                ],
+                                                                                [
+                                                                                    "提供价值"
+                                                                                ],
+                                                                                [
+                                                                                    "Notion页面图文"
+                                                                                ]
+                                                                            ]
+                                                                        },
+                                                                        "children": []
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "type": "paragraph",
+                                                                "id": "13869e76-d9d6-4610-a763-c270d5b64344",
+                                                                "contents": {
+                                                                    "contents": []
+                                                                },
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "type": "child_page",
+                                                        "id": "62738ac4-b3e4-4f89-bc8f-e01cbd9afa1e",
+                                                        "contents": {
+                                                            "title": "Language"
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "type": "paragraph",
+                                                                "id": "278e8435-89ca-45ff-ba29-e7c2c12ad411",
+                                                                "contents": {
+                                                                    "rich_text": "Learn Japanese and Korean to the extent of being able to order in a Japanese/Korean restaurant."
+                                                                },
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "type": "child_page",
+                                                        "id": "1868d463-503f-42b9-b210-f0989e4fb2f1",
+                                                        "contents": {
+                                                            "title": "Cold Shower x 180"
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "type": "paragraph",
+                                                                "id": "282b56cd-d3ad-4f30-9c9b-68fc58d2fe8c",
+                                                                "contents": {
+                                                                    "rich_text": "2 mins every time"
+                                                                },
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "type": "child_page",
                                                         "id": "ca6ac7c0-153d-4a6a-850c-39bc8d35607e",
                                                         "contents": {
                                                             "title": "Release CLV v1.0"
@@ -697,6 +915,54 @@
                                                                 "id": "e9cd1bed-3bca-4f44-9ba9-cc31b5b97641",
                                                                 "contents": {
                                                                     "contents": {}
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "paragraph",
+                                                                "id": "e39f2389-eade-43fe-9da5-b189de6af521",
+                                                                "contents": {
+                                                                    "rich_text": "On "
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "paragraph",
+                                                                "id": "2383eb2c-05cc-46e6-b4d0-b300c7ea2623",
+                                                                "contents": {
+                                                                    "rich_text": "Tasks that need to be completed to fulfill this goal:"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "to_do",
+                                                                "id": "caf49d7e-1e68-49df-ae0c-4f3b03b0e9ee",
+                                                                "contents": {
+                                                                    "rich_text": "Find 20 users to test this product"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "to_do",
+                                                                "id": "ad37b304-4335-48bc-b288-ab3211ecbf1c",
+                                                                "contents": {
+                                                                    "rich_text": "Gather feedbacks"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "to_do",
+                                                                "id": "dbb9adf0-1710-4fb4-9a02-3b22e18e7bd6",
+                                                                "contents": {
+                                                                    "rich_text": "Figure out the final business model for this"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "to_do",
+                                                                "id": "74424fea-9411-496c-a39f-4a65f3936c65",
+                                                                "contents": {
+                                                                    "rich_text": "Complete the budgeting analysis"
                                                                 },
                                                                 "children": []
                                                             }
@@ -797,7 +1063,176 @@
                                                         "contents": {
                                                             "title": "20 Books"
                                                         },
-                                                        "children": []
+                                                        "children": [
+                                                            {
+                                                                "type": "to_do",
+                                                                "id": "13b63668-c8d9-4684-8d02-c4f6558a3232",
+                                                                "contents": {
+                                                                    "rich_text": "Atomic Habits"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "to_do",
+                                                                "id": "c5bda2f1-2ac3-478c-bec7-dec71b52181f",
+                                                                "contents": {
+                                                                    "rich_text": "围城"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "to_do",
+                                                                "id": "97ee2f45-55d8-4107-b673-92b27f8bcb47",
+                                                                "contents": {
+                                                                    "rich_text": "次第花开"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "to_do",
+                                                                "id": "12510e77-554c-4573-bfb2-fe656f71204b",
+                                                                "contents": {
+                                                                    "rich_text": "厚黑学"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "to_do",
+                                                                "id": "44a27f45-ea62-499a-9f15-cd8d89a8c5db",
+                                                                "contents": {
+                                                                    "rich_text": "How not to die alone"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "to_do",
+                                                                "id": "592c5bcf-7939-47c8-91ca-483097769a89",
+                                                                "contents": {
+                                                                    "rich_text": "Financial Freedom"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "to_do",
+                                                                "id": "31b840d4-ba8b-4f4e-baca-047badabf457",
+                                                                "contents": {
+                                                                    "rich_text": "Scattered Minds"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "to_do",
+                                                                "id": "189606b5-29ec-46df-9aba-25337b12083a",
+                                                                "contents": {
+                                                                    "rich_text": "The Gender Knot"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "to_do",
+                                                                "id": "403e13f7-a8bd-4a56-930b-8b5d32e1d826",
+                                                                "contents": {
+                                                                    "rich_text": "Daily Stoic"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "to_do",
+                                                                "id": "1ea54304-5627-402f-a07e-e2cdf4150847",
+                                                                "contents": {
+                                                                    "rich_text": "Why We Sleep"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "to_do",
+                                                                "id": "f6298678-affe-4f08-9ccd-727d57c01bb2",
+                                                                "contents": {
+                                                                    "rich_text": "Leaders Eat Last"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "to_do",
+                                                                "id": "c183feb0-16e0-40ee-a5e7-69ecc989c92a",
+                                                                "contents": {
+                                                                    "rich_text": "Management"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "to_do",
+                                                                "id": "618ba97e-aee4-4e27-8494-a9d4bf39f510",
+                                                                "contents": {
+                                                                    "rich_text": "Managing Oneself"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "to_do",
+                                                                "id": "71015bca-111f-413e-83ee-89be0d243f71",
+                                                                "contents": {
+                                                                    "rich_text": "Sapiens"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "to_do",
+                                                                "id": "9519c565-0511-468b-b229-d1ede01a62a0",
+                                                                "contents": {
+                                                                    "rich_text": "Psychology of Money"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "to_do",
+                                                                "id": "478a06c0-9b58-4ddf-b7a9-84ecd8c88143",
+                                                                "contents": {
+                                                                    "rich_text": "1984"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "to_do",
+                                                                "id": "3bb7bf2f-ad38-4e48-98c3-7f7290a6e44e",
+                                                                "contents": {
+                                                                    "rich_text": "Thinking, Fast & Slow"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "to_do",
+                                                                "id": "c9dcf9fd-205b-404c-b120-33f5d8f699dd",
+                                                                "contents": {
+                                                                    "rich_text": "Good Services"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "to_do",
+                                                                "id": "8e131bcb-dab1-41e9-bd52-fe603d8dfb31",
+                                                                "contents": {
+                                                                    "rich_text": "Emotions Revealed"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "to_do",
+                                                                "id": "8ef77a68-9632-4a10-9ea1-8a3447c6848c",
+                                                                "contents": {
+                                                                    "rich_text": "活法"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "paragraph",
+                                                                "id": "f850ad05-6b05-4348-856a-59055f39631b",
+                                                                "contents": {
+                                                                    "contents": []
+                                                                },
+                                                                "children": []
+                                                            }
+                                                        ]
                                                     },
                                                     {
                                                         "type": "child_page",
@@ -805,7 +1240,16 @@
                                                         "contents": {
                                                             "title": "Morning Runs x 300"
                                                         },
-                                                        "children": []
+                                                        "children": [
+                                                            {
+                                                                "type": "paragraph",
+                                                                "id": "0467f2a9-0f32-43af-9797-ec3ac7546b42",
+                                                                "contents": {
+                                                                    "rich_text": "Morning (between 6-9 AM) runs - any type of runs, indoors or outdoors."
+                                                                },
+                                                                "children": []
+                                                            }
+                                                        ]
                                                     },
                                                     {
                                                         "type": "child_page",
@@ -813,13 +1257,181 @@
                                                         "contents": {
                                                             "title": "Gym 45 x 180"
                                                         },
+                                                        "children": [
+                                                            {
+                                                                "type": "paragraph",
+                                                                "id": "79acf26e-f299-40df-9788-747bc179ada0",
+                                                                "contents": {
+                                                                    "rich_text": "Go to the gym or workout at home 180 times for at least 45 minutes each visit for it to count"
+                                                                },
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "heading_1",
+                                                "id": "277e3581-a4a6-45a0-b8bc-afe36b754460",
+                                                "contents": {
+                                                    "rich_text": "Tracker"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "type": "column_list",
+                                                "id": "9596ae47-3bba-49f8-bbe5-2bc5677a1cd4",
+                                                "contents": {
+                                                    "contents": {}
+                                                },
+                                                "children": [
+                                                    {
+                                                        "type": "column",
+                                                        "id": "4421656f-f8ab-4c6f-a162-50e0e7131263",
+                                                        "contents": {
+                                                            "contents": {}
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "type": "unsupported",
+                                                                "id": "6a388816-2f6a-4535-9dc3-8bf96d263889",
+                                                                "contents": {
+                                                                    "contents": {}
+                                                                },
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "type": "column",
+                                                        "id": "258e8fa4-1710-4fc6-9fe9-52444f32ea9c",
+                                                        "contents": {
+                                                            "contents": {}
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "type": "unsupported",
+                                                                "id": "50ba8f74-f13b-4659-b7aa-d40eef75fa07",
+                                                                "contents": {
+                                                                    "contents": {}
+                                                                },
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "type": "column",
+                                                        "id": "07fc55ba-6692-4e3f-81ca-af191d3564e1",
+                                                        "contents": {
+                                                            "contents": {}
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "type": "unsupported",
+                                                                "id": "85838bdc-5e17-4f70-a34c-ae3eeecdf19c",
+                                                                "contents": {
+                                                                    "contents": {}
+                                                                },
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "type": "column",
+                                                        "id": "1dd1463a-4960-4b56-a465-b5a6fd18bde8",
+                                                        "contents": {
+                                                            "contents": {}
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "type": "unsupported",
+                                                                "id": "04db85f8-5cde-4ce9-91d9-f9d94de88507",
+                                                                "contents": {
+                                                                    "contents": {}
+                                                                },
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "divider",
+                                                "id": "e66dc65d-d304-41ef-8688-25f94a9cc86d",
+                                                "contents": {
+                                                    "contents": {}
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "type": "heading_1",
+                                                "id": "da5afa2b-34b7-4a2b-a501-4987febad21d",
+                                                "contents": {
+                                                    "rich_text": "Tracker DB"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "type": "child_database",
+                                                        "id": "9733d765-c1eb-4293-8cea-fb743ee23fcd",
+                                                        "contents": {
+                                                            "title": "Test Tracker"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "type": "child_database",
+                                                        "id": "b4ad7e7f-bb6e-4d8e-b6b3-0af42cfa24ac",
+                                                        "contents": {
+                                                            "title": "Tracker Overview"
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "type": "child_page",
+                                                                "id": "61a525cb-2cc2-4032-89a5-2d9f448bf7c6",
+                                                                "contents": {
+                                                                    "title": "XHS Posts"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "child_page",
+                                                                "id": "0f4b40cf-8cda-461f-be32-5992aceb7029",
+                                                                "contents": {
+                                                                    "title": "Gym Sessions"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "child_page",
+                                                                "id": "612fa200-67d4-4ad7-8106-f22642abd15e",
+                                                                "contents": {
+                                                                    "title": "Cold Showers"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "type": "child_page",
+                                                                "id": "e32ccf46-f42f-411d-8a86-3796161dda50",
+                                                                "contents": {
+                                                                    "title": "Morning Runs"
+                                                                },
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "id": "ee27d2a4-0b3e-4a69-b02e-1c5fe2162ad5",
+                                                        "contents": {
+                                                            "contents": []
+                                                        },
                                                         "children": []
                                                     }
                                                 ]
                                             },
                                             {
                                                 "type": "paragraph",
-                                                "id": "277e3581-a4a6-45a0-b8bc-afe36b754460",
+                                                "id": "a2be7677-ba77-4f82-95b9-b70c6f7efced",
                                                 "contents": {
                                                     "contents": []
                                                 },

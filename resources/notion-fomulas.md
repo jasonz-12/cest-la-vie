@@ -29,3 +29,12 @@ if(
 )
 )
 ```
+
+# Progress Bar
+```
+slice("● ● ● ● ● ● ● ● ● ●".split(), 0, round(prop("ProgressPercent") * 10)).join("") + slice("○ ○ ○ ○ ○ ○ ○ ○ ○ ○".split(), 0, round((1 - prop("ProgressPercent")) * 10)).join("") + " " + if(prop("Completed") == 0, "0", format(round(prop("ProgressPercent") * 100))) + "%"
+```
+
+```
+slice("● ● ● ● ● ● ● ● ● ●".split(), 0, 2).join("")
+```
