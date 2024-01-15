@@ -113,7 +113,7 @@ async function processBlock(blockId, parentId = null) {
         // Write to JSON file
         fs.writeFile('metadata-structure-template.json', jsonData, (err) => {
         if (err) throw err;
-        console.log('Data written to file');
+        // console.log('Data written to file');
         });
     } catch (error) {
         console.error('Error processing block: '+blockId);

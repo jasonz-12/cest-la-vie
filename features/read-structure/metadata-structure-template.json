@@ -27,6 +27,42 @@
     }
   },
   {
+    "id": "54ddec4f-5620-47ec-8745-326df8852a36",
+    "type": "child_page",
+    "url": "https://www.notion.so/54ddec4f562047ec8745326df8852a36",
+    "parent": "79f048f0-19f0-4fbd-b888-9ff795a99507",
+    "contents": {
+      "title": "Brave Event"
+    }
+  },
+  {
+    "id": "7a6679ab-eada-45df-a9f1-3e25dfa90431",
+    "type": "child_page",
+    "url": "https://www.notion.so/7a6679abeada45dfa9f13e25dfa90431",
+    "parent": "79f048f0-19f0-4fbd-b888-9ff795a99507",
+    "contents": {
+      "title": "Boyuan & Soda"
+    }
+  },
+  {
+    "id": "7c193086-d612-4e71-8da8-773ba8b401ec",
+    "type": "child_page",
+    "url": "https://www.notion.so/7c193086d6124e718da8773ba8b401ec",
+    "parent": "79f048f0-19f0-4fbd-b888-9ff795a99507",
+    "contents": {
+      "title": "Dinner with Steven"
+    }
+  },
+  {
+    "id": "18ea89f3-55f0-449f-9bea-164f9bbd5e63",
+    "type": "child_page",
+    "url": "https://www.notion.so/18ea89f355f0449f9bea164f9bbd5e63",
+    "parent": "79f048f0-19f0-4fbd-b888-9ff795a99507",
+    "contents": {
+      "title": "Dinner with Ash & GaoZong"
+    }
+  },
+  {
     "id": "5e374a37-090a-4854-ab06-241de83039fe",
     "type": "child_page",
     "url": "https://www.notion.so/5e374a37090a4854ab06241de83039fe",
@@ -694,12 +730,4793 @@
     }
   },
   {
-    "id": "8e0ae3d5-f3bc-4e2e-80b6-934f50cfdfbf",
+    "id": "5af06d25-525c-4df1-a7a8-b7ac9e8ceac5",
+    "type": "heading_1",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "Introduction"
+    }
+  },
+  {
+    "id": "5941fd24-e464-40b0-9e0c-9e9e48856292",
+    "type": "heading_2",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "Welcome"
+    }
+  },
+  {
+    "id": "74de832a-2b71-478b-9d32-bc92e47c9fff",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "Hey everyone! Welcome back to my channel, since it’s my second video I can now say welcome “BACK”, and today I will share something that was demonstrated but left out in the last one - how to make a button in Notion to track your progress towards your resolutions and goals."
+    }
+  },
+  {
+    "id": "fd0db6dc-4b1e-40e8-aec7-cd4962b73eeb",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "Notion is a very useful and aesthetic tool that you can use to help manage the things in your life. And what’s best is that it works on all platforms, whether you have a Mac, Windows, or even just a web browser, and you can access it on your phones and pads as well, so whatever we build today, you can use it at your convenience and track whatever progress that you want to track, at anywhere."
+    }
+  },
+  {
+    "id": "8d91a039-eabc-4ed8-987d-9a6bfe8df353",
+    "type": "heading_2",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "Topics"
+    }
+  },
+  {
+    "id": "41a9e6bd-fcf0-40fa-8932-4a6e0b55bc02",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "Scenario"
+    }
+  },
+  {
+    "id": "f6bb2863-7da8-4de3-95be-6d671e04a943",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "Basics: Databases - what & why"
+    }
+  },
+  {
+    "id": "578eb417-5473-4a67-92c0-743cd5e17dce",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "Creation"
+    }
+  },
+  {
+    "id": "8e3cef19-adba-40e1-b203-e64c9f9828ee",
+    "type": "divider",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "contents": {}
+    }
+  },
+  {
+    "id": "c09b9f99-c265-477e-b1bb-ae072488b6cc",
+    "type": "heading_1",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "Segment - [Scenario]"
+    }
+  },
+  {
+    "id": "80fca738-1a03-4d9d-b4bd-8b594832162b",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "Imagine this: You're using Notion to track your fitness goals, and you've set up a \"Workout Completed\" button. Each time you finish a workout, you click this button, which automatically logs the date and type of exercise into a linked database. This visual tracking method not only keeps your progress neatly organized but also gives you a satisfying sense of accomplishment with every click. Over time, this button becomes a motivational tool, as you watch your consistency grow and your fitness database expand. It turns the mundane task of tracking into an interactive and rewarding part of your fitness journey."
+    }
+  },
+  {
+    "id": "ce70baaf-5a21-41d2-b573-35125dcfe322",
+    "type": "heading_1",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "Segment - [Basics]"
+    }
+  },
+  {
+    "id": "feca5f8f-288c-4939-a682-b0623d3220b5",
+    "type": "paragraph",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "\"So what exactly is a database? And how does that help build our button?"
+    }
+  },
+  {
+    "id": "57fd552c-cda6-4b25-bf37-66d3c690dc8b",
+    "type": "paragraph",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "Think of a database like a smart spreadsheet. It has properties, which are like columns that describe your data. Then, there are rows. Each row is a different item, but they all share the same properties, keeping everything neat and uniform. This setup is super handy when you've got tons of data!"
+    }
+  },
+  {
+    "id": "ad276d27-8643-4e0c-8d11-46f487ed4d9b",
+    "type": "paragraph",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "Now, each property in a database is unique to that database. Even if two databases have a property with the same name, they're not the same. It's like having two friends named Alex in different circles - same name, different people."
+    }
+  },
+  {
+    "id": "23dccf05-6c05-4bfb-ac7a-9107f0868689",
+    "type": "paragraph",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "But why use databases for tracking progress? Well, when we're doing something repeatedly, like a daily task, tracking means counting each time we do it. We need a system that's both stable and dynamic. One part stays the same - that's our total goal - and another part changes each time we hit a milestone, like a button click."
+    }
+  },
+  {
+    "id": "ee0c1d4a-6e9e-47be-a13b-c18398d6f6e5",
+    "type": "paragraph",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "In our database, we'll set up properties to do just this. One property will keep track of the total number of times we want to do something. Another will count how many times we've actually done it. Simple, right?"
+    }
+  },
+  {
+    "id": "101d0e94-b1db-4bf3-b865-5c5d590c222b",
+    "type": "paragraph",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "Let's jump right in and see how this works in action!\""
+    }
+  },
+  {
+    "id": "656bdca1-ad5f-4d19-b853-5db89fca1f44",
+    "type": "heading_1",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "Segment - [Creation]"
+    }
+  },
+  {
+    "id": "02a8bd21-0c67-4908-90b8-9bd9e9ba012d",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "3df8336f-9628-4780-a7f3-af357c352961",
+    "contents": {
+      "rich_text": "And again we will choose our favorite emojis (grow) and background image (clicking phone)."
+    }
+  },
+  {
+    "id": "21000d13-6b72-41c0-b40a-6615c67fbce7",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "3df8336f-9628-4780-a7f3-af357c352961",
+    "contents": {
+      "rich_text": "Looks good!"
+    }
+  },
+  {
+    "id": "4177b657-4a7d-4c6d-8604-0d93bd879001",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "9dc35408-149c-4c89-bdeb-3fecca6fa3f7",
+    "contents": {
+      "rich_text": "Description"
+    }
+  },
+  {
+    "id": "8f8210d4-0de4-4592-9c11-d811d3f74fb7",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "9dc35408-149c-4c89-bdeb-3fecca6fa3f7",
+    "contents": {
+      "rich_text": "Buttons"
+    }
+  },
+  {
+    "id": "0b79bb60-dbaf-494c-b39c-37fc40113fc8",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "9dc35408-149c-4c89-bdeb-3fecca6fa3f7",
+    "contents": {
+      "rich_text": "Overview"
+    }
+  },
+  {
+    "id": "87255576-fdac-496e-a172-76c10a13892e",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "9dc35408-149c-4c89-bdeb-3fecca6fa3f7",
+    "contents": {
+      "rich_text": "Tracking Database"
+    }
+  },
+  {
+    "id": "9dc35408-149c-4c89-bdeb-3fecca6fa3f7",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "3df8336f-9628-4780-a7f3-af357c352961",
+    "contents": {
+      "rich_text": "Now we move on to the actual contents, which we will create 4 parts"
+    }
+  },
+  {
+    "id": "78811a86-be41-43b8-b277-5a4650b56dcf",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "3df8336f-9628-4780-a7f3-af357c352961",
+    "contents": {
+      "rich_text": "So while we’re at it let’s make the database part be able to toggle so we can have a more simplistic view."
+    }
+  },
+  {
+    "id": "3df8336f-9628-4780-a7f3-af357c352961",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "So here we are! Same process as before, let’s start by creating a new empty page."
+    }
+  },
+  {
+    "id": "2eb547e4-7744-4244-8ff1-2131b5f0e827",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "f5046aa5-e7f7-4647-b6c9-d6ec1380f887",
+    "contents": {
+      "rich_text": "Let’s just put…"
+    }
+  },
+  {
+    "id": "f5046aa5-e7f7-4647-b6c9-d6ec1380f887",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "Description:"
+    }
+  },
+  {
+    "id": "df300068-930c-4960-8e52-f1a43fc9dc72",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "1ecb2dc1-8189-40e8-8872-c2307fd537c8",
+    "contents": {
+      "rich_text": "Morning Run"
+    }
+  },
+  {
+    "id": "5a388b94-df8a-42e3-a7a3-52bf4ba7a958",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "1ecb2dc1-8189-40e8-8872-c2307fd537c8",
+    "contents": {
+      "rich_text": "Cold Shower"
+    }
+  },
+  {
+    "id": "8cd4acf4-4a33-43cd-80fd-615d0b1c1d9b",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "1ecb2dc1-8189-40e8-8872-c2307fd537c8",
+    "contents": {
+      "rich_text": "And I’ll just drag it over to the side so that these buttons are side by side and we’re not wasting all that space in 2 rows."
+    }
+  },
+  {
+    "id": "1ecb2dc1-8189-40e8-8872-c2307fd537c8",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "Now we create these 2 empty buttons first and we’ll come back to them later, I will create 2 things to track and the idea is if you can make 2 you can make a hundred, so here it is:"
+    }
+  },
+  {
+    "id": "00eddb08-5fad-4154-b6a4-53e182d35116",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "And then the OVERVIEW part is for us to come back to later as well, it will carry the visual segment of things where we can see a progress bar change when we click a button."
+    }
+  },
+  {
+    "id": "9a9e34fc-a097-4f0f-b1d5-787e303a3125",
+    "type": "paragraph",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "NOW FOR THE DATABASE PART, WE WANT TO MAKE SURE THAT WE CREATE THE DATABASES IN THE DROP DOWNS ALIGNED WITH THE TOGGLE HEADERS OTHERWISE IT WILL NOT WORK."
+    }
+  },
+  {
+    "id": "4056d868-5f82-4809-892a-36961631b403",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "634583e5-39c1-4cc5-b800-4565513fb0bb",
+    "contents": {
+      "rich_text": "We’re going to make a small database right here - just for our buttons later to have a place to write stuff into."
+    }
+  },
+  {
+    "id": "70abc984-e157-4ffa-ba77-e49bc80f74ce",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "634583e5-39c1-4cc5-b800-4565513fb0bb",
+    "contents": {
+      "rich_text": "(add columns, counter & date created, create tags)"
+    }
+  },
+  {
+    "id": "627e0966-0d68-4ed5-84b6-592caeb9f715",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "beb4d5f8-62f3-4be4-a283-6dad1e12f590",
+    "contents": {
+      "rich_text": "So right here we have this “counter” column, and the idea is to make all the entries under this column as the number 1, so that when we roll them up later in database number 2, we can sum them up and that’s the “completed” count for us."
+    }
+  },
+  {
+    "id": "beb4d5f8-62f3-4be4-a283-6dad1e12f590",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "634583e5-39c1-4cc5-b800-4565513fb0bb",
+    "contents": {
+      "rich_text": "Explain the counter"
+    }
+  },
+  {
+    "id": "ef3edc9f-da66-40f9-8500-52364fa19d4e",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "634583e5-39c1-4cc5-b800-4565513fb0bb",
+    "contents": {
+      "rich_text": "Now I think we’re good for database 1 and now let’s move to the second one."
+    }
+  },
+  {
+    "id": "634583e5-39c1-4cc5-b800-4565513fb0bb",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "Database 1 - Items"
+    }
+  },
+  {
+    "id": "915c29cc-624d-47c1-9201-3c11c6075e01",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "4119526e-6899-4f06-8e4f-98674df86569",
+    "contents": {
+      "rich_text": "We will use this separate database to do the rolling up of that data. By rolling up I mean we will do the sum of things in the counter column in the previous database."
+    }
+  },
+  {
+    "id": "a92fbec6-6f69-4573-95fb-79611cb2a09b",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "b591b51d-8d58-453e-bd17-a5943a79066c",
+    "contents": {
+      "rich_text": "Relations property to link this database with the first one we created"
+    }
+  },
+  {
+    "id": "846aefa8-99d0-4a65-9af3-52ea3caf3285",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "b591b51d-8d58-453e-bd17-a5943a79066c",
+    "contents": {
+      "rich_text": "A number property to count the total - this will remain unaffected by the button clicks"
+    }
+  },
+  {
+    "id": "24f3217a-4980-4080-a34f-e6c6f164be20",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "b591b51d-8d58-453e-bd17-a5943a79066c",
+    "contents": {
+      "rich_text": "A roll-up button to sum the counter property"
+    }
+  },
+  {
+    "id": "ce03a1cd-f8d3-47d1-9548-4737793e9ffb",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "b591b51d-8d58-453e-bd17-a5943a79066c",
+    "contents": {
+      "rich_text": "And finally a formula property to calculate the progress percentages."
+    }
+  },
+  {
+    "id": "74ebd299-51ba-4a00-9fa5-58bfd2d02063",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "b591b51d-8d58-453e-bd17-a5943a79066c",
+    "contents": {
+      "rich_text": "We can actually directly choose the type of visualization that Notion supports so that it fits with the overall style we’re using here."
+    }
+  },
+  {
+    "id": "b591b51d-8d58-453e-bd17-a5943a79066c",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "4119526e-6899-4f06-8e4f-98674df86569",
+    "contents": {
+      "rich_text": "So we will create these columns first"
+    }
+  },
+  {
+    "id": "36509467-2f81-4244-86db-69e1d8f19d84",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "4119526e-6899-4f06-8e4f-98674df86569",
+    "contents": {
+      "rich_text": "And then in the names property we will add a row that represents the morning runs and another that represents cold shower."
+    }
+  },
+  {
+    "id": "4119526e-6899-4f06-8e4f-98674df86569",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "Database 2 - Roll-Up"
+    }
+  },
+  {
+    "id": "5b77fcb9-397e-40a5-b5f5-be1dbcfc58a6",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "Finally let’s go back to the overview part and create a view for the roll-up database to visualize things better."
+    }
+  },
+  {
+    "id": "6e8e1850-73a6-4615-81cc-5341a8864247",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "fb7bf113-2d48-4cb0-9fa8-983a9be9de11",
+    "contents": {
+      "rich_text": "First we want to click on the small settings button"
+    }
+  },
+  {
+    "id": "214f402a-5c29-49ad-bd6f-51dec901b62b",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "fb7bf113-2d48-4cb0-9fa8-983a9be9de11",
+    "contents": {
+      "rich_text": "Then we will add a step to create a page in database 1, here remember to keep the counter as 1"
+    }
+  },
+  {
+    "id": "922b76bd-bf28-49b0-a991-dd8adabb2383",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "fb7bf113-2d48-4cb0-9fa8-983a9be9de11",
+    "contents": {
+      "rich_text": "Next we add another step to perform the action in database 2, which is the roll-up. Here we will filter for the type of activity first…… and then pick the relation property that we built in database 2 and choose “add” and then “New page added” - so that should do it."
+    }
+  },
+  {
+    "id": "fb7bf113-2d48-4cb0-9fa8-983a9be9de11",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "So now let’s program our buttons."
+    }
+  },
+  {
+    "id": "acb4785a-c7fb-46ab-a849-10979dd770e8",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "81830498-39e8-4523-b047-e9d17cca02a1",
+    "contents": {
+      "rich_text": "Basically whenever a button is clicked we will have a page created in database number one which have all our items. But do notice that these pages will all be the same."
+    }
+  },
+  {
+    "id": "81830498-39e8-4523-b047-e9d17cca02a1",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "And now it’s time to test things out and see how it works."
+    }
+  },
+  {
+    "id": "56507325-780e-4559-b4df-3d9193e4deb3",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "Okay! It works, this is so cool, so whenever I finish a run, I can just click a button and watch the bar grow."
+    }
+  },
+  {
+    "id": "fee9bcd2-d40e-4a7a-b70c-849f0b3880fe",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "This is such a rewarding process!"
+    }
+  },
+  {
+    "id": "802266f4-7d82-4295-b00b-20c10fb14694",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "So that’s it! And as usual I will provide this as a template and you can copy it to your Notion and program it differently or even add some new ones. "
+    }
+  },
+  {
+    "id": "e6c83ad9-8148-44d4-ab45-b3d90d9a05c2",
+    "type": "divider",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "contents": {}
+    }
+  },
+  {
+    "id": "debb74bb-46c3-47d9-88e2-d5e872e4d57f",
+    "type": "heading_1",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "Conclusion/Ending"
+    }
+  },
+  {
+    "id": "456fa96c-543a-4990-b7e4-64ddde06c143",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "And there you have it! We've just created a smart, interactive button in Notion that's going to revolutionize the way we track and achieve our New Year's resolutions. Remember, the key to success lies in the small, consistent steps we take every day. This button isn’t just a tool; it’s your daily nudge towards realizing those big dreams. So, hit that button, stay on track, and let's make this year the one where we turn our resolutions into reality. And also don't forget to like, share, and subscribe buttons for this video! I will post more tips on making the most out of Notion. Remember, it’s gonna get better!"
+    }
+  },
+  {
+    "id": "2a6f8c76-9694-4893-98cd-77882ff68ec8",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "Keep pushing those boundaries and see you in the next video! Peace!"
+    }
+  },
+  {
+    "id": "0f29660e-542e-4c06-af08-7f94b1e92c42",
+    "type": "divider",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "contents": {}
+    }
+  },
+  {
+    "id": "4e8b233f-4af8-4140-b739-8f6a314ab079",
+    "type": "heading_1",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "Resources"
+    }
+  },
+  {
+    "id": "84d6a0d8-7dea-4aa4-bbbb-85ffb5a0a5e2",
+    "type": "code",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "graph TD\n  buttonClicked --> +1\n\titemsDatabase --> counterProperty \n\t+1 --> counterProperty\n\tcounterProperty -- sums --> completedProperty\n\trollUpDatabase ---> completedProperty\n\trollUpDatabase ---> totalProperty\n\trollUpDatabase ---> progressPercentProperty\n\trollUpOverview ---> progressPercentProperty\n\tbuttonClicked --> rollUpOverview"
+    }
+  },
+  {
+    "id": "e27ec277-0156-4660-adcf-ac8662481e13",
+    "type": "divider",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "contents": {}
+    }
+  },
+  {
+    "id": "d38d3a53-ca88-4025-a70c-85391886bc73",
+    "type": "heading_1",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "YouTube"
+    }
+  },
+  {
+    "id": "4c0c0d94-fc75-4baa-9431-19e5ada2a9e6",
+    "type": "heading_2",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "Title"
+    }
+  },
+  {
+    "id": "d19babf9-092c-4358-aa39-4c97f010ba8d",
+    "type": "paragraph",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "contents": []
+    }
+  },
+  {
+    "id": "e92e331b-bcdf-4b9e-abd0-8463c0e63147",
+    "type": "heading_2",
+    "url": null,
+    "parent": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
+    "contents": {
+      "rich_text": "Description"
+    }
+  },
+  {
+    "id": "8b2bf2b5-dd2f-4185-a8df-9cf4876b3ea2",
     "type": "child_page",
-    "url": "https://www.notion.so/8e0ae3d5f3bc4e2e80b6934f50cfdfbf",
+    "url": "https://www.notion.so/8b2bf2b5dd2f4185a8df9cf4876b3ea2",
+    "parent": "79f90e25-c8f5-4adf-8a9c-8d09aca8528d",
+    "contents": {
+      "title": "Notion Buttons"
+    }
+  },
+  {
+    "id": "0b542b24-b82e-46e7-8d0e-39720bcd3fd8",
+    "type": "heading_1",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "rich_text": "Script"
+    }
+  },
+  {
+    "id": "7d09019b-823c-4d1a-b9e8-c77c9f264bf5",
+    "type": "divider",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "contents": {}
+    }
+  },
+  {
+    "id": "f95747dd-5f8b-497c-bae8-08cfa503d2df",
+    "type": "paragraph",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "rich_text": "[Introduction]"
+    }
+  },
+  {
+    "id": "87bb3925-f0d2-4946-9a52-bc74f998bb84",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "rich_text": "Opening: "
+    }
+  },
+  {
+    "id": "3bf151ba-d270-422b-bf7b-622bf0ac0704",
+    "type": "divider",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "contents": {}
+    }
+  },
+  {
+    "id": "bb599b17-eadf-4c87-81ef-82fc258d1d2a",
+    "type": "paragraph",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "rich_text": "[Segment 1: Main Topic]"
+    }
+  },
+  {
+    "id": "f2391934-117c-4217-83f3-0e7e05349860",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "rich_text": "Topic Overview"
+    }
+  },
+  {
+    "id": "1ed1b91b-5584-4cb3-85db-213bff542bee",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "ba05d36e-7375-4f83-94ef-58a73ce6e3ce",
+    "contents": {
+      "rich_text": "Subpoint 1"
+    }
+  },
+  {
+    "id": "cc27dc9e-7419-4f1d-b542-980b2a0ceaa6",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "ba05d36e-7375-4f83-94ef-58a73ce6e3ce",
+    "contents": {
+      "rich_text": "Subpoint 2"
+    }
+  },
+  {
+    "id": "c27ebeb3-527d-455e-b019-7709aff477bb",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "ba05d36e-7375-4f83-94ef-58a73ce6e3ce",
+    "contents": {
+      "rich_text": "Subpoint 3"
+    }
+  },
+  {
+    "id": "ba05d36e-7375-4f83-94ef-58a73ce6e3ce",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "rich_text": "Key Points"
+    }
+  },
+  {
+    "id": "6f7036d0-093f-4908-9bb3-87c79b20d0dc",
+    "type": "divider",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "contents": {}
+    }
+  },
+  {
+    "id": "2398fdb5-b7c6-4eb4-9608-8afcc0ca56fd",
+    "type": "paragraph",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "rich_text": "[Transition to Practical Application]"
+    }
+  },
+  {
+    "id": "61ffe877-1b71-4775-b74e-884144ccdbe1",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "rich_text": "Segue"
+    }
+  },
+  {
+    "id": "03046f36-6411-4a33-8503-1b3e7153a6d7",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "912af5f7-1375-443a-aba4-46f6ed0dc18f",
+    "contents": {
+      "rich_text": "So first let us create a new page"
+    }
+  },
+  {
+    "id": "101869b2-9c32-4991-b2cc-368a486eec22",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "912af5f7-1375-443a-aba4-46f6ed0dc18f",
+    "contents": {
+      "rich_text": "In this page we can pick our favourite or most fitting emojis and background image"
+    }
+  },
+  {
+    "id": "e471c2e4-2292-4e51-8a94-1ea3cff6698c",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "912af5f7-1375-443a-aba4-46f6ed0dc18f",
+    "contents": {
+      "rich_text": "Then in the actual contents we will create a new database because we will need that clean and tabular format to compare and see these things as they stack up. A database comes with these 2 default properties and we will use them and add a couple more. But let’s first create the tags that I’ve previously mentioned. So physical, mental, skills, and personal-goals. Naming stuff isn’t my strong suit so bear with me as we move along."
+    }
+  },
+  {
+    "id": "0d37e198-d60f-4eb0-beed-67990f27ec9c",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "912af5f7-1375-443a-aba4-46f6ed0dc18f",
+    "contents": {
+      "rich_text": "So my first goal is to do some morning runs - I really think these are revitalizing and can help me get into a healthier sleep schedule, so here it is - I will do 300 of these. And inside I will first create this sub template that serves as a referencing format to help guide me in terms of the scope and requirements."
+    }
+  },
+  {
+    "id": "5ad28374-e4fc-49d9-a20a-3fa607bdc032",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "912af5f7-1375-443a-aba4-46f6ed0dc18f",
+    "contents": {
+      "rich_text": "Next I think I really need to train for a better performance in general on soccer so I would need to spend some more time in the gym so let’s make it about once every 2 days. And here you can see once we open up that page we can select the sub-page template we just created and use it in this page. "
+    }
+  },
+  {
+    "id": "ef673202-cd94-48c8-9eb0-0a2712f07cc1",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "912af5f7-1375-443a-aba4-46f6ed0dc18f",
+    "contents": {
+      "rich_text": "With all that work I would need a way to recover… I would want to do ice baths like Jordan Ferrone (left hand) but I think I’m not Canadian enough yet so let’s start with cold showers, and let’s do 180 of them as well."
+    }
+  },
+  {
+    "id": "dc6f0915-0cd6-4a29-a7d5-ea3567bb364e",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "912af5f7-1375-443a-aba4-46f6ed0dc18f",
+    "contents": {
+      "rich_text": "So that’s about the physical part - let’s move on to the mental part. First thing is that I’m going to read 20 books, and I have a list of books somewhere… (copies over) that includes not only English literature but also Chinese literature as well because during my trip back home I realized how much Mandarin talking skills I’ve lost throughout the years, so I want to pick that up again and be able to express myself in both languages."
+    }
+  },
+  {
+    "id": "970c8fff-c0e4-4800-bd49-40e628b14af2",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "912af5f7-1375-443a-aba4-46f6ed0dc18f",
+    "contents": {
+      "rich_text": "Speaking of languages I want to acquire 2 new languages this year - Korean and Japanese. Hey, I know it’s a big ambition, but I’m not going to scope this that far ahead, I will learn how to read, write, listen and speak to the extent that I can use for example Korean to order food and have conversations in restaurants. So I think that’s doable and would be really cool because I really want to visit both Korea and Japan one day and I sincerely want to speak their language when I’m in their country so… there you go, this is a starting point."
+    }
+  },
+  {
+    "id": "d37d55fe-e0aa-4602-9a6b-987aba37f97f",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "912af5f7-1375-443a-aba4-46f6ed0dc18f",
+    "contents": {
+      "rich_text": "And finally for 2 personal goals I have a product in the making that I would like to launch on July 1st - more of that later. And I want to start by posting 100 times on 小红书 which is a Chinese social media platform where I think I’d personally have the most chance on making an impact in the longer term."
+    }
+  },
+  {
+    "id": "912af5f7-1375-443a-aba4-46f6ed0dc18f",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "rich_text": "Demonstration"
+    }
+  },
+  {
+    "id": "3bbb3af4-2db6-4d62-9659-b58dafb2b21d",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "2024e255-7bdb-45ad-94b1-f30291513b43",
+    "contents": {
+      "rich_text": "If you want this simple template, I have a link in description for you to copy this page over to your Notion, so check it out!"
+    }
+  },
+  {
+    "id": "7ba9ad16-3be2-4132-bd64-a6be4f58317a",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "2024e255-7bdb-45ad-94b1-f30291513b43",
+    "contents": {
+      "rich_text": "And if you like contents about Notion I will post more in the coming videos because my CLV product is exactly about using Notion."
+    }
+  },
+  {
+    "id": "2024e255-7bdb-45ad-94b1-f30291513b43",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "rich_text": "Notion"
+    }
+  },
+  {
+    "id": "b9b1ae13-e15c-455e-9844-12b9c8f68f82",
+    "type": "divider",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "contents": {}
+    }
+  },
+  {
+    "id": "d485068b-5ce2-4489-a423-41697e8387e5",
+    "type": "paragraph",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "rich_text": "[Conclusion]"
+    }
+  },
+  {
+    "id": "4892c348-c1a3-4418-8def-3b8d87ee894f",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "rich_text": "Recap"
+    }
+  },
+  {
+    "id": "670b6095-bd3d-4c29-831b-6e60307534cc",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "rich_text": "Teaser for Next Video"
+    }
+  },
+  {
+    "id": "2460b37d-7d20-4616-8982-14d779e36c4a",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "rich_text": "Closing Remarks"
+    }
+  },
+  {
+    "id": "f5f05832-1a50-48f0-9e31-b609cada8833",
+    "type": "divider",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "contents": {}
+    }
+  },
+  {
+    "id": "c47fa9bc-683e-4bac-88f8-b501065ef958",
+    "type": "paragraph",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "rich_text": "[End Screen]"
+    }
+  },
+  {
+    "id": "ad854bca-2c31-4395-80c2-e0e949778906",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "rich_text": "End Screen Elements"
+    }
+  },
+  {
+    "id": "582ef70e-184c-4533-b076-dd72bfa738e0",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "rich_text": "Final Sign-off"
+    }
+  },
+  {
+    "id": "588f3b99-dffb-4dce-a9cc-cf0a81787f55",
+    "type": "divider",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "contents": {}
+    }
+  },
+  {
+    "id": "fc6b0f79-cb2b-4090-92e8-6b9a63cb2f4f",
+    "type": "paragraph",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "rich_text": "[Scenes]"
+    }
+  },
+  {
+    "id": "dfbdb605-16af-453c-ac7e-428eeb1c8453",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "rich_text": "Opening"
+    }
+  },
+  {
+    "id": "5253616a-4152-4bd5-93e5-5caf1d8a9efd",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "rich_text": "Notion stuff"
+    }
+  },
+  {
+    "id": "e55bc302-883b-46d1-849c-0a10db573828",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "rich_text": "Closing"
+    }
+  },
+  {
+    "id": "03e42127-4672-4265-9a03-026793b854af",
+    "type": "divider",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "contents": {}
+    }
+  },
+  {
+    "id": "fa488dde-d635-40db-ac96-d1593054f172",
+    "type": "heading_1",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "rich_text": "B-Rolls"
+    }
+  },
+  {
+    "id": "e337e524-54f5-4db9-a772-9713003babfb",
+    "type": "bookmark",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "contents": {
+        "caption": [],
+        "url": "https://artlist.io/"
+      }
+    }
+  },
+  {
+    "id": "8a36733f-5219-4949-8dc3-219139b58c2c",
+    "type": "bookmark",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "contents": {
+        "caption": [],
+        "url": "https://www.shutterstock.com/video/search/running-outdoors"
+      }
+    }
+  },
+  {
+    "id": "09a45e71-35c9-4757-8d43-59335eea2ab7",
+    "type": "bookmark",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "contents": {
+        "caption": [],
+        "url": "https://pixabay.com/"
+      }
+    }
+  },
+  {
+    "id": "22dfada7-f7e1-47ff-b897-884ee9c4365f",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "rich_text": "Running outdoors x 3"
+    }
+  },
+  {
+    "id": "bbf1657e-e9f8-412d-870a-632b33b2cb6b",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "rich_text": "Working out in gym"
+    }
+  },
+  {
+    "id": "8e7de78f-8434-419f-bf55-8c04a1954052",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "rich_text": "Reading a book"
+    }
+  },
+  {
+    "id": "36304389-08b5-4a8d-844f-0668a758b964",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "rich_text": "Refuse a drink"
+    }
+  },
+  {
+    "id": "5152e5f9-441b-490b-976a-55511efe9e6c",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "rich_text": "Saving money"
+    }
+  },
+  {
+    "id": "dac27866-655a-44fd-a1a4-5635a0b32578",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "rich_text": "Working hard"
+    }
+  },
+  {
+    "id": "ad2b9fa4-cbeb-4bf2-9b5c-aaee20800be5",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "rich_text": "Hang out with friends"
+    }
+  },
+  {
+    "id": "32cc66c9-f44a-4da5-872e-126b479de3d6",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "rich_text": "……"
+    }
+  },
+  {
+    "id": "c840537e-3f0f-4acf-8943-a87721c781db",
+    "type": "divider",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "contents": {}
+    }
+  },
+  {
+    "id": "770dbb45-7e86-4f9e-97f0-9df9fd87ba1c",
+    "type": "heading_1",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "rich_text": "YouTube"
+    }
+  },
+  {
+    "id": "baeba7c3-5337-4d06-98e7-fb613799e549",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "rich_text": "Title: Plan & Track 2024 Resolutions Effortlessly with Notion"
+    }
+  },
+  {
+    "id": "12ed6e47-7478-48f6-a911-3871dcf18d25",
+    "type": "paragraph",
+    "url": null,
+    "parent": "3443d493-811a-47f2-8fbe-041df044cd29",
+    "contents": {
+      "rich_text": "[Description]\nFirst YouTube video!!!! In this one, I'm breaking down my 2024 resolutions (which I will most definitely complete this year!) and documenting it easily and aesthetically using Notion. Notion"
+    }
+  },
+  {
+    "id": "3385a931-b574-4e30-838c-2fa774f04bee",
+    "type": "paragraph",
+    "url": null,
+    "parent": "3443d493-811a-47f2-8fbe-041df044cd29",
+    "contents": {
+      "rich_text": "[Link to my channel]\nFollow my YouTube channel:  @lifez-jasonz"
+    }
+  },
+  {
+    "id": "8c4064b0-a139-4e4c-92f4-6a15acefdeb0",
+    "type": "paragraph",
+    "url": null,
+    "parent": "3443d493-811a-47f2-8fbe-041df044cd29",
+    "contents": {
+      "rich_text": "[Other links]\n2024 Resolutions Notion Template: "
+    }
+  },
+  {
+    "id": "0a9203f2-e561-4379-b755-937a4ecfe96a",
+    "type": "paragraph",
+    "url": null,
+    "parent": "3443d493-811a-47f2-8fbe-041df044cd29",
+    "contents": {
+      "rich_text": "My XHS page: "
+    }
+  },
+  {
+    "id": "3443d493-811a-47f2-8fbe-041df044cd29",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "contents": {
+      "rich_text": "Description: "
+    }
+  },
+  {
+    "id": "8c450a79-8eb7-4be6-89d8-0fc346618ffc",
+    "type": "child_page",
+    "url": "https://www.notion.so/8c450a798eb74be689d80fc346618ffc",
+    "parent": "79f90e25-c8f5-4adf-8a9c-8d09aca8528d",
+    "contents": {
+      "title": "2024 Resolutions"
+    }
+  },
+  {
+    "id": "79f90e25-c8f5-4adf-8a9c-8d09aca8528d",
+    "type": "child_database",
+    "url": null,
+    "parent": "11de968f-352c-49b6-ab87-6c681295779c",
+    "contents": {
+      "title": "Content Calendar"
+    }
+  },
+  {
+    "id": "c3dcd0e8-aa8b-4832-a0ac-2b18930ac880",
+    "type": "paragraph",
+    "url": null,
+    "parent": "11de968f-352c-49b6-ab87-6c681295779c",
+    "contents": {
+      "contents": []
+    }
+  },
+  {
+    "id": "6be18604-b0e0-49ab-98ff-092ff6b9bcce",
+    "type": "paragraph",
+    "url": null,
+    "parent": "24d1dac9-18af-4114-8c40-435b1148bf53",
+    "contents": {
+      "rich_text": "最近养成了一个习惯，通过跟家人朋友们聊天的时候获得的一些灵感，做成专门解决类似问题的GPTs，今天来分享一下。所有GPTs都支持多语言自由丝滑切换！"
+    }
+  },
+  {
+    "id": "0cdc5cfa-c711-4266-aa25-6c98c7aaa71a",
+    "type": "paragraph",
+    "url": null,
+    "parent": "24d1dac9-18af-4114-8c40-435b1148bf53",
+    "contents": {
+      "rich_text": "🔬 ResearchGPT"
+    }
+  },
+  {
+    "id": "c9588789-fcc8-4ce5-a3d2-9ad739157d55",
+    "type": "paragraph",
+    "url": null,
+    "parent": "24d1dac9-18af-4114-8c40-435b1148bf53",
+    "contents": {
+      "rich_text": "省时省力的文献研究工具，可以帮你形成一个完善的理论或hypothesis，然后根据你上传的文献来分析是否与你的研究方向/想法相符，从而节省很多人工的阅读时间。"
+    }
+  },
+  {
+    "id": "6659827c-6b7c-47a8-b7d3-a2403bf8a0ad",
+    "type": "paragraph",
+    "url": null,
+    "parent": "24d1dac9-18af-4114-8c40-435b1148bf53",
+    "contents": {
+      "rich_text": "🏥 PatientGPT"
+    }
+  },
+  {
+    "id": "adb45688-216c-426e-ac71-feb3ed8bb4d0",
+    "type": "paragraph",
+    "url": null,
+    "parent": "24d1dac9-18af-4114-8c40-435b1148bf53",
+    "contents": {
+      "rich_text": "看病从医院回来之后，病历、诊断书、处方、指标报告等等繁琐的文件，如果有些地方看不懂的话，返回医院或者上网查询都过于费时费力，也难以保证可以获得准确靠谱的信息。这个时候将自己的（去掉姓名和出生日期）的数据，放到PatientGPT里，就可以直接用自然语言进行问答，并获得一些基础的问题的靠谱的答案。"
+    }
+  },
+  {
+    "id": "f1baa67f-5c71-43e4-a7b3-b8f6190b9bc4",
+    "type": "paragraph",
+    "url": null,
+    "parent": "24d1dac9-18af-4114-8c40-435b1148bf53",
+    "contents": {
+      "rich_text": "🚀 PromoGPT"
+    }
+  },
+  {
+    "id": "ca05eee2-090f-4d16-916b-eb28fffa201e",
+    "type": "paragraph",
+    "url": null,
+    "parent": "24d1dac9-18af-4114-8c40-435b1148bf53",
+    "contents": {
+      "rich_text": "想升职？想在自己的职业发展道路上更进一步？但却不知道会面临什么样的问题，这个时候最好的办法就是用PromoGPT来进行练习。在提供自定义的一对一练习的基础之上，还可以为用户提供一些回答上的辅导和反馈，让你升职加薪的道路更加顺畅！"
+    }
+  },
+  {
+    "id": "712323f5-e3d8-435f-9248-8ab35a16b37a",
+    "type": "paragraph",
+    "url": null,
+    "parent": "24d1dac9-18af-4114-8c40-435b1148bf53",
+    "contents": {
+      "rich_text": "💡 FocusGPT"
+    }
+  },
+  {
+    "id": "63638ffa-6d58-4faa-ae3d-58f5857b4988",
+    "type": "paragraph",
+    "url": null,
+    "parent": "24d1dac9-18af-4114-8c40-435b1148bf53",
+    "contents": {
+      "rich_text": "可以解答一些注意力修复的问题，并且引导用户去自行思考、感受。同时还可以利用ChatGPT的视觉能力来让用户上传自己screen time的截图，并辅助分析，及时提供反馈。同时knowledge里存了一些关于”Social Dilemma”纪录片以及”Stolen Focus”书籍的内容，方便提供引用，以及增强对于用户关于注意力这方面的自我教育。"
+    }
+  },
+  {
+    "id": "24d1dac9-18af-4114-8c40-435b1148bf53",
+    "type": "child_page",
+    "url": "https://www.notion.so/24d1dac918af41148c40435b1148bf53",
+    "parent": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "contents": {
+      "title": "最近做的一些GPTs"
+    }
+  },
+  {
+    "id": "8a42ae2a-3962-4dad-b3cb-8ec93bfb92f7",
+    "type": "paragraph",
+    "url": null,
+    "parent": "e5dc855a-fe15-4011-ac38-cb605257611d",
+    "contents": {
+      "rich_text": "最近OpenAI dev day上迎来了重大更新。奥特曼一打响指，又干掉了一大批初创企业。"
+    }
+  },
+  {
+    "id": "8f08fda2-b241-4d03-85f8-8893fd09f6c1",
+    "type": "paragraph",
+    "url": null,
+    "parent": "e5dc855a-fe15-4011-ac38-cb605257611d",
+    "contents": {
+      "rich_text": "🔪 初步思考"
+    }
+  },
+  {
+    "id": "28405d99-fff0-464c-ad5e-7a3f2cefd442",
+    "type": "paragraph",
+    "url": null,
+    "parent": "e5dc855a-fe15-4011-ac38-cb605257611d",
+    "contents": {
+      "rich_text": "奥特曼这一步到位用500刀的OpenAI代金券安慰并打发走了估值上千万的公司CEO们，是在进一步提醒人们：现在这个阶段，必须得有自己的数据作为护城河，如果只是单纯的套壳儿那么会活不了太久。有自己的数据并不一定意味着要对于模型进行微调来让自己的公司站出来，而是要从这些数据的特殊性和质量上跟别的竞争对手分开。"
+    }
+  },
+  {
+    "id": "41f9234a-8e86-4993-9a36-553a33b08a49",
+    "type": "paragraph",
+    "url": null,
+    "parent": "e5dc855a-fe15-4011-ac38-cb605257611d",
+    "contents": {
+      "rich_text": "🔉 新出的三位一体功能，将Code Interpreter/DALLE-3/Web Browsing都跟GPT-4放到了一起，从此以后不用手动选择需要使用的工具，GPT-4会去基于用户的要求而触发相应的工具。这对做不同tooling的integration的startups影响很大，因为ChatGPT现在能整合这几个，以后就能integrate更多。"
+    }
+  },
+  {
+    "id": "06e69c5e-79f0-49d0-9c50-90b0cc03bab5",
+    "type": "paragraph",
+    "url": null,
+    "parent": "e5dc855a-fe15-4011-ac38-cb605257611d",
+    "contents": {
+      "rich_text": "🧠 GPTs———无须多言，每个人都可以拥有自己的ChatGPT，只有你想不到没有它做不到。我在GPT-4出来之后就觉得这是自然的下一步，因为ChatGPT固然强大，但是人们内心深处都是在渴望真正“拥有”这个强大的助手，其体现形式便是把它进行私人订制。"
+    }
+  },
+  {
+    "id": "75c72d1f-1ea7-42e0-a8d7-a03a2e9d8046",
+    "type": "paragraph",
+    "url": null,
+    "parent": "e5dc855a-fe15-4011-ac38-cb605257611d",
+    "contents": {
+      "rich_text": "⛓️ Assistants API ———用户可以自己通过threads的功能来管理不同的对话以及上传的/生成的文件/数据，每次还可以根据不同的用户要求来调用不同的工具。LangChain是不是就此玩儿完了？"
+    }
+  },
+  {
+    "id": "26f01770-c516-45bd-810d-b854b317b650",
+    "type": "paragraph",
+    "url": null,
+    "parent": "e5dc855a-fe15-4011-ac38-cb605257611d",
+    "contents": {
+      "rich_text": "大家怎么看？"
+    }
+  },
+  {
+    "id": "c76d104c-1735-4f3e-9234-3ae275787746",
+    "type": "paragraph",
+    "url": null,
+    "parent": "e5dc855a-fe15-4011-ac38-cb605257611d",
+    "contents": {
+      "rich_text": "—————————"
+    }
+  },
+  {
+    "id": "d3ca23ae-ef8f-4e05-a7cc-0509285adc42",
+    "type": "paragraph",
+    "url": null,
+    "parent": "e5dc855a-fe15-4011-ac38-cb605257611d",
+    "contents": {
+      "rich_text": "💊HospitalGPT💊———私人的医疗小助手"
+    }
+  },
+  {
+    "id": "072b4256-00a0-4c90-a18a-78fea6bf4fef",
+    "type": "paragraph",
+    "url": null,
+    "parent": "e5dc855a-fe15-4011-ac38-cb605257611d",
+    "contents": {
+      "rich_text": "如果你或者家里老人看病，病历、诊断结果一大堆，很杂乱，开的药是干什么的也记不太清，怎么办？还要再跑去医院找医生吗？还是上百度或者WebMD这种制造焦虑的网站上查查看？"
+    }
+  },
+  {
+    "id": "f3a126d4-6eea-482c-9ce6-8bf0a125b25a",
+    "type": "paragraph",
+    "url": null,
+    "parent": "e5dc855a-fe15-4011-ac38-cb605257611d",
+    "contents": {
+      "rich_text": "不如把自己看病相关的文档都给HospitalGPT，让一个私人订制的AI助手帮你阅读查看，答疑解惑。同时，HospitalGPT搭载了Code Interpreter的功能，意味着你可以把任何数据表格变得可视化，以一种直观的形式来看看自己的体征变化。"
+    }
+  },
+  {
+    "id": "8de4cca6-c10e-420b-b5ad-d495e08e8955",
+    "type": "paragraph",
+    "url": null,
+    "parent": "e5dc855a-fe15-4011-ac38-cb605257611d",
+    "contents": {
+      "rich_text": "HospitalGPT可以分析任何你想提供的信息，可以为你提供更加便捷的医院之外的体验。并支持多种语言，可以随意切换。"
+    }
+  },
+  {
+    "id": "5f38c6f0-88c1-4347-99b0-b357c860fb34",
+    "type": "paragraph",
+    "url": null,
+    "parent": "e5dc855a-fe15-4011-ac38-cb605257611d",
+    "contents": {
+      "rich_text": "⚠️ 分享自己的数据需谨慎，切记在上传之前一定要先把自己的姓名、生日等私密信息去掉。"
+    }
+  },
+  {
+    "id": "546181f8-3019-4cb8-b309-e4693d0e6498",
+    "type": "paragraph",
+    "url": null,
+    "parent": "e5dc855a-fe15-4011-ac38-cb605257611d",
+    "contents": {
+      "rich_text": "HospitalGPT现在本身搭载了一个模拟出来的病人的假数据，所以即便你不想上传自己的数据，也可以玩一玩这个假想病人的数据。只需要在使用HospitalGPT的时候，输入：“Tell me about the demo patient John Doe.”"
+    }
+  },
+  {
+    "id": "33c994c8-b2df-4538-bf58-b3fb9c8f0ea5",
+    "type": "paragraph",
+    "url": null,
+    "parent": "e5dc855a-fe15-4011-ac38-cb605257611d",
+    "contents": {
+      "contents": []
+    }
+  },
+  {
+    "id": "2b6add41-bb64-44aa-a806-2465f54e025e",
+    "type": "paragraph",
+    "url": null,
+    "parent": "e5dc855a-fe15-4011-ac38-cb605257611d",
+    "contents": {
+      "rich_text": "欢迎体验！"
+    }
+  },
+  {
+    "id": "e5dc855a-fe15-4011-ac38-cb605257611d",
+    "type": "child_page",
+    "url": "https://www.notion.so/e5dc855afe154011ac38cb605257611d",
+    "parent": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "contents": {
+      "title": "ChatGPT Plus完全体：买买买？"
+    }
+  },
+  {
+    "id": "ee6b84ab-54c5-4abc-b0b8-b39eae9ace8b",
+    "type": "child_page",
+    "url": "https://www.notion.so/ee6b84ab54c54abcb0b8b39eae9ace8b",
+    "parent": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "contents": {
+      "title": "从电影到现实：Her"
+    }
+  },
+  {
+    "id": "b5273653-56a1-4b3c-a147-1b63d9924c33",
+    "type": "paragraph",
+    "url": null,
+    "parent": "437a2351-2777-432f-bc9b-098d814def7d",
+    "contents": {
+      "rich_text": "10月28日，有些ChatGPT Plus的用户在打开网页端的时候看到了一条消息：”Your GPT-4 has been updated.” 自此”GPT-4 (All Tools)”便在Twitter (X)上炸开了锅，但从大家发的图片来看，可能实际有access的人还是少数。"
+    }
+  },
+  {
+    "id": "bd924ad4-b46b-4498-9889-2f6d23bdca69",
+    "type": "paragraph",
+    "url": null,
+    "parent": "437a2351-2777-432f-bc9b-098d814def7d",
+    "contents": {
+      "rich_text": "现在来盘点一下这次更新为什么值得人们期待。"
+    }
+  },
+  {
+    "id": "02490da8-7aba-4526-b956-730dbe84f98d",
+    "type": "paragraph",
+    "url": null,
+    "parent": "437a2351-2777-432f-bc9b-098d814def7d",
+    "contents": {
+      "rich_text": "1⃣️ 以前需要手动切换不同模式（DALL-E画图、上网浏览等等）才能完成相应的任务。但在这次更新之后，只需要在GPT-4里输入你想做的事情，比如直接给个图片然后让它照着发挥一下，就可以调用DALLE。👨‍🎨 👩‍🎨"
+    }
+  },
+  {
+    "id": "68672a72-d4e9-4355-b6a5-79eaf64b5339",
+    "type": "paragraph",
+    "url": null,
+    "parent": "437a2351-2777-432f-bc9b-098d814def7d",
+    "contents": {
+      "rich_text": "2⃣️ 最新版本的GPT-4可以在一次对话中调用多个工具。比如你想让GPT-4查询现在的天气然后用这个信息做一个图片，它就可以先调用上网浏览的功能查到温度、湿度等数据，然后用DALLE画一幅符合这个天气数据的图片，并把这个数据在里面呈现出来。🎨 🔢"
+    }
+  },
+  {
+    "id": "4448bfa4-f8b4-4522-ad69-2890d0c4d1e4",
+    "type": "paragraph",
+    "url": null,
+    "parent": "437a2351-2777-432f-bc9b-098d814def7d",
+    "contents": {
+      "rich_text": "❗️如果我们仔细看的话，会发现这个里面的文字其实也不是100%准确，但是相比于上一个版本的DALLE或现在的Midjourney来说，在图画中生成文字的能力已经有所大幅提升了。这个技术一定会在未来被解决，并达到接近100%的准确率。以后做infographic将会变得非常简单。"
+    }
+  },
+  {
+    "id": "8e788fc5-88c0-42cb-af12-da241cbf3038",
+    "type": "paragraph",
+    "url": null,
+    "parent": "437a2351-2777-432f-bc9b-098d814def7d",
+    "contents": {
+      "rich_text": "3⃣️ 对多种不同的文件格式进行分析。当下在ChatGPT的Plugin store里面，最火的几个都是关于PDF分析的，大家一般用它来读文献。但是现在GPT-4更新后，你可以跳过使用那些Plugin，GPT-4自己就可以直接帮你分析、总结你上传的文档。这将会把浏览pdf文档和分析pdf文档变得非常便捷，在手机app上发布之后，我们每个人快速总结信息的能力又会更上一个档次。📃 👀"
+    }
+  },
+  {
+    "id": "42c57420-3c39-4f86-9413-31bafa15a08e",
+    "type": "paragraph",
+    "url": null,
+    "parent": "437a2351-2777-432f-bc9b-098d814def7d",
+    "contents": {
+      "rich_text": "4⃣️ 分析图片，生成更多信息。网上流行的一个例子是通过GPT-4的基础知识，来总结一个图片里的食物的营养信息（热量、蛋白质含量等）。有了这个功能，我们以后是不是可以拍拍照就可以写好一天的饮食日记了呢？🍣 🍚 🍺"
+    }
+  },
+  {
+    "id": "17e296de-fe24-469c-806a-cff4ce3246cd",
+    "type": "paragraph",
+    "url": null,
+    "parent": "437a2351-2777-432f-bc9b-098d814def7d",
+    "contents": {
+      "rich_text": "5⃣️ 最💥的消息，但好像还没有被很多人证实过，就是自前一阵子ChatGPT把knowledge cutoff更新到了2022年2月份之后，最近有人发现现在的knowledge cutoff被更新到了2023年9月❗️❗️这无疑是一个重大的更新，但由于没有足够多的人证实，我们也不能排除GPT-4出现幻觉的可能。"
+    }
+  },
+  {
+    "id": "eb1cc55d-0b70-4816-8ec3-66c2faa11a8e",
+    "type": "paragraph",
+    "url": null,
+    "parent": "437a2351-2777-432f-bc9b-098d814def7d",
+    "contents": {
+      "rich_text": "总而言之，每次ChatGPT更新都会杀死一堆创业公司，这次肯定也不例外。"
+    }
+  },
+  {
+    "id": "e573658b-3126-4619-8bf9-46f4a2f6d452",
+    "type": "paragraph",
+    "url": null,
+    "parent": "437a2351-2777-432f-bc9b-098d814def7d",
+    "contents": {
+      "rich_text": "但最重要的是，这次的更新会不会标志着真正的AGI（人工通用智能）离我们不远了？以及OpenAI是否在为发布GPT-5做铺垫和准备？"
+    }
+  },
+  {
+    "id": "437a2351-2777-432f-bc9b-098d814def7d",
+    "type": "child_page",
+    "url": "https://www.notion.so/437a23512777432fbc9b098d814def7d",
+    "parent": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "contents": {
+      "title": "ChatGPT再更新：AGI要来了？"
+    }
+  },
+  {
+    "id": "7c484c0f-6b02-44aa-aa6c-323f95c3e739",
+    "type": "image",
+    "url": null,
+    "parent": "777b8b2d-8122-4b2f-99bc-24cfadbe62ed",
+    "contents": {
+      "contents": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/31c4a5ba-c390-45c1-b8c6-f49013a7a9a0/eebccee1-2ada-42d0-90b8-cb41df89bc6e/Screenshot_2023-10-26_at_10.10.54_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240106%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240106T164821Z&X-Amz-Expires=3600&X-Amz-Signature=8bc0bb6243304046dd2888f089b858e015694b4759a0071aab60d400fc4beb8e&X-Amz-SignedHeaders=host&x-id=GetObject",
+          "expiry_time": "2024-01-06T17:48:21.077Z"
+        }
+      }
+    }
+  },
+  {
+    "id": "229440bb-5cbd-451a-b43d-148e32be12f4",
+    "type": "paragraph",
+    "url": null,
+    "parent": "777b8b2d-8122-4b2f-99bc-24cfadbe62ed",
+    "contents": {
+      "rich_text": "大家可能感觉每天的生活是这样的，上下班赶路的时间或掺杂进了睡觉时间，或掺杂进了其他的时间。"
+    }
+  },
+  {
+    "id": "c2911e28-b4e6-4598-9957-f15538ca339a",
+    "type": "paragraph",
+    "url": null,
+    "parent": "777b8b2d-8122-4b2f-99bc-24cfadbe62ed",
+    "contents": {
+      "rich_text": "乍一看上去有很多时间可以支配，为什么感觉好像一天忙碌之后好像也没什么时间可以做别的事情呢？"
+    }
+  },
+  {
+    "id": "25d201ae-8f22-48b4-9635-23eddcf7b882",
+    "type": "paragraph",
+    "url": null,
+    "parent": "777b8b2d-8122-4b2f-99bc-24cfadbe62ed",
+    "contents": {
+      "rich_text": "首先，其实只有早起才能最高效率地完成关于你自己的事情，晚上精神身体双疲劳，很难再度专注。"
+    }
+  },
+  {
+    "id": "b607b536-7b98-4338-a16d-4b1c491ed071",
+    "type": "paragraph",
+    "url": null,
+    "parent": "777b8b2d-8122-4b2f-99bc-24cfadbe62ed",
+    "contents": {
+      "rich_text": "还有一个原因是，其实这六个小时，很多都被刷手机消耗殆尽了。"
+    }
+  },
+  {
+    "id": "777b8b2d-8122-4b2f-99bc-24cfadbe62ed",
+    "type": "child_page",
+    "url": "https://www.notion.so/777b8b2d81224b2f99bc24cfadbe62ed",
+    "parent": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "contents": {
+      "title": "每天到底有多少时间可以专注"
+    }
+  },
+  {
+    "id": "f7e69098-7141-4f54-bc79-613b0b966b86",
+    "type": "child_page",
+    "url": "https://www.notion.so/f7e6909871414f54bc79613b0b966b86",
+    "parent": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "contents": {
+      "title": "🥩 零失败的牛排菜谱"
+    }
+  },
+  {
+    "id": "95216504-24c0-4915-8263-21a6fa25ef2f",
+    "type": "table_of_contents",
+    "url": null,
+    "parent": "957accd2-9c91-46bb-bcd8-6ffa4a668184",
+    "contents": {
+      "contents": {
+        "color": "gray"
+      }
+    }
+  },
+  {
+    "id": "510a3416-57fe-4f4a-b4a9-9b7f207c252b",
+    "type": "paragraph",
+    "url": null,
+    "parent": "b8d3800c-354f-4691-9db3-a66e4f639ddf",
+    "contents": {
+      "rich_text": "75 HARD是一个美国企业家Andy Frisella发明的"
+    }
+  },
+  {
+    "id": "818edfa9-f456-439c-87ff-0475a331a378",
+    "type": "paragraph",
+    "url": null,
+    "parent": "b8d3800c-354f-4691-9db3-a66e4f639ddf",
+    "contents": {
+      "rich_text": "这个挑战有如下的几项要求："
+    }
+  },
+  {
+    "id": "d08ade58-896e-434f-88ef-4829fa5baa41",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "b8d3800c-354f-4691-9db3-a66e4f639ddf",
+    "contents": {
+      "rich_text": "喝"
+    }
+  },
+  {
+    "id": "7069f115-718e-4919-a70a-486f8f3a51d7",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "b8d3800c-354f-4691-9db3-a66e4f639ddf",
+    "contents": {
+      "rich_text": "读"
+    }
+  },
+  {
+    "id": "e3ea51cf-b256-47f0-80d8-72f9dc77f0ca",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "b8d3800c-354f-4691-9db3-a66e4f639ddf",
+    "contents": {
+      "rich_text": "2次"
+    }
+  },
+  {
+    "id": "3d9b5053-b11c-4623-87b9-09e8b68df086",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "b8d3800c-354f-4691-9db3-a66e4f639ddf",
+    "contents": {
+      "rich_text": "拍一张"
+    }
+  },
+  {
+    "id": "2e75bcc7-1e12-45d5-ad32-4a1f0dd6876f",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "b8d3800c-354f-4691-9db3-a66e4f639ddf",
+    "contents": {
+      "rich_text": "正常饮食，但"
+    }
+  },
+  {
+    "id": "bd5b0c45-3d4f-447c-91f6-1e11357d483d",
+    "type": "paragraph",
+    "url": null,
+    "parent": "b8d3800c-354f-4691-9db3-a66e4f639ddf",
+    "contents": {
+      "rich_text": "还有一项是我自己加的"
+    }
+  },
+  {
+    "id": "31ebcfe7-2f6b-43be-8bb5-34b22ecea8c2",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "b8d3800c-354f-4691-9db3-a66e4f639ddf",
+    "contents": {
+      "rich_text": "早起睡前各"
+    }
+  },
+  {
+    "id": "2d94b454-1c7b-4f46-86d0-98fb245d4336",
+    "type": "quote",
+    "url": null,
+    "parent": "b8d3800c-354f-4691-9db3-a66e4f639ddf",
+    "contents": {
+      "rich_text": "如果某天有任何一项失败，从头开始。"
+    }
+  },
+  {
+    "id": "b8d3800c-354f-4691-9db3-a66e4f639ddf",
+    "type": "heading_1",
+    "url": null,
+    "parent": "957accd2-9c91-46bb-bcd8-6ffa4a668184",
+    "contents": {
+      "rich_text": "🏃‍♂️ 什么是75 HARD"
+    }
+  },
+  {
+    "id": "e1356ebb-bdc8-4b80-8b35-bf05aa6df0c0",
+    "type": "paragraph",
+    "url": null,
+    "parent": "9540b681-16f9-4d10-91ca-119fd2518e9b",
+    "contents": {
+      "rich_text": "虽然乍一看这是一个对于身体和体力的挑战，但做到后面发现其实真的是在与自己的思想做斗争。但这有一个好处就是让我意识到了，没有做不到只有想与不想。有几次外面下着雨，我就开始找借口“外面下雨还出去跑步是不是会感冒”或者“下雨了是不是可以改成室内运动也一样”等等。但其实硬着头皮直接出去跑，结果也并没有什么大不了，能跑下来，也没有感冒。"
+    }
+  },
+  {
+    "id": "cba9575e-462f-45d4-8a6b-84a99c96ae8a",
+    "type": "quote",
+    "url": null,
+    "parent": "9540b681-16f9-4d10-91ca-119fd2518e9b",
+    "contents": {
+      "rich_text": "有时候，"
+    }
+  },
+  {
+    "id": "513d8383-da2a-49db-9789-e675d3b89b6d",
+    "type": "paragraph",
+    "url": null,
+    "parent": "9540b681-16f9-4d10-91ca-119fd2518e9b",
+    "contents": {
+      "rich_text": "而且不喝酒之后，我的睡眠和注意力真的有明显的提升，肚腩也嗖嗖小了下去（啤酒虽然好喝，但真的会让人肿起来哈哈哈哈）。有一次踢完球之后跟队友们去酒吧吃饭，他们都要啤酒，到我这儿我说来个diet coke吧，在我解释了缘由之后，有个白人老哥说：“Bro your summer is gonna suck 😂” 然后等他们金黄色的啤酒和我的黑乎乎的diet coke上来之后，我当即有了一种格格不入的感觉，持续了有一阵子。当时那个场合下，我甚至产生了一种不跟大家一起喝啤酒是不对的想法。但那个劲儿过了之后，我发现其实我并没有想或者说真的需要喝酒。"
+    }
+  },
+  {
+    "id": "3d17cc31-3224-4a7d-b2d5-4d376c6680fe",
+    "type": "quote",
+    "url": null,
+    "parent": "9540b681-16f9-4d10-91ca-119fd2518e9b",
+    "contents": {
+      "rich_text": "这个改变让我发现了很多时候喝酒是一个"
+    }
+  },
+  {
+    "id": "932af860-0708-441c-9381-dc80ae656e85",
+    "type": "paragraph",
+    "url": null,
+    "parent": "9540b681-16f9-4d10-91ca-119fd2518e9b",
+    "contents": {
+      "rich_text": "然后就是给我养成了阅读习惯，我在那之前已经很久很久没有完整地读完过任何一本书了。这次每天要读10页，一开始的时候觉得有点困难，如坐针毡。在坚持了一阵子之后，甚至会感觉一天10页不够。但这个时候陷阱就来了——如果我今天发现这个很有意思，我一口气读了30页，我在第二天的时候就有可能想偷懒了：”我昨天读了30页，今天和明天是不是可以不读了。“看上去阅读量一样，但其实这种想法很危险，因为一旦这个连续的习惯和行为被打断，那想要恢复起来就很困难了。而且每天不多不少只读10页，对于养成这个习惯还有另一个好处：如果我对某一个章节很感兴趣，我今天只读10页会让我第二天对读书有一种期待，因为我会惦记着接下来作者要讲的事情。"
+    }
+  },
+  {
+    "id": "20a43722-b55e-425c-83d1-7750d724cd53",
+    "type": "quote",
+    "url": null,
+    "parent": "9540b681-16f9-4d10-91ca-119fd2518e9b",
+    "contents": {
+      "rich_text": "想完成一件复杂的事情或者养成一个习惯，更像是在"
+    }
+  },
+  {
+    "id": "9540b681-16f9-4d10-91ca-119fd2518e9b",
+    "type": "heading_2",
+    "url": null,
+    "parent": "957accd2-9c91-46bb-bcd8-6ffa4a668184",
+    "contents": {
+      "rich_text": "🧠 带来的好处"
+    }
+  },
+  {
+    "id": "c117fcc0-cc20-4819-9027-42bb9c6a6eb7",
+    "type": "paragraph",
+    "url": null,
+    "parent": "4c06ee50-e117-4b2e-9e45-9371143eee6e",
+    "contents": {
+      "rich_text": "这个挑战其实很占用时间，大概这么个日程的话："
+    }
+  },
+  {
+    "id": "df059d76-e368-49d8-bd37-53cace73ac03",
+    "type": "divider",
+    "url": null,
+    "parent": "4c06ee50-e117-4b2e-9e45-9371143eee6e",
+    "contents": {
+      "contents": {}
+    }
+  },
+  {
+    "id": "9f5d3174-9b50-43be-b3b8-89ac4afb36e5",
+    "type": "paragraph",
+    "url": null,
+    "parent": "4c06ee50-e117-4b2e-9e45-9371143eee6e",
+    "contents": {
+      "rich_text": "7⃣️ 起床 - 冥想、看书、拍照、有可能可以做完室内运动"
+    }
+  },
+  {
+    "id": "2da68019-899a-40aa-84c4-a07796dcb520",
+    "type": "paragraph",
+    "url": null,
+    "parent": "4c06ee50-e117-4b2e-9e45-9371143eee6e",
+    "contents": {
+      "rich_text": "9⃣️ - 1⃣️7⃣️ 上班"
+    }
+  },
+  {
+    "id": "9b09cfe2-e3e7-4ebd-a1fd-33849fd9ff19",
+    "type": "paragraph",
+    "url": null,
+    "parent": "4c06ee50-e117-4b2e-9e45-9371143eee6e",
+    "contents": {
+      "rich_text": "1⃣️8⃣️ - 2⃣️3⃣️ 下班后 - 户外运动、一旦早上起的晚了一点就需要弥补室内运动、冥想"
+    }
+  },
+  {
+    "id": "d80545cc-f39c-4a0f-b917-fcb6b82a7f40",
+    "type": "divider",
+    "url": null,
+    "parent": "4c06ee50-e117-4b2e-9e45-9371143eee6e",
+    "contents": {
+      "contents": {}
+    }
+  },
+  {
+    "id": "d11e9ce3-f692-47a2-bb5f-20873dd247bf",
+    "type": "paragraph",
+    "url": null,
+    "parent": "4c06ee50-e117-4b2e-9e45-9371143eee6e",
+    "contents": {
+      "rich_text": "这一堆加上吃喝拉撒，其实没有什么太多的剩余时间来和朋友出去玩儿，或者给时间让自己娱乐。在这个过程中会让人清晰地看到生活里有什么是不得不做的，以及有什么是可做可不做的。这个挑战会让人"
+    }
+  },
+  {
+    "id": "487c29f5-bec2-41cd-872d-161b940946d5",
+    "type": "paragraph",
+    "url": null,
+    "parent": "4c06ee50-e117-4b2e-9e45-9371143eee6e",
+    "contents": {
+      "rich_text": "因此应该可以想像这个优先级的变化所带来的麻烦和不便……"
+    }
+  },
+  {
+    "id": "4c06ee50-e117-4b2e-9e45-9371143eee6e",
+    "type": "heading_2",
+    "url": null,
+    "parent": "957accd2-9c91-46bb-bcd8-6ffa4a668184",
+    "contents": {
+      "rich_text": "😐 带来的不便"
+    }
+  },
+  {
+    "id": "42b428fe-494e-440d-bda9-ffed291c8252",
+    "type": "paragraph",
+    "url": null,
+    "parent": "cac284d5-a934-4048-ac8a-ad0bb85113d6",
+    "contents": {
+      "rich_text": "最深刻但又最不深刻的感受可能是前所未有的头脑清醒，之所以说不深刻是因为这种感觉不是明显的，不像是喝酒之后能感受到的微醺的快乐，也不是那种踢球带来的大量多巴胺的释放。然后在生活和工作上也更加专注了，因为每天工作上的事情再难也不会有要做那么多挑战难，所以挑战之外的难题也就显得不那么困难了。"
+    }
+  },
+  {
+    "id": "5e407805-b884-4825-a236-4bf9682ab9a1",
+    "type": "paragraph",
+    "url": null,
+    "parent": "cac284d5-a934-4048-ac8a-ad0bb85113d6",
+    "contents": {
+      "rich_text": "但我觉得这种专注力的提升和头脑清醒，不仅仅是因为有在读书和冥想，跟我每天做1.5小时的运动也有关。我在出去跑步或者去健身房的时候会尽可能地不带手机，也不听音乐，这样会让我有一个跟自己的想法独处的机会，并摆脱掉一切分散注意力的事情，就专注于当下枯燥的跑步、举铁。循环往复，我对于当下的存在感（presence）就会增强，也能在枯燥的重复的事情中感受到意义。"
+    }
+  },
+  {
+    "id": "3873656b-bd51-43f2-baf0-273a57d77a69",
+    "type": "paragraph",
+    "url": null,
+    "parent": "cac284d5-a934-4048-ac8a-ad0bb85113d6",
+    "contents": {
+      "rich_text": "这个挑战确实很耗时耗力，但我觉得是一个可以每年进行一次的事情，因为对于自己的身体健康真的是有很多好处。而且我觉得每个或多或少迷茫的、感觉生活里没有足够focus的朋友们，都要首先让自己学会并习惯做困难的事情。因为这样会让生活充实起来，并且在工作学习和生活里重新获得专注的能力。"
+    }
+  },
+  {
+    "id": "4a72b758-a5a0-4243-a632-f6e4ae4afe04",
+    "type": "quote",
+    "url": null,
+    "parent": "cac284d5-a934-4048-ac8a-ad0bb85113d6",
+    "contents": {
+      "rich_text": "专注会让你发现意义。"
+    }
+  },
+  {
+    "id": "cac284d5-a934-4048-ac8a-ad0bb85113d6",
+    "type": "heading_1",
+    "url": null,
+    "parent": "957accd2-9c91-46bb-bcd8-6ffa4a668184",
+    "contents": {
+      "rich_text": "🧘‍♂️ 个人感受"
+    }
+  },
+  {
+    "id": "621e14ea-7c30-453a-adda-20b2d99ff7b9",
+    "type": "paragraph",
+    "url": null,
+    "parent": "957accd2-9c91-46bb-bcd8-6ffa4a668184",
+    "contents": {
+      "contents": []
+    }
+  },
+  {
+    "id": "957accd2-9c91-46bb-bcd8-6ffa4a668184",
+    "type": "child_page",
+    "url": "https://www.notion.so/957accd29c9146bbbcd86ffa4a668184",
+    "parent": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "contents": {
+      "title": "75 HARD"
+    }
+  },
+  {
+    "id": "22ea4586-3fba-4a6d-848c-395128e08d77",
+    "type": "child_page",
+    "url": "https://www.notion.so/22ea45863fba4a6d848c395128e08d77",
+    "parent": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "contents": {
+      "title": "是什么偷走了你的专注度：不要禁闭孩子们"
+    }
+  },
+  {
+    "id": "08d696e0-f564-4b98-a72a-843445e3b7ad",
+    "type": "child_page",
+    "url": "https://www.notion.so/08d696e0f5644b98a72a843445e3b7ad",
+    "parent": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "contents": {
+      "title": "是什么偷走了你的专注度：ADHD"
+    }
+  },
+  {
+    "id": "b3d84304-5384-4c3c-92ea-3134e1f7adf7",
+    "type": "child_page",
+    "url": "https://www.notion.so/b3d8430453844c3c92ea3134e1f7adf7",
+    "parent": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "contents": {
+      "title": "是什么偷走了你的专注度：不良饮食与污染"
+    }
+  },
+  {
+    "id": "7a2deff7-44ee-4511-bb84-58ce3861e9a4",
+    "type": "child_page",
+    "url": "https://www.notion.so/7a2deff744ee4511bb8458ce3861e9a4",
+    "parent": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "contents": {
+      "title": "是什么偷走了你的专注度：逆向操作"
+    }
+  },
+  {
+    "id": "e46dbd75-409f-4ec3-a331-3463c3ac522d",
+    "type": "child_page",
+    "url": "https://www.notion.so/e46dbd75409f4ec3a3313463c3ac522d",
+    "parent": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "contents": {
+      "title": "是什么偷走了你的专注度：压力与警惕"
+    }
+  },
+  {
+    "id": "c4259a91-9c2e-4b57-8d53-9626cd844f4f",
+    "type": "child_page",
+    "url": "https://www.notion.so/c4259a919c2e4b578d539626cd844f4f",
+    "parent": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "contents": {
+      "title": "是什么偷走了你的专注度：一窥解决方案"
+    }
+  },
+  {
+    "id": "58b7e63e-3893-4784-8bc0-76dc14265fd3",
+    "type": "child_page",
+    "url": "https://www.notion.so/58b7e63e389347848bc076dc14265fd3",
+    "parent": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "contents": {
+      "title": "是什么偷走了你的专注度：残酷的乐观主义"
+    }
+  },
+  {
+    "id": "32e0053d-a362-409d-874d-c8ff2cce2e9c",
+    "type": "child_page",
+    "url": "https://www.notion.so/32e0053da362409d874dc8ff2cce2e9c",
+    "parent": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "contents": {
+      "title": "是什么偷走了你的专注度：智能陷阱"
+    }
+  },
+  {
+    "id": "06e98d66-0616-4f6a-939e-962e539659a6",
+    "type": "child_page",
+    "url": "https://www.notion.so/06e98d6606164f6a939e962e539659a6",
+    "parent": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "contents": {
+      "title": "是什么偷走了你的专注度：当走神也被干扰"
+    }
+  },
+  {
+    "id": "7f81450c-dcc9-4fda-aae4-bc8d0a6d3b8a",
+    "type": "child_page",
+    "url": "https://www.notion.so/7f81450cdcc94fdaaae4bc8d0a6d3b8a",
+    "parent": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "contents": {
+      "title": "是什么偷走了你的专注度：持久阅读的衰落"
+    }
+  },
+  {
+    "id": "12155af9-caad-4d37-9ee1-490e12f3a8f0",
+    "type": "child_page",
+    "url": "https://www.notion.so/12155af9caad4d379ee1490e12f3a8f0",
+    "parent": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "contents": {
+      "title": "是什么偷走了你的专注度：精疲力尽"
+    }
+  },
+  {
+    "id": "c28820b2-5fe3-4070-b371-9364b9d5a0c8",
+    "type": "child_page",
+    "url": "https://www.notion.so/c28820b25fe34070b3719364b9d5a0c8",
+    "parent": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "contents": {
+      "title": "是什么偷走了你的专注度：流失的心流"
+    }
+  },
+  {
+    "id": "baf9a13b-3fde-402c-917d-e91b4622e69a",
+    "type": "table_of_contents",
+    "url": null,
+    "parent": "9af23b31-f5e3-4e40-80e1-015b69a048b0",
+    "contents": {
+      "contents": {
+        "color": "gray"
+      }
+    }
+  },
+  {
+    "id": "6e214b25-0a2d-4e51-b39a-6dca975cb501",
+    "type": "heading_1",
+    "url": null,
+    "parent": "9af23b31-f5e3-4e40-80e1-015b69a048b0",
+    "contents": {
+      "rich_text": "快节奏生活的利弊"
+    }
+  },
+  {
+    "id": "f5b37fb4-64c1-4868-a4ae-eb06a6564446",
+    "type": "heading_2",
+    "url": null,
+    "parent": "9af23b31-f5e3-4e40-80e1-015b69a048b0",
+    "contents": {
+      "rich_text": "慢下来"
+    }
+  },
+  {
+    "id": "351481b2-0705-4ca9-8973-3b8fabd5258c",
+    "type": "paragraph",
+    "url": null,
+    "parent": "9af23b31-f5e3-4e40-80e1-015b69a048b0",
+    "contents": {
+      "contents": []
+    }
+  },
+  {
+    "id": "9af23b31-f5e3-4e40-80e1-015b69a048b0",
+    "type": "child_page",
+    "url": "https://www.notion.so/9af23b31f5e34e4080e1015b69a048b0",
+    "parent": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "contents": {
+      "title": "是什么偷走了你的专注度：快节奏生活"
+    }
+  },
+  {
+    "id": "1b22274d-0bb9-4303-b214-85c96a0e8907",
+    "type": "child_page",
+    "url": "https://www.notion.so/1b22274d0bb94303b21485c96a0e8907",
+    "parent": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "contents": {
+      "title": "Pi vs ChatGPT: Intro"
+    }
+  },
+  {
+    "id": "ef09f99e-29c1-42f5-b9cd-41b31c7c58bc",
+    "type": "table_of_contents",
+    "url": null,
+    "parent": "531ebfde-26b3-47b4-a500-dfa7aa1f367d",
+    "contents": {
+      "contents": {
+        "color": "gray"
+      }
+    }
+  },
+  {
+    "id": "cfc7be83-bc78-4668-bd43-fd7253318e81",
+    "type": "paragraph",
+    "url": null,
+    "parent": "1d312bf0-dcba-4ed0-8589-c5ca18de45a6",
+    "contents": {
+      "contents": []
+    }
+  },
+  {
+    "id": "1d312bf0-dcba-4ed0-8589-c5ca18de45a6",
+    "type": "heading_1",
+    "url": null,
+    "parent": "531ebfde-26b3-47b4-a500-dfa7aa1f367d",
+    "contents": {
+      "rich_text": "影响注意力的因素"
+    }
+  },
+  {
+    "id": "f44c41c3-0faf-414b-b889-0f4b0a4146ae",
+    "type": "paragraph",
+    "url": null,
+    "parent": "f3eb148b-1880-4a87-b89f-d6d6b9325828",
+    "contents": {
+      "rich_text": "压力会使我们的思绪变得分散，难以集中注意力。当身处高压环境时，人们往往更容易被外界刺激所干扰，导致注意力难以持续，因为一部分注意力被用于维持高压环境下的警惕性。"
+    }
+  },
+  {
+    "id": "a161ec77-3b34-4571-9905-b206760a7345",
+    "type": "paragraph",
+    "url": null,
+    "parent": "f3eb148b-1880-4a87-b89f-d6d6b9325828",
+    "contents": {
+      "rich_text": "持续的压力可能导致记忆力下降、判断力受损，以及反应速度变慢，这些都与注意力的下降有关。由于压力，人们可能更加容易疲劳，而疲劳本身也是影响注意力的重要因素。"
+    }
+  },
+  {
+    "id": "f3eb148b-1880-4a87-b89f-d6d6b9325828",
+    "type": "heading_2",
+    "url": null,
+    "parent": "531ebfde-26b3-47b4-a500-dfa7aa1f367d",
+    "contents": {
+      "rich_text": "压力"
+    }
+  },
+  {
+    "id": "cf42a956-4a57-46bf-9102-7b9b821fc3e1",
+    "type": "paragraph",
+    "url": null,
+    "parent": "6c6beeaa-9565-4ad7-825a-c39e691e184e",
+    "contents": {
+      "rich_text": "2009年的时候一些荷兰科学家做了一个实验，把一开始注意力差不多的小孩子分成两组——第一组，饮食主要是有添加剂、防腐剂、人工色素的食物，以及第二组，正常自然的饮食，毫无添加剂。几周过后再观察这两组注意力的时候发现：在第二组里面，70%的孩子的注意力比第一组高出了至少50%。"
+    }
+  },
+  {
+    "id": "05608970-93d2-461a-911c-b3380b214b5f",
+    "type": "paragraph",
+    "url": null,
+    "parent": "6c6beeaa-9565-4ad7-825a-c39e691e184e",
+    "contents": {
+      "rich_text": "重度加工的食物会毁坏你的注意力，营养要均衡，大脑才能健康。"
+    }
+  },
+  {
+    "id": "6c6beeaa-9565-4ad7-825a-c39e691e184e",
+    "type": "heading_2",
+    "url": null,
+    "parent": "531ebfde-26b3-47b4-a500-dfa7aa1f367d",
+    "contents": {
+      "rich_text": "饮食"
+    }
+  },
+  {
+    "id": "2ce6a915-4456-4524-a32a-20d85232130b",
+    "type": "paragraph",
+    "url": null,
+    "parent": "94bb83fa-647c-486e-b0ed-f60b2145a4fd",
+    "contents": {
+      "rich_text": "睡眠时大脑会利用脑脊液去清洗一天工作、玩儿手机之后产生的有毒废物，如果睡眠不充足或者质量不好的话，这个清洗的过程就不会那么有效果。进而导致第二天脑子不清楚，难以集中注意力。"
+    }
+  },
+  {
+    "id": "c35b211c-c29d-4719-bac4-68e811dec022",
+    "type": "paragraph",
+    "url": null,
+    "parent": "94bb83fa-647c-486e-b0ed-f60b2145a4fd",
+    "contents": {
+      "rich_text": "一个好的睡眠可以解决你大部分的问题，或者说可以让你更好地去解决你大部分的问题。"
+    }
+  },
+  {
+    "id": "189a0d32-1ba1-4e15-ab78-f5ab93c7219e",
+    "type": "paragraph",
+    "url": null,
+    "parent": "94bb83fa-647c-486e-b0ed-f60b2145a4fd",
+    "contents": {
+      "rich_text": "解决方案：每天睡够至少七小时，睡前至少一个小时不看手机。"
+    }
+  },
+  {
+    "id": "94bb83fa-647c-486e-b0ed-f60b2145a4fd",
+    "type": "heading_2",
+    "url": null,
+    "parent": "531ebfde-26b3-47b4-a500-dfa7aa1f367d",
+    "contents": {
+      "rich_text": "睡眠"
+    }
+  },
+  {
+    "id": "7239fb5d-5b0a-4e51-bdd6-b62c74c53ea0",
+    "type": "paragraph",
+    "url": null,
+    "parent": "20336e68-be3c-4419-a152-c1383d5d702e",
+    "contents": {
+      "rich_text": "短视频的兴起标志着我们到了一个快速获取信息的时代，但会造成我们在一件事情上进行深度思考的能力消失殆尽。在不同的短视频之间划来划去，我们会被“认知切换”的代价所影响。意思是在我们切换执行的任务的时候，相比于专注在一件事情上，大脑会需要消耗更多的精力来进行这种切换。"
+    }
+  },
+  {
+    "id": "28c84afc-5fce-4242-9bb4-617ad58fc8ec",
+    "type": "paragraph",
+    "url": null,
+    "parent": "20336e68-be3c-4419-a152-c1383d5d702e",
+    "contents": {
+      "rich_text": "我喜欢看足球，但比如说我花15分钟看一个集锦视频，大脑会消耗10点精力。"
+    }
+  },
+  {
+    "id": "d7cae795-bff8-47dd-8747-76a2062139a8",
+    "type": "paragraph",
+    "url": null,
+    "parent": "20336e68-be3c-4419-a152-c1383d5d702e",
+    "contents": {
+      "rich_text": "相比之下如果我刷手机15分钟（看什么得不到自己的控制），足球集锦会夹杂着其他的（做饭、网红、撞车集锦等等）大脑可能会消耗30点精力。"
+    }
+  },
+  {
+    "id": "5f9cd2f8-c8a4-44ef-8915-58fe0ccc8e01",
+    "type": "paragraph",
+    "url": null,
+    "parent": "20336e68-be3c-4419-a152-c1383d5d702e",
+    "contents": {
+      "rich_text": "注意力是个有限的消耗品，当你的注意力在最短的时间内被消耗，也就很难再去把注意力放在最重要的事情上了。"
+    }
+  },
+  {
+    "id": "20336e68-be3c-4419-a152-c1383d5d702e",
+    "type": "heading_2",
+    "url": null,
+    "parent": "531ebfde-26b3-47b4-a500-dfa7aa1f367d",
+    "contents": {
+      "rich_text": "快节奏生活"
+    }
+  },
+  {
+    "id": "449c8497-a16a-47fe-bb81-6817ef1d8d5e",
+    "type": "paragraph",
+    "url": null,
+    "parent": "c413f973-f710-43d3-89ef-6d719608cf1b",
+    "contents": {
+      "contents": []
+    }
+  },
+  {
+    "id": "c413f973-f710-43d3-89ef-6d719608cf1b",
+    "type": "heading_1",
+    "url": null,
+    "parent": "531ebfde-26b3-47b4-a500-dfa7aa1f367d",
+    "contents": {
+      "rich_text": "注意力的层级"
+    }
+  },
+  {
+    "id": "e7efed93-5251-4938-aff1-808f5e50999a",
+    "type": "paragraph",
+    "url": null,
+    "parent": "1a24c847-e27c-42fe-9a4e-2bf9869c7aca",
+    "contents": {
+      "rich_text": "专注于当下短期立刻要做的事情。"
+    }
+  },
+  {
+    "id": "baa052f0-b9b0-462e-9ed9-d5ed8ffe05a2",
+    "type": "paragraph",
+    "url": null,
+    "parent": "1a24c847-e27c-42fe-9a4e-2bf9869c7aca",
+    "contents": {
+      "rich_text": "比如：“我要去泡个咖啡”、“我要去洗个澡”、“我要去淘米做个饭”"
+    }
+  },
+  {
+    "id": "b073a0ee-7e55-481c-ab76-d8bdc8e073bb",
+    "type": "paragraph",
+    "url": null,
+    "parent": "1a24c847-e27c-42fe-9a4e-2bf9869c7aca",
+    "contents": {
+      "rich_text": "活在当下，把每一件小事专注地做好。"
+    }
+  },
+  {
+    "id": "1a24c847-e27c-42fe-9a4e-2bf9869c7aca",
+    "type": "heading_2",
+    "url": null,
+    "parent": "531ebfde-26b3-47b4-a500-dfa7aa1f367d",
+    "contents": {
+      "rich_text": "Spotlight"
+    }
+  },
+  {
+    "id": "36fddfdd-26e8-45b2-a8e1-d80ba5edd4d6",
+    "type": "paragraph",
+    "url": null,
+    "parent": "9592fc47-de1a-485e-8b51-6e2bc63309e5",
+    "contents": {
+      "rich_text": "专注于长期的目标。"
+    }
+  },
+  {
+    "id": "61771acc-8afb-4297-ae3e-796c1949e891",
+    "type": "paragraph",
+    "url": null,
+    "parent": "9592fc47-de1a-485e-8b51-6e2bc63309e5",
+    "contents": {
+      "rich_text": "比如：“我要写一本书”、”我要开始搞副业”"
+    }
+  },
+  {
+    "id": "916f922e-7a4d-4619-9651-a44ea928f3d5",
+    "type": "paragraph",
+    "url": null,
+    "parent": "9592fc47-de1a-485e-8b51-6e2bc63309e5",
+    "contents": {
+      "rich_text": "当你感觉迷失的时候，仰望星空，脚踏实地地找到你的方向。"
+    }
+  },
+  {
+    "id": "9592fc47-de1a-485e-8b51-6e2bc63309e5",
+    "type": "heading_2",
+    "url": null,
+    "parent": "531ebfde-26b3-47b4-a500-dfa7aa1f367d",
+    "contents": {
+      "rich_text": "Starlight"
+    }
+  },
+  {
+    "id": "04483388-3168-4321-8524-7c11692f9099",
+    "type": "paragraph",
+    "url": null,
+    "parent": "39833296-3f99-4213-b8c2-35acc74cfb88",
+    "contents": {
+      "rich_text": "为什么你有这些长期的目标？"
+    }
+  },
+  {
+    "id": "e809c42a-e453-4cb3-97f9-3d20c7c8a096",
+    "type": "paragraph",
+    "url": null,
+    "parent": "39833296-3f99-4213-b8c2-35acc74cfb88",
+    "contents": {
+      "rich_text": "比如：“我为什么想写一本书？”、“我搞副业的动力是什么？”"
+    }
+  },
+  {
+    "id": "08fe151b-24ed-434c-b9e8-dd74e787efe3",
+    "type": "paragraph",
+    "url": null,
+    "parent": "39833296-3f99-4213-b8c2-35acc74cfb88",
+    "contents": {
+      "rich_text": "不忘初心，方得始终。"
+    }
+  },
+  {
+    "id": "39833296-3f99-4213-b8c2-35acc74cfb88",
+    "type": "heading_2",
+    "url": null,
+    "parent": "531ebfde-26b3-47b4-a500-dfa7aa1f367d",
+    "contents": {
+      "rich_text": "Daylight"
+    }
+  },
+  {
+    "id": "817187ee-c053-477b-a561-18a6e298f69c",
+    "type": "paragraph",
+    "url": null,
+    "parent": "531ebfde-26b3-47b4-a500-dfa7aa1f367d",
+    "contents": {
+      "contents": []
+    }
+  },
+  {
+    "id": "ec516d50-8a24-4093-9396-36b4496edcea",
+    "type": "paragraph",
+    "url": null,
+    "parent": "e076ec6b-4c11-4548-936b-a57eb0cf9083",
+    "contents": {
+      "rich_text": "注意力是我们最宝贵的资源，比钱和时间都宝贵。"
+    }
+  },
+  {
+    "id": "8847a91f-a7d5-4418-95fd-9411eedfcbca",
+    "type": "paragraph",
+    "url": null,
+    "parent": "e076ec6b-4c11-4548-936b-a57eb0cf9083",
+    "contents": {
+      "rich_text": "有了良好的注意力，我们可以高效地完成生活中各种各样任务，从而获得更多自由的时间、并有可能赚到更多的金钱。"
+    }
+  },
+  {
+    "id": "a3e60a15-b0e9-4b45-8e3e-56f6ff04c6ac",
+    "type": "paragraph",
+    "url": null,
+    "parent": "e076ec6b-4c11-4548-936b-a57eb0cf9083",
+    "contents": {
+      "rich_text": "当下我们的注意力的每一个层级都被社交媒体、不良饮食结构和不规律的作息习惯所打扰，导致我们会难以在一件事情上深度专注、忘记自己长期的目标，甚至最初的动力和愿望。长期如此生活便会显得失去了意义，人也愈发地难以去做一些在自己舒适区之外的事情，最终导致我们彻底丧失注意力。"
+    }
+  },
+  {
+    "id": "88e1f5af-b6c7-449d-b8a6-040e7158c4c1",
+    "type": "paragraph",
+    "url": null,
+    "parent": "e076ec6b-4c11-4548-936b-a57eb0cf9083",
+    "contents": {
+      "rich_text": "很多科学家研究了这些因素与ADHD的关系，也得出了这些非遗传的因素对ADHD造成的影响。其中让我感到最震撼的是：在芬兰，法律规定每45分钟课业，学校必须给15分钟时间——随意——玩耍，之后给这些孩子们测注意力的时候，发现只有0.1%的孩子们有轻度的注意力不足的问题。当你消除了不必要的压力，保证了营养和睡眠，那么就能很大程度上改善可能有的类似ADHD的问题。"
+    }
+  },
+  {
+    "id": "e9e3e7ac-aa5d-4d41-9c7f-767cba75aa9b",
+    "type": "paragraph",
+    "url": null,
+    "parent": "e076ec6b-4c11-4548-936b-a57eb0cf9083",
+    "contents": {
+      "rich_text": "希望大家都可以更多地专注于自己的发展，关心身边看的见摸的着的人和事。"
+    }
+  },
+  {
+    "id": "3a7878d4-4465-4068-ab13-cae5677b4251",
+    "type": "paragraph",
+    "url": null,
+    "parent": "e076ec6b-4c11-4548-936b-a57eb0cf9083",
+    "contents": {
+      "rich_text": "如果想高度集中进入心流（Flow）的状态，就要做到这三点："
+    }
+  },
+  {
+    "id": "130610e8-7514-4130-b920-1a80293f2e78",
+    "type": "numbered_list_item",
+    "url": null,
+    "parent": "e076ec6b-4c11-4548-936b-a57eb0cf9083",
+    "contents": {
+      "rich_text": "目标：找到一个你想做的事情"
+    }
+  },
+  {
+    "id": "e914b83d-f3a5-47df-850c-11250db41f38",
+    "type": "numbered_list_item",
+    "url": null,
+    "parent": "e076ec6b-4c11-4548-936b-a57eb0cf9083",
+    "contents": {
+      "rich_text": "意义：明确这个目标对你来说的意义"
+    }
+  },
+  {
+    "id": "4164324f-1a26-4cd7-ba2f-8fa4637d1339",
+    "type": "numbered_list_item",
+    "url": null,
+    "parent": "e076ec6b-4c11-4548-936b-a57eb0cf9083",
+    "contents": {
+      "rich_text": "挑战：做在你舒适区边缘的事情，挑战自己"
+    }
+  },
+  {
+    "id": "cb20524c-6431-4967-a2f6-a467c7c4dfcf",
+    "type": "paragraph",
+    "url": null,
+    "parent": "e076ec6b-4c11-4548-936b-a57eb0cf9083",
+    "contents": {
+      "rich_text": "你有过心流的状态吗？"
+    }
+  },
+  {
+    "id": "f99c4129-8128-4b2c-a192-bd42a7990d9e",
+    "type": "paragraph",
+    "url": null,
+    "parent": "e076ec6b-4c11-4548-936b-a57eb0cf9083",
+    "contents": {
+      "contents": []
+    }
+  },
+  {
+    "id": "2f0be279-ac99-4614-b610-1bb14c90517a",
+    "type": "paragraph",
+    "url": null,
+    "parent": "e076ec6b-4c11-4548-936b-a57eb0cf9083",
+    "contents": {
+      "contents": []
+    }
+  },
+  {
+    "id": "e076ec6b-4c11-4548-936b-a57eb0cf9083",
+    "type": "heading_1",
+    "url": null,
+    "parent": "531ebfde-26b3-47b4-a500-dfa7aa1f367d",
+    "contents": {
+      "rich_text": "结论"
+    }
+  },
+  {
+    "id": "a5adbd45-0587-4624-8e07-cee1da0a248d",
+    "type": "image",
+    "url": null,
+    "parent": "531ebfde-26b3-47b4-a500-dfa7aa1f367d",
+    "contents": {
+      "contents": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/31c4a5ba-c390-45c1-b8c6-f49013a7a9a0/50fe8427-6acf-4dfd-92f6-a160372e3338/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240106%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240106T164923Z&X-Amz-Expires=3600&X-Amz-Signature=b16b5072455b5195fffcf0d27fe508b69c01b26e4db471ee7bf1d5b98c82c29f&X-Amz-SignedHeaders=host&x-id=GetObject",
+          "expiry_time": "2024-01-06T17:49:23.414Z"
+        }
+      }
+    }
+  },
+  {
+    "id": "b07676db-9f1a-41fa-ab3b-a1f38a8f36e3",
+    "type": "image",
+    "url": null,
+    "parent": "531ebfde-26b3-47b4-a500-dfa7aa1f367d",
+    "contents": {
+      "contents": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/31c4a5ba-c390-45c1-b8c6-f49013a7a9a0/7cb17203-39a7-46a9-95f1-d83c37191419/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240106%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240106T164923Z&X-Amz-Expires=3600&X-Amz-Signature=c7aaf52eb12c87b3d3d2beff680d491745749073951ccc1cf9d54d93f582b099&X-Amz-SignedHeaders=host&x-id=GetObject",
+          "expiry_time": "2024-01-06T17:49:23.692Z"
+        }
+      }
+    }
+  },
+  {
+    "id": "6b0a0980-6fe6-4a7e-ab57-d014b92737c0",
+    "type": "image",
+    "url": null,
+    "parent": "531ebfde-26b3-47b4-a500-dfa7aa1f367d",
+    "contents": {
+      "contents": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/31c4a5ba-c390-45c1-b8c6-f49013a7a9a0/dd704220-2e4f-4b1a-b9f1-36da46e0f0ca/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240106%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240106T164925Z&X-Amz-Expires=3600&X-Amz-Signature=c5918c07088e6016f1168f61df6d2c74c2361f4f34b3d83a961ee3647e450f06&X-Amz-SignedHeaders=host&x-id=GetObject",
+          "expiry_time": "2024-01-06T17:49:25.051Z"
+        }
+      }
+    }
+  },
+  {
+    "id": "fcc81041-8dac-4c54-a1b6-3482411ccb9f",
+    "type": "image",
+    "url": null,
+    "parent": "531ebfde-26b3-47b4-a500-dfa7aa1f367d",
+    "contents": {
+      "contents": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/31c4a5ba-c390-45c1-b8c6-f49013a7a9a0/e02eec37-16fe-4762-8c98-1b9196176564/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240106%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240106T164925Z&X-Amz-Expires=3600&X-Amz-Signature=1bea5b45fb19206df26e3867c9501a50112f123ccdfdc201a605484fb127bb14&X-Amz-SignedHeaders=host&x-id=GetObject",
+          "expiry_time": "2024-01-06T17:49:25.700Z"
+        }
+      }
+    }
+  },
+  {
+    "id": "c5aaacc4-3da0-405f-b8bb-77797364ea0c",
+    "type": "image",
+    "url": null,
+    "parent": "531ebfde-26b3-47b4-a500-dfa7aa1f367d",
+    "contents": {
+      "contents": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/31c4a5ba-c390-45c1-b8c6-f49013a7a9a0/29cff537-9152-4ac7-95ee-285de1b2f210/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240106%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240106T164926Z&X-Amz-Expires=3600&X-Amz-Signature=f2d0afea58f3f739a0ab2216d8e46829f6f46ea5b5b4d17a5ae0e8fe3d7d425d&X-Amz-SignedHeaders=host&x-id=GetObject",
+          "expiry_time": "2024-01-06T17:49:25.999Z"
+        }
+      }
+    }
+  },
+  {
+    "id": "643bd11f-7b22-4e86-95e8-84b9c06b8621",
+    "type": "image",
+    "url": null,
+    "parent": "531ebfde-26b3-47b4-a500-dfa7aa1f367d",
+    "contents": {
+      "contents": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/31c4a5ba-c390-45c1-b8c6-f49013a7a9a0/294cd968-befd-4fcc-9f43-933ee0e4feae/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240106%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240106T164926Z&X-Amz-Expires=3600&X-Amz-Signature=90c8140509208824a49588ba4b385c71abbdd5c73f996047768f61618a191fdd&X-Amz-SignedHeaders=host&x-id=GetObject",
+          "expiry_time": "2024-01-06T17:49:26.298Z"
+        }
+      }
+    }
+  },
+  {
+    "id": "4f604917-b5ab-4174-8296-f3b019896ae8",
+    "type": "image",
+    "url": null,
+    "parent": "531ebfde-26b3-47b4-a500-dfa7aa1f367d",
+    "contents": {
+      "contents": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/31c4a5ba-c390-45c1-b8c6-f49013a7a9a0/c71a9fda-b30a-43ca-856a-4079e88a46ea/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240106%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240106T164926Z&X-Amz-Expires=3600&X-Amz-Signature=0da5f1643bae8cc316a312c53e77c519b7c8889a471a9d802df1cc36ef567f75&X-Amz-SignedHeaders=host&x-id=GetObject",
+          "expiry_time": "2024-01-06T17:49:26.619Z"
+        }
+      }
+    }
+  },
+  {
+    "id": "14f61e0a-7a6e-4b52-90bd-3e1b4c6719c6",
+    "type": "image",
+    "url": null,
+    "parent": "531ebfde-26b3-47b4-a500-dfa7aa1f367d",
+    "contents": {
+      "contents": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/31c4a5ba-c390-45c1-b8c6-f49013a7a9a0/bcebc714-c2ac-4849-8638-db10024d0d12/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240106%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240106T164927Z&X-Amz-Expires=3600&X-Amz-Signature=ea50c4774704734013e76c6564e00ebac90186b997814dcc93e82c9a94354766&X-Amz-SignedHeaders=host&x-id=GetObject",
+          "expiry_time": "2024-01-06T17:49:26.949Z"
+        }
+      }
+    }
+  },
+  {
+    "id": "0334f9b4-2236-421a-9123-da038faa6c3e",
+    "type": "image",
+    "url": null,
+    "parent": "531ebfde-26b3-47b4-a500-dfa7aa1f367d",
+    "contents": {
+      "contents": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/31c4a5ba-c390-45c1-b8c6-f49013a7a9a0/b7ac1f4e-fb2f-46b6-b7c5-37b8232e7306/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240106%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240106T164927Z&X-Amz-Expires=3600&X-Amz-Signature=b7006e1c0591eb4a802fa61a1206d437b3cc44c40bc71f3b20c6a01c48ceb504&X-Amz-SignedHeaders=host&x-id=GetObject",
+          "expiry_time": "2024-01-06T17:49:27.897Z"
+        }
+      }
+    }
+  },
+  {
+    "id": "531ebfde-26b3-47b4-a500-dfa7aa1f367d",
+    "type": "child_page",
+    "url": "https://www.notion.so/531ebfde26b347b4a500dfa7aa1f367d",
+    "parent": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "contents": {
+      "title": "被偷走的注意力"
+    }
+  },
+  {
+    "id": "5f257bb5-187a-4b93-8d8b-3d8babe6fa04",
+    "type": "paragraph",
+    "url": null,
+    "parent": "865fbf8b-0d63-4102-807d-e98add7a3260",
+    "contents": {
+      "rich_text": "在ChatGPT推出语音功能之前，Inflection AI做了一款app，叫做Pi。"
+    }
+  },
+  {
+    "id": "06eb34d4-0269-44ce-bc3c-6a4c06723b2e",
+    "type": "paragraph",
+    "url": null,
+    "parent": "865fbf8b-0d63-4102-807d-e98add7a3260",
+    "contents": {
+      "rich_text": "Pi一开始让我感到非常惊艳的功能就是可以进行语音沟通，而且发出的的语音非常人性化，声音随着内容有起伏，仿佛有感情一样❗"
+    }
+  },
+  {
+    "id": "6aae160e-0a0a-474d-9101-a290ebeaf0a9",
+    "type": "paragraph",
+    "url": null,
+    "parent": "865fbf8b-0d63-4102-807d-e98add7a3260",
+    "contents": {
+      "rich_text": "Pi还永远不会把天聊死，每次对话的结尾都会给你一个开放式问题，帮助你继续把话题进行下去。但当你说再见的时候，它也不会过多纠缠，会和你好好告别。"
+    }
+  },
+  {
+    "id": "ff0d3bcd-1773-4239-b00c-0e129e65bac3",
+    "type": "paragraph",
+    "url": null,
+    "parent": "865fbf8b-0d63-4102-807d-e98add7a3260",
+    "contents": {
+      "rich_text": "现在Pi有打电话功能，非常适合练习口语，模拟和别人进行日常的英语交流。但如果你羞于用口语表达，也可以打字和Pi交流。"
+    }
+  },
+  {
+    "id": "8a6cf291-41c1-42cd-bf17-9c5a88506b80",
+    "type": "paragraph",
+    "url": null,
+    "parent": "865fbf8b-0d63-4102-807d-e98add7a3260",
+    "contents": {
+      "rich_text": "也可以使用网页版和Pi交流："
+    }
+  },
+  {
+    "id": "0d4f0c1e-8684-44b4-9327-f80cca30df32",
+    "type": "paragraph",
+    "url": null,
+    "parent": "865fbf8b-0d63-4102-807d-e98add7a3260",
+    "contents": {
+      "rich_text": "有情商的AI终于来了吗？"
+    }
+  },
+  {
+    "id": "f9b5834c-c19b-4637-8d68-488ea6e38dad",
+    "type": "paragraph",
+    "url": null,
+    "parent": "865fbf8b-0d63-4102-807d-e98add7a3260",
+    "contents": {
+      "contents": []
+    }
+  },
+  {
+    "id": "865fbf8b-0d63-4102-807d-e98add7a3260",
+    "type": "child_page",
+    "url": "https://www.notion.so/865fbf8b0d634102807de98add7a3260",
+    "parent": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "contents": {
+      "title": "Pi: 高情商AI"
+    }
+  },
+  {
+    "id": "fe80cf1b-6802-4f6a-a403-4d1825737917",
+    "type": "paragraph",
+    "url": null,
+    "parent": "55665a03-cc86-4ca8-877c-4ae40e074ef2",
+    "contents": {
+      "rich_text": "➕ ChatGPT Plus 到底该不该买"
+    }
+  },
+  {
+    "id": "8d645e39-75c5-4f69-b2b2-2c4c0d07a45b",
+    "type": "paragraph",
+    "url": null,
+    "parent": "55665a03-cc86-4ca8-877c-4ae40e074ef2",
+    "contents": {
+      "contents": []
+    }
+  },
+  {
+    "id": "a42b6fa7-9087-4bdb-9d36-4889deb5d349",
+    "type": "paragraph",
+    "url": null,
+    "parent": "55665a03-cc86-4ca8-877c-4ae40e074ef2",
+    "contents": {
+      "rich_text": "前一阵发现身边很多朋友还没买ChatGPT Plus，而且也不知道里面都有些什么功能，只知道不便宜。我说你把你不看的Netflix和Disney Plus给unsub了其实就够一个ChatGPT Plus了。"
+    }
+  },
+  {
+    "id": "11e9e2ce-0309-4631-8548-5b5af5651773",
+    "type": "paragraph",
+    "url": null,
+    "parent": "55665a03-cc86-4ca8-877c-4ae40e074ef2",
+    "contents": {
+      "rich_text": "今天来简单介绍一下ChatGPT Plus的功能。"
+    }
+  },
+  {
+    "id": "b4f49ee3-ee53-496d-9794-49eab41a36aa",
+    "type": "paragraph",
+    "url": null,
+    "parent": "55665a03-cc86-4ca8-877c-4ae40e074ef2",
+    "contents": {
+      "contents": []
+    }
+  },
+  {
+    "id": "25ce596e-162f-407a-a705-e50e048232f9",
+    "type": "paragraph",
+    "url": null,
+    "parent": "55665a03-cc86-4ca8-877c-4ae40e074ef2",
+    "contents": {
+      "rich_text": "🧠 GPT-4 ⭐️⭐️⭐️⭐️⭐️"
+    }
+  },
+  {
+    "id": "e6f2af34-41bd-44ed-ba08-1a67ffe2e699",
+    "type": "paragraph",
+    "url": null,
+    "parent": "55665a03-cc86-4ca8-877c-4ae40e074ef2",
+    "contents": {
+      "rich_text": "无须多言，比GPT-3.5强太多了。"
+    }
+  },
+  {
+    "id": "f9a87e57-4810-457f-973d-239eb85dc18c",
+    "type": "paragraph",
+    "url": null,
+    "parent": "55665a03-cc86-4ca8-877c-4ae40e074ef2",
+    "contents": {
+      "rich_text": "👍优点：EVERYTHING"
+    }
+  },
+  {
+    "id": "ac29262d-aec3-4038-9b89-37745d2c36db",
+    "type": "paragraph",
+    "url": null,
+    "parent": "55665a03-cc86-4ca8-877c-4ae40e074ef2",
+    "contents": {
+      "rich_text": "👎缺点：相比于3.5可能会有一点点慢"
+    }
+  },
+  {
+    "id": "6bf02578-a25d-4abc-88e1-6255028b6ba8",
+    "type": "paragraph",
+    "url": null,
+    "parent": "55665a03-cc86-4ca8-877c-4ae40e074ef2",
+    "contents": {
+      "contents": []
+    }
+  },
+  {
+    "id": "17bd3360-fedd-4191-9ef4-05c39223ad4b",
+    "type": "paragraph",
+    "url": null,
+    "parent": "55665a03-cc86-4ca8-877c-4ae40e074ef2",
+    "contents": {
+      "rich_text": "🌐 Web Browsing ⭐️⭐️⭐️"
+    }
+  },
+  {
+    "id": "19fec4f7-2d70-4db7-b616-64fecd025301",
+    "type": "paragraph",
+    "url": null,
+    "parent": "55665a03-cc86-4ca8-877c-4ae40e074ef2",
+    "contents": {
+      "rich_text": "这个功能解决了ChatGPT之前的一个大痛点，就是只知道2021年9月份之前的事儿（现在应该是更新到2022年2月了），现在可以通过ChatGPT直接接上"
+    }
+  },
+  {
+    "id": "f66a4638-db1c-44ac-b9ad-4b162377feaa",
+    "type": "paragraph",
+    "url": null,
+    "parent": "55665a03-cc86-4ca8-877c-4ae40e074ef2",
+    "contents": {
+      "rich_text": "👍优点：村通网了，如果想找一些新闻并让ChatGPT给你总结的话，可以省去你手动点来点去的过程，直接获取结果。"
+    }
+  },
+  {
+    "id": "e50c279a-3376-461c-9d66-9e54541f2e93",
+    "type": "paragraph",
+    "url": null,
+    "parent": "55665a03-cc86-4ca8-877c-4ae40e074ef2",
+    "contents": {
+      "rich_text": "👎缺点：有些时候查到的新闻有点过时了"
+    }
+  },
+  {
+    "id": "10e948fb-8ad7-4bf4-932e-e6f28727a98c",
+    "type": "paragraph",
+    "url": null,
+    "parent": "55665a03-cc86-4ca8-877c-4ae40e074ef2",
+    "contents": {
+      "contents": []
+    }
+  },
+  {
+    "id": "de9defba-ea3a-445b-a302-1278d52aac31",
+    "type": "paragraph",
+    "url": null,
+    "parent": "55665a03-cc86-4ca8-877c-4ae40e074ef2",
+    "contents": {
+      "rich_text": "🖥️ Advanced Data Analysis ⭐️⭐️⭐️⭐️"
+    }
+  },
+  {
+    "id": "36f03c19-ca25-4894-bd06-9eaff221aaee",
+    "type": "paragraph",
+    "url": null,
+    "parent": "55665a03-cc86-4ca8-877c-4ae40e074ef2",
+    "contents": {
+      "rich_text": "原先的“Code Interpreter”，这个功能我觉得是把每个人都变成了可以自己独立分析数据的data analyst。完全不用写一行code，就能指挥ChatGPT帮你把数据分析进行到底，还能把结果给你供你下载。虽然我个人喜欢没事儿自己找个数据然后写写code看看有什么pattern之类的，但是这个真的是纯自动化啊，上传数据写几个prompt，一会儿数据就分析完了。"
+    }
+  },
+  {
+    "id": "1cd901ee-a6df-4454-852a-e51b63ebffdb",
+    "type": "paragraph",
+    "url": null,
+    "parent": "55665a03-cc86-4ca8-877c-4ae40e074ef2",
+    "contents": {
+      "rich_text": "👍优点：完全自动化并通透的数据分析，极其适合做exploratory analysis 💯"
+    }
+  },
+  {
+    "id": "184eadf8-4215-4d58-8812-1b2a1ae88bba",
+    "type": "paragraph",
+    "url": null,
+    "parent": "55665a03-cc86-4ca8-877c-4ae40e074ef2",
+    "contents": {
+      "rich_text": "👎缺点：数据量太大的话不行，算法过于复杂也不行，dataset里有隐私数据的话你就完了"
+    }
+  },
+  {
+    "id": "2f4312e9-f192-4b23-83ab-e3eb67d14e3b",
+    "type": "paragraph",
+    "url": null,
+    "parent": "55665a03-cc86-4ca8-877c-4ae40e074ef2",
+    "contents": {
+      "contents": []
+    }
+  },
+  {
+    "id": "da4fd237-1238-4af8-a022-328d5829b4c9",
+    "type": "paragraph",
+    "url": null,
+    "parent": "55665a03-cc86-4ca8-877c-4ae40e074ef2",
+    "contents": {
+      "rich_text": "🔌 Plugins ⭐️⭐️⭐️"
+    }
+  },
+  {
+    "id": "fb964c2c-4c4d-46f0-8397-87b164e45706",
+    "type": "paragraph",
+    "url": null,
+    "parent": "55665a03-cc86-4ca8-877c-4ae40e074ef2",
+    "contents": {
+      "rich_text": "这项功能把ChatGPT和现实世界里的服务连在了一起。比如现在可以通过自然语言来寻找Expedia✈️上的行程，然后直接通过Plugin给的link去book，或者可以通过上传自己的PDF📚之后用ChatGPT来讨论文件里的内容。但ChatGPT也只是在这里做一个自然语言的交互作用，它依赖于这些外部的Plugin来提供更多的信息。"
+    }
+  },
+  {
+    "id": "47ecee77-1407-454e-b8c0-7899822bacdd",
+    "type": "paragraph",
+    "url": null,
+    "parent": "55665a03-cc86-4ca8-877c-4ae40e074ef2",
+    "contents": {
+      "rich_text": "👍优点：人们现在只需要提供数据和简单的后台，就可以把自己的服务放到ChatGPT上去"
+    }
+  },
+  {
+    "id": "0b45db80-b8f6-4c11-8ff8-c443874415ed",
+    "type": "paragraph",
+    "url": null,
+    "parent": "55665a03-cc86-4ca8-877c-4ae40e074ef2",
+    "contents": {
+      "rich_text": "👎缺点：例如Expedia，即便我找到了很好的航班信息，还是无法一键购买，最终还是得去服务本身的网站上才可以订，但这个功能会引起人们对于把隐私数据泄漏给OpenAI的担忧。"
+    }
+  },
+  {
+    "id": "be0b6bb9-0fc7-4fd1-a34c-7527f92127ff",
+    "type": "paragraph",
+    "url": null,
+    "parent": "55665a03-cc86-4ca8-877c-4ae40e074ef2",
+    "contents": {
+      "contents": []
+    }
+  },
+  {
+    "id": "4704fb9b-5f61-43b0-896d-041b76b7f381",
+    "type": "paragraph",
+    "url": null,
+    "parent": "55665a03-cc86-4ca8-877c-4ae40e074ef2",
+    "contents": {
+      "rich_text": "🎨 DALLE-3 ⭐️⭐️⭐️⭐️"
+    }
+  },
+  {
+    "id": "7ffb0e9d-44d5-4a69-97eb-9c1e9a5bf905",
+    "type": "paragraph",
+    "url": null,
+    "parent": "55665a03-cc86-4ca8-877c-4ae40e074ef2",
+    "contents": {
+      "rich_text": "升级版本的DALLE真的很香！现在不仅可以通过ChatGPT一句话生成四张图片（有时候会出一些问题导致只能生成三张），还可以用生成的图片继续进行交流。ChatGPT会将你的提示词拓展成不同的DALLE的提示词，这样能确保生成的结果的多样性，以及确保DALLE能收到最明确的指示。DALLE-3和Midjourney的风格还是挺不一样的，并且在图片里生成文字的能力要强于Midjourney。"
+    }
+  },
+  {
+    "id": "eaaa2731-db92-4375-9794-18b18bf7f155",
+    "type": "paragraph",
+    "url": null,
+    "parent": "55665a03-cc86-4ca8-877c-4ae40e074ef2",
+    "contents": {
+      "rich_text": "👍优点：可以用生成的图片进行更深层次的交流和沟通"
+    }
+  },
+  {
+    "id": "86309b2c-e574-43be-82a6-95fba604fe64",
+    "type": "paragraph",
+    "url": null,
+    "parent": "55665a03-cc86-4ca8-877c-4ae40e074ef2",
+    "contents": {
+      "rich_text": "👎缺点：有时候速度有点儿慢，而且不是每次都能生成完整的四张图，但这个功能刚开放不久，等之后迭代升级了肯定能在这方面赶超Midjourney"
+    }
+  },
+  {
+    "id": "3e0704bf-de34-4fa2-a2c5-bae577e96007",
+    "type": "paragraph",
+    "url": null,
+    "parent": "55665a03-cc86-4ca8-877c-4ae40e074ef2",
+    "contents": {
+      "contents": []
+    }
+  },
+  {
+    "id": "2f36ee19-e0b6-4b22-94b5-8789440e1160",
+    "type": "paragraph",
+    "url": null,
+    "parent": "55665a03-cc86-4ca8-877c-4ae40e074ef2",
+    "contents": {
+      "rich_text": "🖼️ 看图说话 GPT-V ⭐️⭐️⭐️⭐️⭐️"
+    }
+  },
+  {
+    "id": "e7289f8e-53ba-4b32-8b1b-6b396ac89967",
+    "type": "paragraph",
+    "url": null,
+    "parent": "55665a03-cc86-4ca8-877c-4ae40e074ef2",
+    "contents": {
+      "rich_text": "最后说最近最先开的功能，就是你可以上传自己的照片让ChatGPT识别并看图说话，这里就不多说了，发一个在网上比较火的图片。"
+    }
+  },
+  {
+    "id": "92de12c5-4ced-4482-af1f-4761b2f29441",
+    "type": "paragraph",
+    "url": null,
+    "parent": "55665a03-cc86-4ca8-877c-4ae40e074ef2",
+    "contents": {
+      "rich_text": "👍优点：可以让ChatGPT看着图帮你修东西，评价你拍的照片，等等各种需要视觉加上语言的任务。"
+    }
+  },
+  {
+    "id": "42b5ac2b-52de-40dd-920d-72dfbc7fbb09",
+    "type": "paragraph",
+    "url": null,
+    "parent": "55665a03-cc86-4ca8-877c-4ae40e074ef2",
+    "contents": {
+      "rich_text": "👎缺点：数据隐私"
+    }
+  },
+  {
+    "id": "2ec44b14-9776-44dd-97cd-dbdf71df4bf5",
+    "type": "paragraph",
+    "url": null,
+    "parent": "55665a03-cc86-4ca8-877c-4ae40e074ef2",
+    "contents": {
+      "contents": []
+    }
+  },
+  {
+    "id": "5cb57a42-f9e0-4f81-976e-a9697dd65f8a",
+    "type": "paragraph",
+    "url": null,
+    "parent": "55665a03-cc86-4ca8-877c-4ae40e074ef2",
+    "contents": {
+      "contents": []
+    }
+  },
+  {
+    "id": "55665a03-cc86-4ca8-877c-4ae40e074ef2",
+    "type": "child_page",
+    "url": "https://www.notion.so/55665a03cc864ca8877c4ae40e074ef2",
+    "parent": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "contents": {
+      "title": "ChatGPT Plus: Buy?"
+    }
+  },
+  {
+    "id": "e5179ef1-8670-4acd-a721-8fc19800f03a",
+    "type": "paragraph",
+    "url": null,
+    "parent": "6fb0006a-a2a4-40c2-ac59-691f16c611c0",
+    "contents": {
+      "rich_text": "⚛️ 习惯养成之扬长避短"
+    }
+  },
+  {
+    "id": "ab90aa82-54d6-45a7-81e1-d0f013a973dc",
+    "type": "table_of_contents",
+    "url": null,
+    "parent": "6fb0006a-a2a4-40c2-ac59-691f16c611c0",
+    "contents": {
+      "contents": {
+        "color": "gray"
+      }
+    }
+  },
+  {
+    "id": "ae8bbb78-3f33-4080-b12b-338eea189be5",
+    "type": "heading_1",
+    "url": null,
+    "parent": "6fb0006a-a2a4-40c2-ac59-691f16c611c0",
+    "contents": {
+      "rich_text": "大标题"
+    }
+  },
+  {
+    "id": "c2b298c1-69a4-4287-b98a-564f1c81181d",
+    "type": "heading_2",
+    "url": null,
+    "parent": "6fb0006a-a2a4-40c2-ac59-691f16c611c0",
+    "contents": {
+      "rich_text": "小标题"
+    }
+  },
+  {
+    "id": "5ba99e84-8470-47f5-9283-e03d301e7925",
+    "type": "paragraph",
+    "url": null,
+    "parent": "6fb0006a-a2a4-40c2-ac59-691f16c611c0",
+    "contents": {
+      "contents": []
+    }
+  },
+  {
+    "id": "63e5d404-25d6-4d08-95eb-441f0547b535",
+    "type": "bookmark",
+    "url": null,
+    "parent": "6fb0006a-a2a4-40c2-ac59-691f16c611c0",
+    "contents": {
+      "contents": {
+        "caption": [],
+        "url": "https://gamma.app/docs/-k78sb66djfkg9fn?mode=doc"
+      }
+    }
+  },
+  {
+    "id": "6fb0006a-a2a4-40c2-ac59-691f16c611c0",
+    "type": "child_page",
+    "url": "https://www.notion.so/6fb0006aa2a440c2ac59691f16c611c0",
+    "parent": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "contents": {
+      "title": "Atomic Habits"
+    }
+  },
+  {
+    "id": "b8f2aa9c-5720-40cb-8c83-93fb882a9560",
+    "type": "paragraph",
+    "url": null,
+    "parent": "088c3fe2-c368-404d-b832-7ecc86f7d78f",
+    "contents": {
+      "rich_text": "🧠🌫️"
+    }
+  },
+  {
+    "id": "385edacc-46aa-47ef-a78d-65f86340d902",
+    "type": "table_of_contents",
+    "url": null,
+    "parent": "088c3fe2-c368-404d-b832-7ecc86f7d78f",
+    "contents": {
+      "contents": {
+        "color": "gray"
+      }
+    }
+  },
+  {
+    "id": "0b476a76-1ae5-44e2-8fcf-8a6f0889e7db",
+    "type": "paragraph",
+    "url": null,
+    "parent": "c8785c87-0408-4a77-951b-2f11b4d08b57",
+    "contents": {
+      "rich_text": "脑雾是一个常用来描述精神微混乱或缺乏清晰思考能力的术语，"
+    }
+  },
+  {
+    "id": "1b8257f1-e790-4c6b-a67f-1e18050a0010",
+    "type": "paragraph",
+    "url": null,
+    "parent": "c8785c87-0408-4a77-951b-2f11b4d08b57",
+    "contents": {
+      "rich_text": "脑雾表现出来的症状包括："
+    }
+  },
+  {
+    "id": "b45c079f-a4e0-4dc5-9d7b-4a20cc4adc3c",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "c8785c87-0408-4a77-951b-2f11b4d08b57",
+    "contents": {
+      "rich_text": "记忆力下降"
+    }
+  },
+  {
+    "id": "814673b0-d5e9-4836-9787-f4e9d6c7ec0b",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "c8785c87-0408-4a77-951b-2f11b4d08b57",
+    "contents": {
+      "rich_text": "注意力"
+    }
+  },
+  {
+    "id": "7f556c0b-bcec-40a5-b5b0-6f6b54f7e823",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "c8785c87-0408-4a77-951b-2f11b4d08b57",
+    "contents": {
+      "rich_text": "深度思考能力下降"
+    }
+  },
+  {
+    "id": "670fadbb-95e9-49cf-a268-8f663d62f25f",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "c8785c87-0408-4a77-951b-2f11b4d08b57",
+    "contents": {
+      "rich_text": "易疲劳、烦躁不安"
+    }
+  },
+  {
+    "id": "c8785c87-0408-4a77-951b-2f11b4d08b57",
+    "type": "heading_1",
+    "url": null,
+    "parent": "088c3fe2-c368-404d-b832-7ecc86f7d78f",
+    "contents": {
+      "rich_text": "什么是脑雾？ 😶‍🌫️"
+    }
+  },
+  {
+    "id": "22960767-1438-4abb-bd75-5db5a61c688a",
+    "type": "numbered_list_item",
+    "url": null,
+    "parent": "8fddd87f-b7f9-4b4a-bd68-3843d57886b1",
+    "contents": {
+      "rich_text": "认知功能障碍"
+    }
+  },
+  {
+    "id": "7f2e2f8e-6c68-4d2d-a7a3-1239ebf8d53c",
+    "type": "divider",
+    "url": null,
+    "parent": "13c446c4-4608-4272-9232-7a02d277bb13",
+    "contents": {
+      "contents": {}
+    }
+  },
+  {
+    "id": "92068bbb-ad26-4002-9194-e5e35ebf72ea",
+    "type": "numbered_list_item",
+    "url": null,
+    "parent": "13c446c4-4608-4272-9232-7a02d277bb13",
+    "contents": {
+      "rich_text": "多巴胺失衡"
+    }
+  },
+  {
+    "id": "13c446c4-4608-4272-9232-7a02d277bb13",
+    "type": "numbered_list_item",
+    "url": null,
+    "parent": "8fddd87f-b7f9-4b4a-bd68-3843d57886b1",
+    "contents": {
+      "rich_text": "神经稳态失衡"
+    }
+  },
+  {
+    "id": "8fddd87f-b7f9-4b4a-bd68-3843d57886b1",
+    "type": "heading_2",
+    "url": null,
+    "parent": "088c3fe2-c368-404d-b832-7ecc86f7d78f",
+    "contents": {
+      "rich_text": "神经学 🧠"
+    }
+  },
+  {
+    "id": "8cfe389b-98ad-472f-b147-1fec30eebee7",
+    "type": "numbered_list_item",
+    "url": null,
+    "parent": "861422bd-a5c3-4db6-bb2a-740983dd736d",
+    "contents": {
+      "rich_text": "心理压力"
+    }
+  },
+  {
+    "id": "69e9e3a8-a38c-4edc-b8c8-1f1c8ca331b9",
+    "type": "numbered_list_item",
+    "url": null,
+    "parent": "861422bd-a5c3-4db6-bb2a-740983dd736d",
+    "contents": {
+      "rich_text": "情绪波动"
+    }
+  },
+  {
+    "id": "4f1689e4-9e58-45c7-9373-a3ab042345b9",
+    "type": "numbered_list_item",
+    "url": null,
+    "parent": "861422bd-a5c3-4db6-bb2a-740983dd736d",
+    "contents": {
+      "rich_text": "认知负荷"
+    }
+  },
+  {
+    "id": "861422bd-a5c3-4db6-bb2a-740983dd736d",
+    "type": "heading_2",
+    "url": null,
+    "parent": "088c3fe2-c368-404d-b832-7ecc86f7d78f",
+    "contents": {
+      "rich_text": "心理学 ❤️‍🔥"
+    }
+  },
+  {
+    "id": "fb4a40ad-90a5-4fae-a366-158bc9136b34",
+    "type": "paragraph",
+    "url": null,
+    "parent": "13127bbf-6834-4b80-ae1f-630ee85b9f2b",
+    "contents": {
+      "rich_text": "脑雾和注意力是相互影响的"
+    }
+  },
+  {
+    "id": "f173eb7e-0912-4a72-ba10-1865942c0803",
+    "type": "paragraph",
+    "url": null,
+    "parent": "13127bbf-6834-4b80-ae1f-630ee85b9f2b",
+    "contents": {
+      "rich_text": "想要拥有清晰的思考能力、持久的专注度，就得做到以下几点。"
+    }
+  },
+  {
+    "id": "13127bbf-6834-4b80-ae1f-630ee85b9f2b",
+    "type": "heading_1",
+    "url": null,
+    "parent": "088c3fe2-c368-404d-b832-7ecc86f7d78f",
+    "contents": {
+      "rich_text": "脑雾退散 🌞"
+    }
+  },
+  {
+    "id": "d8d85fc0-e4db-40e7-9754-fd4e5daffe5d",
+    "type": "paragraph",
+    "url": null,
+    "parent": "1ab062d5-7fda-4c26-9b3e-1eacb8c99111",
+    "contents": {
+      "rich_text": "睡眠很大程度上决定了许多脑部功能的正常运作。人脑在进行深度睡眠的时候，会用脑脊液（Cerebral Spinal Fluid）来清洗大脑里在一天工作、学习、看屏幕之后产生的有毒代谢产物。"
+    }
+  },
+  {
+    "id": "1cae4774-69e6-42ea-a9fe-74491065dba2",
+    "type": "paragraph",
+    "url": null,
+    "parent": "1ab062d5-7fda-4c26-9b3e-1eacb8c99111",
+    "contents": {
+      "rich_text": "但睡眠不足或者因为各种原因导致的睡眠质量下降，会让这个祛毒的过程效率低下，导致睡醒后也依然会感觉神智不清、疲劳。在许多关于睡眠和注意力的研究中，被得出的共同结论是："
+    }
+  },
+  {
+    "id": "14a15208-5ccd-4909-8235-d09839323cd3",
+    "type": "paragraph",
+    "url": null,
+    "parent": "1ab062d5-7fda-4c26-9b3e-1eacb8c99111",
+    "contents": {
+      "rich_text": "研究表明，长时间不睡觉会像喝了太多酒一样，影响你的驾驶能力。连续清醒18小时相当于一个人的血液酒精含量达到了0.05%，然而连续清醒24小时等同于血液酒精含量高达0.10%，远超酒驾标准。（美国CDC）"
+    }
+  },
+  {
+    "id": "964abf61-88d4-4d2e-a948-cbcba479dc78",
+    "type": "paragraph",
+    "url": null,
+    "parent": "1ab062d5-7fda-4c26-9b3e-1eacb8c99111",
+    "contents": {
+      "rich_text": "因此要想解决脑雾，就得先改进睡眠。"
+    }
+  },
+  {
+    "id": "d0ea99fb-4679-4803-9549-cbd1df08fff9",
+    "type": "divider",
+    "url": null,
+    "parent": "1ab062d5-7fda-4c26-9b3e-1eacb8c99111",
+    "contents": {
+      "contents": {}
+    }
+  },
+  {
+    "id": "402aea4e-fac6-41a1-b786-837b0eab7bc5",
+    "type": "paragraph",
+    "url": null,
+    "parent": "1ab062d5-7fda-4c26-9b3e-1eacb8c99111",
+    "contents": {
+      "rich_text": "睡眠不足、注意力下降、焦虑、刷手机会形成一个非常强的恶性循环。生活中大部分上班族或者学生平时都会有各种各样的压力，一天的工作学习后，只有睡前一点时间能由自己来支配，大部分人在这个时候会选择去刷手机，来获得短暂但强烈的快感，从而想达到放松的目的。但恰恰相反，刷手机，尤其是短视频，给我们带来的并不是放松，而是更加强烈的焦虑。"
+    }
+  },
+  {
+    "id": "16a2e3b9-789c-4aa2-9766-ed18575260e6",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "1ab062d5-7fda-4c26-9b3e-1eacb8c99111",
+    "contents": {
+      "rich_text": "起点：夜晚刷手机意味着要盯着发射许多蓝光的屏幕，蓝光会强烈地刺激视神经，甚至可以穿透你的眼皮来刺激你，从而让大脑认为现在不是睡眠的时候。"
+    }
+  },
+  {
+    "id": "44f9add9-eeac-422e-9f9b-19684979e555",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "1ab062d5-7fda-4c26-9b3e-1eacb8c99111",
+    "contents": {
+      "rich_text": "在睡前黑着灯刷手机过后，直接进入睡眠，或许你感觉你是睡着了，但大脑会因为刚刚的刺激而依然活跃。"
+    }
+  },
+  {
+    "id": "9c5c91c1-3649-4ec5-abc3-a87bcfc12a5b",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "1ab062d5-7fda-4c26-9b3e-1eacb8c99111",
+    "contents": {
+      "rich_text": "因此会导致睡眠时间不足 + 睡眠质量下降，让你第二天的工作和学习效率更加低下、注意力难以集中。但因为这些事情又是必须要做的，所以效率低下可能会给你带来更多的焦虑和压力。"
+    }
+  },
+  {
+    "id": "190dcd38-4227-4ca7-a6a3-b0b8d50d6c97",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "1ab062d5-7fda-4c26-9b3e-1eacb8c99111",
+    "contents": {
+      "rich_text": "又焦虑地忙碌了一天，到了晚上又回到最初的起点：刷手机。"
+    }
+  },
+  {
+    "id": "583d7a59-4d86-4dfe-b6f3-ef153d6921a2",
+    "type": "paragraph",
+    "url": null,
+    "parent": "1ab062d5-7fda-4c26-9b3e-1eacb8c99111",
+    "contents": {
+      "rich_text": "类似的恶性循环还有很多，但总而言之，大部分的研究证据都在提示我们：如果有脑雾或者任何跟脑雾沾边儿的症状，先要分析自己的睡眠状态，并尝试去改善它。"
+    }
+  },
+  {
+    "id": "4e27d5b0-4bdb-4225-b0ef-a780f6a25f97",
+    "type": "paragraph",
+    "url": null,
+    "parent": "1ab062d5-7fda-4c26-9b3e-1eacb8c99111",
+    "contents": {
+      "rich_text": "希望大家都能在睡前两小时内少看或者不看手机，并且每天争取可以睡够至少七个小时。"
+    }
+  },
+  {
+    "id": "1ab062d5-7fda-4c26-9b3e-1eacb8c99111",
+    "type": "heading_2",
+    "url": null,
+    "parent": "088c3fe2-c368-404d-b832-7ecc86f7d78f",
+    "contents": {
+      "rich_text": "睡眠节律 💤 🕙"
+    }
+  },
+  {
+    "id": "a18b8ca7-6352-4d23-8a73-bf8b5adfdbb7",
+    "type": "paragraph",
+    "url": null,
+    "parent": "489dc53e-3649-4e42-92a3-b40e91876b2d",
+    "contents": {
+      "rich_text": "生活中压力的来源太多了，导致我们会深陷其中无法自拔，甚至我们想要释放压力的途径——社交媒体、短视频、打游戏等等，也会带来更多的压力："
+    }
+  },
+  {
+    "id": "1d56e071-b2d1-4cf5-abb2-ead979da5ce7",
+    "type": "divider",
+    "url": null,
+    "parent": "489dc53e-3649-4e42-92a3-b40e91876b2d",
+    "contents": {
+      "contents": {}
+    }
+  },
+  {
+    "id": "7139fecd-d512-4fb8-a4f1-b86ecae2c8f4",
+    "type": "paragraph",
+    "url": null,
+    "parent": "489dc53e-3649-4e42-92a3-b40e91876b2d",
+    "contents": {
+      "rich_text": "想要减少压力其实很简单，但又很难，因为这些方法难以跟刷手机等可以给你带来很多快感的事情相提并论。但我想强调的一点是，"
+    }
+  },
+  {
+    "id": "f36efb36-861b-49a1-8832-40f8db941b84",
+    "type": "paragraph",
+    "url": null,
+    "parent": "489dc53e-3649-4e42-92a3-b40e91876b2d",
+    "contents": {
+      "rich_text": "这次我们先想办法尝试去发现，并缓解自己给自己的压力。"
+    }
+  },
+  {
+    "id": "018be17b-a004-4c84-89e7-a8761ffa3d8b",
+    "type": "paragraph",
+    "url": null,
+    "parent": "489dc53e-3649-4e42-92a3-b40e91876b2d",
+    "contents": {
+      "rich_text": "人在自然的状态下，本应是没有这么多压力的源头的，人类进化的过程中只有生存的压力从始至终一直存在，其他时候难以有别的事情来造成与生存相提并论的焦虑。因此这些额外的、会影响我们睡眠的、让我们羡慕嫉妒恨的，都是非自然的。所以要想追本溯源地缓解压力，就得去做一些"
+    }
+  },
+  {
+    "id": "87a7155f-3e9c-48e6-b2a8-01483a3cc2c6",
+    "type": "paragraph",
+    "url": null,
+    "parent": "489dc53e-3649-4e42-92a3-b40e91876b2d",
+    "contents": {
+      "rich_text": "推荐大家开始尝试以下简单的活动来放松自己，让你一天的精气神儿都维持在一个稳定的状态："
+    }
+  },
+  {
+    "id": "098c4182-5a4d-47d6-9df0-5e1d508ec2c2",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "489dc53e-3649-4e42-92a3-b40e91876b2d",
+    "contents": {
+      "rich_text": "早起、睡前各"
+    }
+  },
+  {
+    "id": "b837b92c-b399-49a0-a8a9-21524823e308",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "489dc53e-3649-4e42-92a3-b40e91876b2d",
+    "contents": {
+      "rich_text": "减少咖啡摄入：咖啡可以被用来短暂提神醒脑，但其实是在透支你的精力，在咖啡因的劲儿过去之后，你有可能会感到急剧的疲劳或者精力下降。如果你一定要喝咖啡的话，记得也要至少喝等量的清水，这样有助于避免喝咖啡导致的脱水。"
+    }
+  },
+  {
+    "id": "f118253d-2396-4835-a8b5-c989aab1c66f",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "489dc53e-3649-4e42-92a3-b40e91876b2d",
+    "contents": {
+      "rich_text": "睡前两个小时不看手机：减少蓝光的刺激，会让你的睡眠质量大幅提升，进而促进大脑的恢复，减少压力。睡前不刷手机其实并不会影响你继续生存。"
+    }
+  },
+  {
+    "id": "e09b47b2-9b49-45de-baf4-f39a985d3405",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "489dc53e-3649-4e42-92a3-b40e91876b2d",
+    "contents": {
+      "rich_text": "每天争取能"
+    }
+  },
+  {
+    "id": "489dc53e-3649-4e42-92a3-b40e91876b2d",
+    "type": "heading_2",
+    "url": null,
+    "parent": "088c3fe2-c368-404d-b832-7ecc86f7d78f",
+    "contents": {
+      "rich_text": "减少压力 🧘 🎧"
+    }
+  },
+  {
+    "id": "34780362-5368-405d-a4a0-ac195f13411d",
+    "type": "paragraph",
+    "url": null,
+    "parent": "2ddaf999-132c-4ece-a866-452255348831",
+    "contents": {
+      "rich_text": "当我们了解到好睡眠是解决脑雾最基本且最有效果的方法，许多人可能会寻求借助褪黑素等补品或药物来改善睡眠质量。但长期借助外力来改善睡眠可能会产生依赖，导致在没有这些补品时睡眠变得比以前更差。因此在极短期内，如果睡眠质量极差，服用一些补品确实会有助于改善，但绝对不是长期失眠、睡眠质量差的解决方案。依赖于药物的睡眠和自然的睡眠相比，睡眠的性质还是非常不同的。"
+    }
+  },
+  {
+    "id": "99d66263-4fb6-40eb-93f1-7b702e24d10d",
+    "type": "divider",
+    "url": null,
+    "parent": "2ddaf999-132c-4ece-a866-452255348831",
+    "contents": {
+      "contents": {}
+    }
+  },
+  {
+    "id": "69a24c7f-8dad-4c76-94df-8af8c8e5bd66",
+    "type": "paragraph",
+    "url": null,
+    "parent": "2ddaf999-132c-4ece-a866-452255348831",
+    "contents": {
+      "rich_text": "好睡眠其实是为了你的大脑可以以最佳的状态去面对每天要完成的事情，还有一些别的方法可以改善你的效率，给你一种对于每天琐事的控制感。"
+    }
+  },
+  {
+    "id": "81e0be70-c230-429c-a598-5ff530408ef5",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "2ddaf999-132c-4ece-a866-452255348831",
+    "contents": {
+      "rich_text": "专注、尊重你的时间：不要尝试去同时完成很多事情，我们的大脑结构注定了我们不能一心二意地处理事情（Multi-tasking）而只有在对一件事情100%专注的时候，才可以把事儿做好。在这个过程中，不论是工作还是学习，要想办法消除一切会让你分神的东西。有研究表明，在你工作的时候，就算是手机亮了，你花了5秒去看了一眼，你也将会要花更多的精力去把你的注意力重新放到你之前的任务上。谷爱凌能当上奥运冠军又能在斯坦福拿到全A，不是因为她在滑雪训练的时候读书，而是因为她做不同的事情的时候都给予了100%的专注。"
+    }
+  },
+  {
+    "id": "8cc7bb04-fe2a-4b68-9da1-b6f2ed384384",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "2ddaf999-132c-4ece-a866-452255348831",
+    "contents": {
+      "rich_text": "把复杂的事情拆开：万事开头难，生活工作中的事情总是很复杂。把要做的所有事情写下来，细节越多越好。当你可以清楚地描述你要处理的问题是什么的时候，你也就知道你具体要做什么了。"
+    }
+  },
+  {
+    "id": "e8d24886-0a64-4445-89af-a979055f6559",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "2ddaf999-132c-4ece-a866-452255348831",
+    "contents": {
+      "rich_text": "诚实地与自己对话：我现在有没有焦虑、感到压力？如果是的话，为什么？"
+    }
+  },
+  {
+    "id": "2ddaf999-132c-4ece-a866-452255348831",
+    "type": "heading_2",
+    "url": null,
+    "parent": "088c3fe2-c368-404d-b832-7ecc86f7d78f",
+    "contents": {
+      "rich_text": "自然恢复 🚫 💊"
+    }
+  },
+  {
+    "id": "c27444ad-1332-49cf-b830-8d65f0d08179",
+    "type": "paragraph",
+    "url": null,
+    "parent": "f7a693a4-f2df-4243-99cd-8a42a349746e",
+    "contents": {
+      "rich_text": "我个人在过去的一年中发现，自己大部分时候很难进行长时间的深度思考：我对很多事物感兴趣，但我无法沉下心来对任何一件事情进行深度的探讨。意识到这一点之后，我觉得非常可惜，因为我大部分时间和注意力都被各种各样分散我注意力的消遣所消磨殆尽。于是我做了一个挑战，叫做“75 HARD”，我通过这个挑战重新找回了我的一部分专注的能力，亲身体会到了身体健康和大脑清醒密不可分的关系，并了解到了如何尊重我自己的兴趣爱好和我所拥有的时间。"
+    }
+  },
+  {
+    "id": "f684fd11-9718-46cb-a392-105c435ebc98",
+    "type": "paragraph",
+    "url": null,
+    "parent": "f7a693a4-f2df-4243-99cd-8a42a349746e",
+    "contents": {
+      "rich_text": "愿大家能慢慢地找回自己的注意力，让自己的工作和生活变得更好！"
+    }
+  },
+  {
+    "id": "f7a693a4-f2df-4243-99cd-8a42a349746e",
+    "type": "heading_1",
+    "url": null,
+    "parent": "088c3fe2-c368-404d-b832-7ecc86f7d78f",
+    "contents": {
+      "rich_text": "个人经历🏃‍♂️"
+    }
+  },
+  {
+    "id": "74ffea78-17bc-47e5-916a-1a273e63e93e",
+    "type": "paragraph",
+    "url": null,
+    "parent": "088c3fe2-c368-404d-b832-7ecc86f7d78f",
+    "contents": {
+      "contents": []
+    }
+  },
+  {
+    "id": "7c92e270-b9e5-481a-8a37-f0020e2293e4",
+    "type": "paragraph",
+    "url": null,
+    "parent": "618d70c1-b33a-42c5-8ef7-da3404b4f949",
+    "contents": {
+      "rich_text": "😀多巴胺稳态"
+    }
+  },
+  {
+    "id": "e6da9d8d-ba69-4194-bd98-934ced49ed5e",
+    "type": "paragraph",
+    "url": null,
+    "parent": "618d70c1-b33a-42c5-8ef7-da3404b4f949",
+    "contents": {
+      "rich_text": "💪75 HARD挑战"
+    }
+  },
+  {
+    "id": "355b814b-3a41-4b43-920e-59ffb1764682",
+    "type": "paragraph",
+    "url": null,
+    "parent": "618d70c1-b33a-42c5-8ef7-da3404b4f949",
+    "contents": {
+      "rich_text": "🔦注意力是什么"
+    }
+  },
+  {
+    "id": "618d70c1-b33a-42c5-8ef7-da3404b4f949",
+    "type": "heading_1",
+    "url": null,
+    "parent": "088c3fe2-c368-404d-b832-7ecc86f7d78f",
+    "contents": {
+      "rich_text": "🕳️ 挖坑"
+    }
+  },
+  {
+    "id": "088c3fe2-c368-404d-b832-7ecc86f7d78f",
+    "type": "child_page",
+    "url": "https://www.notion.so/088c3fe2c368404db8327ecc86f7d78f",
+    "parent": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "contents": {
+      "title": "How to get rid of brain fogs"
+    }
+  },
+  {
+    "id": "bea7ff31-47f1-4f5d-a348-371617eb2bd0",
+    "type": "table_of_contents",
+    "url": null,
+    "parent": "3abb4e7d-1913-4869-8a1d-5f5cdd6388fe",
+    "contents": {
+      "contents": {
+        "color": "gray"
+      }
+    }
+  },
+  {
+    "id": "86ad5a21-e41e-473a-8497-465bfd66dbb4",
+    "type": "heading_1",
+    "url": null,
+    "parent": "3abb4e7d-1913-4869-8a1d-5f5cdd6388fe",
+    "contents": {
+      "rich_text": "大标题"
+    }
+  },
+  {
+    "id": "f8806b9e-141c-4f49-a82e-f6b4f962edbe",
+    "type": "heading_2",
+    "url": null,
+    "parent": "3abb4e7d-1913-4869-8a1d-5f5cdd6388fe",
+    "contents": {
+      "rich_text": "小标题"
+    }
+  },
+  {
+    "id": "4ce53bc3-dedd-40cb-b1b5-339d08f61d0f",
+    "type": "paragraph",
+    "url": null,
+    "parent": "3abb4e7d-1913-4869-8a1d-5f5cdd6388fe",
+    "contents": {
+      "contents": []
+    }
+  },
+  {
+    "id": "3abb4e7d-1913-4869-8a1d-5f5cdd6388fe",
+    "type": "child_page",
+    "url": "https://www.notion.so/3abb4e7d191348698a1d5f5cdd6388fe",
+    "parent": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "contents": {
+      "title": "Focus & Respect: my own journey"
+    }
+  },
+  {
+    "id": "c573442b-aae5-496f-aca4-4b228b89c62d",
+    "type": "child_page",
+    "url": "https://www.notion.so/c573442baae5496faca44b228b89c62d",
+    "parent": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "contents": {
+      "title": "Use ChatGPT + Azure TTS API to build your own chatbot"
+    }
+  },
+  {
+    "id": "07257f0c-422a-4df6-8f2a-15da380feb5a",
+    "type": "child_page",
+    "url": "https://www.notion.so/07257f0c422a4df68f2a15da380feb5a",
+    "parent": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "contents": {
+      "title": "eBook: Creating Digital Assets Using Generative AI"
+    }
+  },
+  {
+    "id": "bb6f1fdf-a571-4898-9025-0888d8dbe137",
+    "type": "paragraph",
+    "url": null,
+    "parent": "2c101e8e-8b5b-43ed-ade6-9471aaee2e5d",
+    "contents": {
+      "rich_text": "📱如何刷掉你的注意力"
+    }
+  },
+  {
+    "id": "76e79926-87c1-483a-a626-e65666e2888d",
+    "type": "paragraph",
+    "url": null,
+    "parent": "2c101e8e-8b5b-43ed-ade6-9471aaee2e5d",
+    "contents": {
+      "contents": []
+    }
+  },
+  {
+    "id": "2c101e8e-8b5b-43ed-ade6-9471aaee2e5d",
+    "type": "child_page",
+    "url": "https://www.notion.so/2c101e8e8b5b43edade69471aaee2e5d",
+    "parent": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "contents": {
+      "title": "Scrolling & Attention"
+    }
+  },
+  {
+    "id": "d216c775-a071-49e4-88b6-cab87e3b8a8a",
+    "type": "child_page",
+    "url": "https://www.notion.so/d216c775a07149e488b6cab87e3b8a8a",
+    "parent": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "contents": {
+      "title": "DALLE, Midjourney & StableDiffusion"
+    }
+  },
+  {
+    "id": "dfba765f-3ee9-4ac2-a30a-34bc81163a5a",
+    "type": "child_page",
+    "url": "https://www.notion.so/dfba765f3ee94ac2a30a34bc81163a5a",
+    "parent": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "contents": {
+      "title": "Web3.0 & Generative AI"
+    }
+  },
+  {
+    "id": "272a3260-58b4-4c84-b31c-27d43a36ebd7",
+    "type": "child_page",
+    "url": "https://www.notion.so/272a326058b44c84b31c27d43a36ebd7",
+    "parent": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "contents": {
+      "title": "Web3.0 & Healthcare"
+    }
+  },
+  {
+    "id": "346dc9fe-8980-4c98-9bb4-7cd398f2cc12",
+    "type": "paragraph",
+    "url": null,
+    "parent": "b8d4c2db-ea75-4392-ad77-75df06d1c722",
+    "contents": {
+      "rich_text": "💡通过钻研自己的兴趣爱好来学编程"
+    }
+  },
+  {
+    "id": "b5014be3-3f3e-41e1-ac28-182fb5f48f6a",
+    "type": "table_of_contents",
+    "url": null,
+    "parent": "b8d4c2db-ea75-4392-ad77-75df06d1c722",
+    "contents": {
+      "contents": {
+        "color": "gray"
+      }
+    }
+  },
+  {
+    "id": "f29f4da3-dd79-4929-b911-c7127fe6d13b",
+    "type": "paragraph",
+    "url": null,
+    "parent": "c1f9d4d4-b781-46ed-842b-b647c74eec29",
+    "contents": {
+      "rich_text": "在这个数字化的时代里，每个人都有与时代接轨的兴趣爱好。"
+    }
+  },
+  {
+    "id": "c1f9d4d4-b781-46ed-842b-b647c74eec29",
+    "type": "heading_1",
+    "url": null,
+    "parent": "b8d4c2db-ea75-4392-ad77-75df06d1c722",
+    "contents": {
+      "rich_text": "深度思考兴趣爱好"
+    }
+  },
+  {
+    "id": "9b724631-ca3a-4e82-966a-431d5e4a01b1",
+    "type": "paragraph",
+    "url": null,
+    "parent": "648297dd-1190-44c1-9e23-18690d3d2a77",
+    "contents": {
+      "rich_text": "Python是一个很好上手的编程语言"
+    }
+  },
+  {
+    "id": "648297dd-1190-44c1-9e23-18690d3d2a77",
+    "type": "heading_1",
+    "url": null,
+    "parent": "b8d4c2db-ea75-4392-ad77-75df06d1c722",
+    "contents": {
+      "rich_text": "引入Python编程"
+    }
+  },
+  {
+    "id": "1c8b6e8e-65cd-4a45-b643-3552d959bc1d",
+    "type": "paragraph",
+    "url": null,
+    "parent": "4edc337d-32df-4d21-9009-0c0bfde3ac1a",
+    "contents": {
+      "rich_text": "当你清晰地知道什么是你感兴趣的以及你想做到的事情"
+    }
+  },
+  {
+    "id": "4edc337d-32df-4d21-9009-0c0bfde3ac1a",
+    "type": "heading_1",
+    "url": null,
+    "parent": "b8d4c2db-ea75-4392-ad77-75df06d1c722",
+    "contents": {
+      "rich_text": "兴趣+实操=心流状态"
+    }
+  },
+  {
+    "id": "b8d4c2db-ea75-4392-ad77-75df06d1c722",
+    "type": "child_page",
+    "url": "https://www.notion.so/b8d4c2dbea754392ad7775df06d1c722",
+    "parent": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "contents": {
+      "title": "Creating your own NFT with ChatGPT"
+    }
+  },
+  {
+    "id": "d2bb233d-4e62-42e4-be89-ce4afcb702ee",
+    "type": "paragraph",
+    "url": null,
+    "parent": "3cac6064-626f-415b-8d91-00c80de177e7",
+    "contents": {
+      "rich_text": "⛓️LangChain"
+    }
+  },
+  {
+    "id": "3cac6064-626f-415b-8d91-00c80de177e7",
+    "type": "child_page",
+    "url": "https://www.notion.so/3cac6064626f415b8d9100c80de177e7",
+    "parent": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "contents": {
+      "title": "LangChain"
+    }
+  },
+  {
+    "id": "fc50f064-6782-4e0d-828c-b85a2e50954c",
+    "type": "paragraph",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "🤖️ AIGC提示词基础：拟人化学习"
+    }
+  },
+  {
+    "id": "adf9b640-58c6-4715-ac24-19a603f669c3",
+    "type": "table_of_contents",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "contents": {
+        "color": "gray"
+      }
+    }
+  },
+  {
+    "id": "0ef1a6f7-15a6-49f6-9131-60ff8c0fb7e6",
+    "type": "heading_1",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "生成式AI之ChatGPT"
+    }
+  },
+  {
+    "id": "1a5119bb-7794-4ffd-820f-7d15d7442870",
+    "type": "paragraph",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "ChatGPT是迄今为止最网红的"
+    }
+  },
+  {
+    "id": "497f0e1d-97f8-4de3-bd02-7bd228ef6377",
+    "type": "divider",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "contents": {}
+    }
+  },
+  {
+    "id": "642618dd-130a-4cb6-b682-49066263b483",
+    "type": "paragraph",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "其实使用文本的提示词有一套通用的方法或者思维逻辑，在我自己使用的过程中我认为精髓在于"
+    }
+  },
+  {
+    "id": "f3bd9885-8ba9-4d15-8cfa-b18fa45b159c",
+    "type": "paragraph",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "但就算聪明如ChatGPT，他有时候也会胡说（出现幻觉/"
+    }
+  },
+  {
+    "id": "d67e780a-6556-45e3-a95c-7880b72bfb21",
+    "type": "heading_1",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "通用方法"
+    }
+  },
+  {
+    "id": "62bab242-463e-478b-be79-ad16dc144669",
+    "type": "paragraph",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "不论是想利用LLM解决什么样的问题，例如写作、编程、修改文档，都有一套通用的方法可以参考，来让你的"
+    }
+  },
+  {
+    "id": "ba44616d-3d8b-43fe-90d2-666d8b345844",
+    "type": "paragraph",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "大部分生活或工作上的问题，ChatGPT往往都能解答，但是难免有个别问题会过于复杂、繁琐、或者专业性太强，导致给出的答案不尽人意或者过于中规中矩。"
+    }
+  },
+  {
+    "id": "659f1657-ed8a-4285-80b2-74340cd4fcf8",
+    "type": "divider",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "contents": {}
+    }
+  },
+  {
+    "id": "05707dc8-2357-4674-a4c7-7d63c3841776",
+    "type": "paragraph",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "ChatGPT本身还会有一些别的"
+    }
+  },
+  {
+    "id": "0357b20d-6924-44b4-9dfe-f7ffa152f218",
+    "type": "numbered_list_item",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "不读报"
+    }
+  },
+  {
+    "id": "c3c968b0-65f0-4b38-b571-592e2a837908",
+    "type": "numbered_list_item",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "健忘"
+    }
+  },
+  {
+    "id": "6de76019-5218-4f00-b20d-395359898b3e",
+    "type": "paragraph",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "所以基于这些规则，我们来用ChatGPT 3.5当例子，来探讨一下该如何玩儿好LLM这个游戏。"
+    }
+  },
+  {
+    "id": "0b94580d-c4f2-4501-8edb-e3185efb9e7f",
+    "type": "heading_2",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "从零开始 zero-shot 0️⃣"
+    }
+  },
+  {
+    "id": "0cf2fc08-1794-4c79-88d8-519decf1d5af",
+    "type": "paragraph",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "一开始接触 ChatGPT 的时候，我发现网上的观点五花八门，但大多数的讨论都集中在两个主要应用场景：（1）编程任务的辅助，以及（2）创意和头脑风暴的催化剂。"
+    }
+  },
+  {
+    "id": "df80f4d5-f66e-4b75-8ed1-026d575d8736",
+    "type": "paragraph",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "在编程领域，ChatGPT 能够提供代码示例，解释复杂的算法，甚至帮助调试。因为它能够理解自然语言，所以你只需用最直截了当的方式描述你的问题，然后 ChatGPT 便能基于有限的信息，给出可能的解决方案或建议。这对于编程新手或者需要快速解决问题的码农来说，是一个非常宝贵的资源。"
+    }
+  },
+  {
+    "id": "c78987fd-78c2-47ed-99d3-6b4213196594",
+    "type": "divider",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "contents": {}
+    }
+  },
+  {
+    "id": "d2d66b31-cd46-4145-b0cb-a5d764b5a9c8",
+    "type": "paragraph",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "另一方面，无论是在写作、设计还是艺术创作中，它都能根据给定的提示生成各种可能的想法或方案。这不仅能帮助你突破思维的局限，也能在你遇到创意瓶颈时给你带来灵感。同样地，它的发散性思维能力使得一个简单的问题或想法"
+    }
+  },
+  {
+    "id": "0cf2831b-e88b-4c6d-9565-c7c7d3d822f1",
+    "type": "paragraph",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "总结"
+    }
+  },
+  {
+    "id": "ce42964c-e075-45f6-8e2e-eb46b6fda4e9",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "合适的应用场景：简单编程，头脑风暴，简单数学题，基础翻译，简单的情感分析"
+    }
+  },
+  {
+    "id": "8c259c24-6aa7-4679-adf9-435f630e42b6",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "不合适的应用场景：稍复杂的数学题，脑筋急转弯，稍复杂的情感分析"
+    }
+  },
+  {
+    "id": "c7b3c71a-6734-4cf8-ad72-30d8fff1134e",
+    "type": "image",
+    "url": null,
+    "parent": "cc73ab79-c4f4-4c81-82ae-83748c3e9569",
+    "contents": {
+      "contents": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/31c4a5ba-c390-45c1-b8c6-f49013a7a9a0/f5f579af-c5bb-4fab-a488-ae7485cd9e6c/Screenshot_2023-10-02_at_5.24.20_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240106%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240106T165051Z&X-Amz-Expires=3600&X-Amz-Signature=0e4179f6667c25347948b1f62e589329c37a3ae02b7a96b7c9f0880a7481afc2&X-Amz-SignedHeaders=host&x-id=GetObject",
+          "expiry_time": "2024-01-06T17:50:51.085Z"
+        }
+      }
+    }
+  },
+  {
+    "id": "cc73ab79-c4f4-4c81-82ae-83748c3e9569",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "例题："
+    }
+  },
+  {
+    "id": "2ea94e08-db63-4a12-b47a-8aa81f64fe6f",
+    "type": "heading_2",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "照猫画虎 few-shot 🐯"
+    }
+  },
+  {
+    "id": "65473ade-6256-4344-9f07-29e1d8bacb85",
+    "type": "paragraph",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "当你的问题变得稍微复杂了那么一点，这个时候ChatGPT可能没法儿通过你的描述来直接理解清楚目标是什么。这个时候就要举一些🌰来让ChatGPT明白你要达成的目的大概是什么样子，然后来对于实际的问题按照这个🌰进行一个"
+    }
+  },
+  {
+    "id": "fa9a5e04-5454-4630-94f7-fa4206ff294a",
+    "type": "divider",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "contents": {}
+    }
+  },
+  {
+    "id": "51b80308-4c75-49e2-a1a7-69bc5259df44",
+    "type": "paragraph",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "总结"
+    }
+  },
+  {
+    "id": "e321d7ad-1f66-438c-801d-0d9000ec33cd",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "合适的应用场景：稍复杂的数学题，稍复杂的情感分析，翻译，编程"
+    }
+  },
+  {
+    "id": "8f28be86-8b00-40f9-8cbf-f14d6b2a0ec5",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "不合适的应用场景：复杂的数学题"
+    }
+  },
+  {
+    "id": "79bb7a1a-2979-4851-9efb-86564d0ffaf2",
+    "type": "image",
+    "url": null,
+    "parent": "94d7dca3-e49a-4762-a5bd-1ea8d3c01fc0",
+    "contents": {
+      "contents": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/31c4a5ba-c390-45c1-b8c6-f49013a7a9a0/6853b5e1-f5b0-45de-8b5a-47667fd91ed3/Screenshot_2023-10-02_at_5.24.36_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240106%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240106T165056Z&X-Amz-Expires=3600&X-Amz-Signature=e140d1e8d67f956d53446bc75ef86778dc48aa3fa249886df578f22ff91fe5f9&X-Amz-SignedHeaders=host&x-id=GetObject",
+          "expiry_time": "2024-01-06T17:50:56.871Z"
+        }
+      }
+    }
+  },
+  {
+    "id": "94d7dca3-e49a-4762-a5bd-1ea8d3c01fc0",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "例题："
+    }
+  },
+  {
+    "id": "34a17eef-9ee0-4979-91cf-b28b58c112fe",
+    "type": "heading_2",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "分而治之 chain-of-thought 🤯"
+    }
+  },
+  {
+    "id": "224f6c2c-a271-4714-aece-d5273eab56e8",
+    "type": "paragraph",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "当一个人被问了个问题，然后着急忙慌回答的时候，再简单的问题也大概率会出错；但如果你让回答者慢慢思考或者把问题拆解开来逐一进行解答，那么即便是稍微复杂一些的问题也可以得到正确完整的答案。"
+    }
+  },
+  {
+    "id": "ed8f4684-f69d-4653-8e9d-565e8836b8ed",
+    "type": "paragraph",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "这个是我认为"
+    }
+  },
+  {
+    "id": "19de72f8-959d-4c36-9d3d-c018e66425ed",
+    "type": "divider",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "contents": {}
+    }
+  },
+  {
+    "id": "2d917d81-dfd8-4292-b29a-afe27f3631af",
+    "type": "paragraph",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "这个方法跟few-shot的区别在于，few-shot是举例子然后让ChatGPT去学习你例子里的内容/样式然后去回答一个类似的问题。"
+    }
+  },
+  {
+    "id": "472c87ac-35d0-445c-9d13-c34e7fbb662f",
+    "type": "paragraph",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "总结"
+    }
+  },
+  {
+    "id": "d29d40e0-fcbd-4b14-82e1-d9cc12b61d5d",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "合适的应用场景：复杂的数学题，脑筋急转弯，情感分析，翻译，推理"
+    }
+  },
+  {
+    "id": "0ff52248-206e-472c-bc5b-73d4b7703cff",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "不合适的应用场景：当输出的结果被用作程序里当下一步的内容"
+    }
+  },
+  {
+    "id": "cd07f692-f252-448b-8fa7-bc8cd3231640",
+    "type": "image",
+    "url": null,
+    "parent": "18454f12-9ec6-433b-8c1e-26dfc2cdf775",
+    "contents": {
+      "contents": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/31c4a5ba-c390-45c1-b8c6-f49013a7a9a0/3188126b-7eff-47c5-abc5-24fd85de76c6/Screenshot_2023-10-02_at_5.24.49_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240106%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240106T165102Z&X-Amz-Expires=3600&X-Amz-Signature=55c8a815bedc4f0f55076e5c48c15aacbdf4c23f1109d197d7ca6461cf38564f&X-Amz-SignedHeaders=host&x-id=GetObject",
+          "expiry_time": "2024-01-06T17:51:02.381Z"
+        }
+      }
+    }
+  },
+  {
+    "id": "18454f12-9ec6-433b-8c1e-26dfc2cdf775",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "例题："
+    }
+  },
+  {
+    "id": "0dcd6f08-d3b6-4fe9-b916-dd8c46d936aa",
+    "type": "heading_1",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "实例"
+    }
+  },
+  {
+    "id": "16236fb8-4af9-4616-a120-3e2a3122c074",
+    "type": "paragraph",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "因为可能大部分的用户还是免费版用户，所以我这些实例的展示也就先用"
+    }
+  },
+  {
+    "id": "85806412-6b31-4638-9aa7-57553c7b587f",
+    "type": "paragraph",
+    "url": null,
+    "parent": "7f6b8856-71f8-4a1f-b760-003082d2b697",
+    "contents": {
+      "rich_text": "有研究表明，世界上从有记录起，80-90%的数据都是非结构化的（unstructured data）所以其实还有很多信息没有被利用起来。ChatGPT可以很好地解决这个问题，在不用给任何例子的情况下区分一个非结构化的文字段落里面不同的内容，然后整理成一个结构化的表格。"
+    }
+  },
+  {
+    "id": "229fcca6-8eca-4932-b3e0-6d9c0c6f4ca2",
+    "type": "image",
+    "url": null,
+    "parent": "7f6b8856-71f8-4a1f-b760-003082d2b697",
+    "contents": {
+      "contents": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/31c4a5ba-c390-45c1-b8c6-f49013a7a9a0/7ce95510-2c3b-4f77-8569-659f83dddf56/Screenshot_2023-10-03_at_8.20.34_AM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240106%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240106T165105Z&X-Amz-Expires=3600&X-Amz-Signature=cb54ebf7fde5b8f81e83e9415e3b849a9ce7f5429c3fbcb20f50f22089edc13c&X-Amz-SignedHeaders=host&x-id=GetObject",
+          "expiry_time": "2024-01-06T17:51:05.956Z"
+        }
+      }
+    }
+  },
+  {
+    "id": "e5020c35-d11e-496e-94bf-555cf2c1df5c",
+    "type": "image",
+    "url": null,
+    "parent": "7f6b8856-71f8-4a1f-b760-003082d2b697",
+    "contents": {
+      "contents": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/31c4a5ba-c390-45c1-b8c6-f49013a7a9a0/f1ab3738-468b-4291-b776-c9db789ab8c5/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240106%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240106T165106Z&X-Amz-Expires=3600&X-Amz-Signature=2dc475d7c97b67b379670a172ef1f49b53a49c1dfc978368f4974eaeb57247f0&X-Amz-SignedHeaders=host&x-id=GetObject",
+          "expiry_time": "2024-01-06T17:51:06.241Z"
+        }
+      }
+    }
+  },
+  {
+    "id": "7f6b8856-71f8-4a1f-b760-003082d2b697",
+    "type": "heading_3",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "信息提取"
+    }
+  },
+  {
+    "id": "b3de75ea-44d2-4389-93a5-5c720959db52",
+    "type": "paragraph",
+    "url": null,
+    "parent": "f7629e62-4334-4bca-95b8-effd952f20a4",
+    "contents": {
+      "rich_text": "情感分析算是自然语言处理里面比较核心的一个内容，我们来看看用不同的提示方法都能做到什么。"
+    }
+  },
+  {
+    "id": "bb01a4fa-9972-4df0-9ba4-d424d554d556",
+    "type": "paragraph",
+    "url": null,
+    "parent": "f7629e62-4334-4bca-95b8-effd952f20a4",
+    "contents": {
+      "rich_text": "从零开始"
+    }
+  },
+  {
+    "id": "93ff284e-5fd9-4eb7-89fb-b1075c547e14",
+    "type": "image",
+    "url": null,
+    "parent": "f7629e62-4334-4bca-95b8-effd952f20a4",
+    "contents": {
+      "contents": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/31c4a5ba-c390-45c1-b8c6-f49013a7a9a0/22ae79e8-53ed-45c9-9585-7df78233a8e3/Screenshot_2023-10-03_at_8.35.55_AM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240106%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240106T165108Z&X-Amz-Expires=3600&X-Amz-Signature=9c52d2a69a4d32686e821667a6c2a21e9a41c7bb420b27a1dd9aab8e14ed09c3&X-Amz-SignedHeaders=host&x-id=GetObject",
+          "expiry_time": "2024-01-06T17:51:08.019Z"
+        }
+      }
+    }
+  },
+  {
+    "id": "a7a5102c-3340-4459-a352-c54e086eb265",
+    "type": "paragraph",
+    "url": null,
+    "parent": "f7629e62-4334-4bca-95b8-effd952f20a4",
+    "contents": {
+      "rich_text": "结果没有什么错误，但是人类的正面情感种类多样，咱们来看看给简单的几个例子之后ChatGPT能不能从中学到我们想要的结果。"
+    }
+  },
+  {
+    "id": "cb474370-8ea5-48ec-9ab8-cc949d0162eb",
+    "type": "paragraph",
+    "url": null,
+    "parent": "f7629e62-4334-4bca-95b8-effd952f20a4",
+    "contents": {
+      "rich_text": "照猫画虎"
+    }
+  },
+  {
+    "id": "ef1bf690-9f37-46b4-9d5b-1e260d224924",
+    "type": "image",
+    "url": null,
+    "parent": "f7629e62-4334-4bca-95b8-effd952f20a4",
+    "contents": {
+      "contents": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/31c4a5ba-c390-45c1-b8c6-f49013a7a9a0/64804262-ac72-4c26-a6d2-625724873cdb/Screenshot_2023-10-03_at_8.37.28_AM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240106%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240106T165108Z&X-Amz-Expires=3600&X-Amz-Signature=45fef79f1402965004009a42f492c2b18786151198a023f6cbb19082b9020449&X-Amz-SignedHeaders=host&x-id=GetObject",
+          "expiry_time": "2024-01-06T17:51:08.874Z"
+        }
+      }
+    }
+  },
+  {
+    "id": "abbe7c46-3a55-427f-a7d8-b769d89b478e",
+    "type": "paragraph",
+    "url": null,
+    "parent": "f7629e62-4334-4bca-95b8-effd952f20a4",
+    "contents": {
+      "rich_text": "虽然一开始还是会说Positive，但是在回答里也纳入了我们例子有的Satisfaction。"
+    }
+  },
+  {
+    "id": "ad30a4e3-58cb-44f6-9422-85eb60be5c6e",
+    "type": "paragraph",
+    "url": null,
+    "parent": "f7629e62-4334-4bca-95b8-effd952f20a4",
+    "contents": {
+      "rich_text": "分而治之"
+    }
+  },
+  {
+    "id": "626f5947-316c-428c-a930-7e83edde35d7",
+    "type": "image",
+    "url": null,
+    "parent": "f7629e62-4334-4bca-95b8-effd952f20a4",
+    "contents": {
+      "contents": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/31c4a5ba-c390-45c1-b8c6-f49013a7a9a0/97e67061-cba1-4857-b1e1-9fe39eba91fa/Screenshot_2023-10-03_at_8.40.28_AM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240106%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240106T165109Z&X-Amz-Expires=3600&X-Amz-Signature=ad3f653f72910da50e83644d5ca89eb2b39f2090b0403a4019613475ef2c0805&X-Amz-SignedHeaders=host&x-id=GetObject",
+          "expiry_time": "2024-01-06T17:51:09.702Z"
+        }
+      }
+    }
+  },
+  {
+    "id": "4d0f6e77-e5bf-432e-a8f9-8f2cb9e0c74a",
+    "type": "paragraph",
+    "url": null,
+    "parent": "f7629e62-4334-4bca-95b8-effd952f20a4",
+    "contents": {
+      "rich_text": "这是典型的chain-of-thought，因为ChatGPT会主动把这条文字给分成块儿然后挨个儿分析。结果也有了足够的情感上的复杂度。"
+    }
+  },
+  {
+    "id": "f7629e62-4334-4bca-95b8-effd952f20a4",
+    "type": "heading_3",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "情感分析 Sentiment Analysis"
+    }
+  },
+  {
+    "id": "f666a09c-5283-4cce-984d-66803922c974",
+    "type": "paragraph",
+    "url": null,
+    "parent": "9b11fd21-3654-4e71-8fc0-a7388704d4b6",
+    "contents": {
+      "rich_text": "ChatGPT发布不久，就有人开始吐槽它的数学能力很差。"
+    }
+  },
+  {
+    "id": "a912eb52-0fb8-4579-baba-cf332798c6cd",
+    "type": "paragraph",
+    "url": null,
+    "parent": "9b11fd21-3654-4e71-8fc0-a7388704d4b6",
+    "contents": {
+      "rich_text": "从零开始"
+    }
+  },
+  {
+    "id": "b87ade1c-82c5-4fbe-bfc9-df06f66ffb83",
+    "type": "image",
+    "url": null,
+    "parent": "9b11fd21-3654-4e71-8fc0-a7388704d4b6",
+    "contents": {
+      "contents": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/31c4a5ba-c390-45c1-b8c6-f49013a7a9a0/dd29d45b-966c-46c4-aabc-c436552df24e/Screenshot_2023-10-03_at_8.28.11_AM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240106%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240106T165111Z&X-Amz-Expires=3600&X-Amz-Signature=9305f38ba25ead7f1383dc6b3e483dda8bae343dee5cf29c252fc1807d737bac&X-Amz-SignedHeaders=host&x-id=GetObject",
+          "expiry_time": "2024-01-06T17:51:11.698Z"
+        }
+      }
+    }
+  },
+  {
+    "id": "803db918-0d13-4de8-bc89-c2aeeb8425e3",
+    "type": "paragraph",
+    "url": null,
+    "parent": "9b11fd21-3654-4e71-8fc0-a7388704d4b6",
+    "contents": {
+      "rich_text": "照猫画虎"
+    }
+  },
+  {
+    "id": "11688905-1795-49f6-870e-c65794ec4f25",
+    "type": "image",
+    "url": null,
+    "parent": "9b11fd21-3654-4e71-8fc0-a7388704d4b6",
+    "contents": {
+      "contents": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/31c4a5ba-c390-45c1-b8c6-f49013a7a9a0/b438f2bb-e2cd-4ede-83b4-df42e67462ca/Screenshot_2023-10-03_at_8.30.59_AM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240106%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240106T165113Z&X-Amz-Expires=3600&X-Amz-Signature=e8867b54d98b8df3d740c3ca7e26f8fd8f10c1d8cc1022cd897e5f2583e4ce28&X-Amz-SignedHeaders=host&x-id=GetObject",
+          "expiry_time": "2024-01-06T17:51:13.846Z"
+        }
+      }
+    }
+  },
+  {
+    "id": "de3ce06d-c458-445d-b60b-ae4f2aa1103b",
+    "type": "paragraph",
+    "url": null,
+    "parent": "9b11fd21-3654-4e71-8fc0-a7388704d4b6",
+    "contents": {
+      "rich_text": "分而治之"
+    }
+  },
+  {
+    "id": "f5cddc90-1788-4c26-a223-983d6943ac90",
+    "type": "image",
+    "url": null,
+    "parent": "9b11fd21-3654-4e71-8fc0-a7388704d4b6",
+    "contents": {
+      "contents": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/31c4a5ba-c390-45c1-b8c6-f49013a7a9a0/716c3b83-d4cb-46d3-a7eb-317f7c6a8c09/Screenshot_2023-10-03_at_8.31.24_AM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240106%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240106T165114Z&X-Amz-Expires=3600&X-Amz-Signature=e5e1a2cf2aecaafb318b9d4e3752caea2a499c811c8a0b40237fc60321919c7d&X-Amz-SignedHeaders=host&x-id=GetObject",
+          "expiry_time": "2024-01-06T17:51:14.484Z"
+        }
+      }
+    }
+  },
+  {
+    "id": "577e2915-84c7-4a93-80b7-43c2cd20653e",
+    "type": "image",
+    "url": null,
+    "parent": "9b11fd21-3654-4e71-8fc0-a7388704d4b6",
+    "contents": {
+      "contents": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/31c4a5ba-c390-45c1-b8c6-f49013a7a9a0/cac0569b-d266-44f7-999c-071122383c76/Screenshot_2023-10-03_at_8.31.59_AM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240106%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240106T165114Z&X-Amz-Expires=3600&X-Amz-Signature=88b8488ec08422c7ea56f9291e8be7b10233bc6cf879a2506268e988c00d946e&X-Amz-SignedHeaders=host&x-id=GetObject",
+          "expiry_time": "2024-01-06T17:51:14.790Z"
+        }
+      }
+    }
+  },
+  {
+    "id": "9b11fd21-3654-4e71-8fc0-a7388704d4b6",
+    "type": "heading_3",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "rich_text": "数学问题"
+    }
+  },
+  {
+    "id": "04f06089-f825-42e2-9822-4685ecd9eb69",
+    "type": "paragraph",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "contents": []
+    }
+  },
+  {
+    "id": "ff6cfe39-1f56-4187-b1b8-7c2fb5095ad2",
+    "type": "paragraph",
+    "url": null,
+    "parent": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "contents": {
+      "contents": []
+    }
+  },
+  {
+    "id": "f55fb308-293b-4d0a-9710-5b8ffe8a6faf",
+    "type": "child_page",
+    "url": "https://www.notion.so/f55fb308293b4d0a97105b8ffe8a6faf",
+    "parent": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "contents": {
+      "title": "Prompt Engineering: Essentials"
+    }
+  },
+  {
+    "id": "17ed1d02-a1d8-45ea-b250-0079f7d2ec15",
+    "type": "paragraph",
+    "url": null,
+    "parent": "381a19df-a3ce-4668-aaf2-ae85f10689de",
+    "contents": {
+      "rich_text": "🎙️用ChatGPT自制ChatGPT语音App"
+    }
+  },
+  {
+    "id": "0f4b1605-dcc1-4911-bf84-ec6b170abf6c",
+    "type": "paragraph",
+    "url": null,
+    "parent": "381a19df-a3ce-4668-aaf2-ae85f10689de",
+    "contents": {
+      "rich_text": "作为一个ChatGPT Plus的忠实老用户，竟然在最近期待了很久的大更新里只拿到了看图说话的功能。然后听说大部分最新奇的功能都紧着新用户开放，感觉很不公平啊！尤其是语音对话，至今还不让我用💥"
+    }
+  },
+  {
+    "id": "26b8d5ca-b9cf-4a86-96f8-4926fb3f35fa",
+    "type": "paragraph",
+    "url": null,
+    "parent": "381a19df-a3ce-4668-aaf2-ae85f10689de",
+    "contents": {
+      "rich_text": "一怒之下，我就自己用GPT-3.5和微软Azure的Speech-to-Text和Text-to-Speech的API做了个能跟ChatGPT双语对话的iOS App🚀"
+    }
+  },
+  {
+    "id": "7ecca4de-0c00-4ec7-a86b-f6da843704e3",
+    "type": "paragraph",
+    "url": null,
+    "parent": "381a19df-a3ce-4668-aaf2-ae85f10689de",
+    "contents": {
+      "rich_text": "本来对于iOS App开发完全0⃣️经验的我，凭借着GPT4⃣️的帮助，也学会了用Swift和XCode🔨做了这个app"
+    }
+  },
+  {
+    "id": "4df4abc1-19e7-4c13-884d-a2f4426deeb5",
+    "type": "paragraph",
+    "url": null,
+    "parent": "381a19df-a3ce-4668-aaf2-ae85f10689de",
+    "contents": {
+      "rich_text": "期待OpenAI给我开放新功能的那一天🤖️！但在那之前我就自己先用着这个了😆"
+    }
+  },
+  {
+    "id": "381a19df-a3ce-4668-aaf2-ae85f10689de",
+    "type": "child_page",
+    "url": "https://www.notion.so/381a19dfa3ce4668aaf2ae85f10689de",
+    "parent": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "contents": {
+      "title": "Create an iOS App with ChatGPT"
+    }
+  },
+  {
+    "id": "99b97f71-66d7-4e70-96b3-5aa4b4561dd4",
+    "type": "child_page",
+    "url": "https://www.notion.so/99b97f7166d74e7096b35aa4b4561dd4",
+    "parent": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "contents": {
+      "title": "Vector Database: AI’s Memory"
+    }
+  },
+  {
+    "id": "ce170ddb-a153-4dbe-933e-e116f8653314",
+    "type": "child_database",
+    "url": null,
+    "parent": "11de968f-352c-49b6-ab87-6c681295779c",
+    "contents": {
+      "title": "Content Calendar"
+    }
+  },
+  {
+    "id": "11de968f-352c-49b6-ab87-6c681295779c",
+    "type": "child_page",
+    "url": "https://www.notion.so/11de968f352c49b6ab876c681295779c",
     "parent": "93dc25f2-705f-451c-907c-001f7fec4528",
     "contents": {
-      "title": "Write"
+      "title": "Content Calendar"
     }
   },
   {
@@ -1316,11 +6133,56 @@
   },
   {
     "id": "79acf26e-f299-40df-9788-747bc179ada0",
+    "type": "heading_1",
+    "url": null,
+    "parent": "ee6dd5fe-fc7f-4913-b385-61dc25e3679e",
+    "contents": {
+      "rich_text": "Description"
+    }
+  },
+  {
+    "id": "4426ab15-4e1f-4a9b-95d0-a8e54c03e7f2",
     "type": "paragraph",
     "url": null,
     "parent": "ee6dd5fe-fc7f-4913-b385-61dc25e3679e",
     "contents": {
-      "rich_text": "Go to the gym or workout at home 180 times for at least 45 minutes each visit for it to count"
+      "rich_text": "Go to the gym or workout at home 180 times for at least 45 minutes each visit for it to count."
+    }
+  },
+  {
+    "id": "9b7e98b4-8c02-4859-a22c-e1c78772af2c",
+    "type": "heading_1",
+    "url": null,
+    "parent": "ee6dd5fe-fc7f-4913-b385-61dc25e3679e",
+    "contents": {
+      "rich_text": "Details"
+    }
+  },
+  {
+    "id": "cb0c10cb-fa54-4dcd-bc43-2465bcd00efc",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "ee6dd5fe-fc7f-4913-b385-61dc25e3679e",
+    "contents": {
+      "rich_text": "Leg + Shoulder + Abs"
+    }
+  },
+  {
+    "id": "bc63b234-a8c9-4c64-9885-08432a043c8a",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "ee6dd5fe-fc7f-4913-b385-61dc25e3679e",
+    "contents": {
+      "rich_text": "Chest + Back"
+    }
+  },
+  {
+    "id": "4825b766-a6c1-48f0-8312-f86dfab57e25",
+    "type": "bulleted_list_item",
+    "url": null,
+    "parent": "ee6dd5fe-fc7f-4913-b385-61dc25e3679e",
+    "contents": {
+      "rich_text": "Arm"
     }
   },
   {
@@ -1441,10 +6303,348 @@
     }
   },
   {
+    "id": "12b765a4-4605-4895-acad-6cae7e20a400",
+    "type": "divider",
+    "url": null,
+    "parent": "e256b5fb-678d-41c4-9401-4b8dec23b011",
+    "contents": {
+      "contents": {}
+    }
+  },
+  {
+    "id": "fdebbf6e-339c-4151-b2cd-94f3208a91e2",
+    "type": "table_row",
+    "url": null,
+    "parent": "eadafa5d-d7c4-4905-85de-9b0fc5207138",
+    "contents": {
+      "contents": [
+        [
+          "Time Frame"
+        ],
+        [
+          "Events"
+        ],
+        [
+          "Session"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "fca1c3db-8c76-471e-83d4-470fff14a3d4",
+    "type": "table_row",
+    "url": null,
+    "parent": "eadafa5d-d7c4-4905-85de-9b0fc5207138",
+    "contents": {
+      "contents": [
+        [
+          "6 AM"
+        ],
+        [
+          "Wake up, water, shower, cold shower"
+        ],
+        [
+          "Workout"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "8a1f2f6c-4fd8-41ea-a65f-621b6ea17e75",
+    "type": "table_row",
+    "url": null,
+    "parent": "eadafa5d-d7c4-4905-85de-9b0fc5207138",
+    "contents": {
+      "contents": [
+        [
+          "7 AM"
+        ],
+        [
+          "Coffee"
+        ],
+        [
+          "CLV"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "eaab5c88-9272-4a96-a6a8-7c7531b5192b",
+    "type": "table_row",
+    "url": null,
+    "parent": "eadafa5d-d7c4-4905-85de-9b0fc5207138",
+    "contents": {
+      "contents": [
+        [
+          "8 AM"
+        ],
+        [
+          "Meditation"
+        ],
+        [
+          "Reading"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "1e3a7232-120d-46d4-8f0f-3b4676412020",
+    "type": "table_row",
+    "url": null,
+    "parent": "eadafa5d-d7c4-4905-85de-9b0fc5207138",
+    "contents": {
+      "contents": [
+        [
+          "9 AM"
+        ],
+        [
+          "Work"
+        ],
+        [
+          "Work"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "16bc7b61-6cb7-4bf5-adb2-ec2271522bd8",
+    "type": "table_row",
+    "url": null,
+    "parent": "eadafa5d-d7c4-4905-85de-9b0fc5207138",
+    "contents": {
+      "contents": [
+        [
+          "5 PM"
+        ],
+        [
+          "Wrap up the day"
+        ],
+        [
+          "Rest/Reading"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "e0dfba90-2c12-4e72-8d7d-376286631824",
+    "type": "table_row",
+    "url": null,
+    "parent": "eadafa5d-d7c4-4905-85de-9b0fc5207138",
+    "contents": {
+      "contents": [
+        [
+          "6 PM"
+        ],
+        [
+          "Dinner"
+        ],
+        [
+          "Rest"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "987f30b4-c4b1-4f71-abc9-44e0e9f2b490",
+    "type": "table_row",
+    "url": null,
+    "parent": "eadafa5d-d7c4-4905-85de-9b0fc5207138",
+    "contents": {
+      "contents": [
+        [
+          "7 PM"
+        ],
+        [
+          "Whatever you wanna do"
+        ],
+        [
+          "Rest"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "4cbcc172-c703-4dba-b422-d19553dd943c",
+    "type": "table_row",
+    "url": null,
+    "parent": "eadafa5d-d7c4-4905-85de-9b0fc5207138",
+    "contents": {
+      "contents": [
+        [
+          "8 PM"
+        ],
+        [
+          "Build build build"
+        ],
+        [
+          "CLV"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "61121ea2-7a7a-4be5-8280-dbcedaaef3db",
+    "type": "table_row",
+    "url": null,
+    "parent": "eadafa5d-d7c4-4905-85de-9b0fc5207138",
+    "contents": {
+      "contents": [
+        [
+          "9 PM"
+        ],
+        [
+          "Build build build"
+        ],
+        [
+          "CLV"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "fd2a83ef-e6e9-4c69-8e94-b5f2419eccf3",
+    "type": "table_row",
+    "url": null,
+    "parent": "eadafa5d-d7c4-4905-85de-9b0fc5207138",
+    "contents": {
+      "contents": [
+        [
+          "10 PM"
+        ],
+        [
+          "Relax"
+        ],
+        [
+          "Rest"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "81d7f9cf-3bf8-4c0a-a7da-bb3699d84f15",
+    "type": "table_row",
+    "url": null,
+    "parent": "eadafa5d-d7c4-4905-85de-9b0fc5207138",
+    "contents": {
+      "contents": [
+        [
+          "11 PM"
+        ],
+        [
+          "Sleep"
+        ],
+        []
+      ]
+    }
+  },
+  {
+    "id": "eadafa5d-d7c4-4905-85de-9b0fc5207138",
+    "type": "table",
+    "url": null,
+    "parent": "e256b5fb-678d-41c4-9401-4b8dec23b011",
+    "contents": {
+      "contents": {
+        "table_width": 3,
+        "has_column_header": true,
+        "has_row_header": true
+      }
+    }
+  },
+  {
+    "id": "6329fe84-2921-4eb0-8167-fee5deeac542",
+    "type": "paragraph",
+    "url": null,
+    "parent": "e256b5fb-678d-41c4-9401-4b8dec23b011",
+    "contents": {
+      "rich_text": "Work towards being able to get up at 5 AM regularly."
+    }
+  },
+  {
+    "id": "9cde7e5a-a171-4b37-b2ae-f9ba80bd6ac2",
+    "type": "divider",
+    "url": null,
+    "parent": "e256b5fb-678d-41c4-9401-4b8dec23b011",
+    "contents": {
+      "contents": {}
+    }
+  },
+  {
+    "id": "e256b5fb-678d-41c4-9401-4b8dec23b011",
+    "type": "heading_1",
+    "url": null,
+    "parent": "f8045110-0103-4b14-a79c-65f5b467adf2",
+    "contents": {
+      "rich_text": "Daily Schedule"
+    }
+  },
+  {
+    "id": "5adf1597-8c7a-4c80-82e9-f90c3d3e1d0d",
+    "type": "child_page",
+    "url": "https://www.notion.so/5adf15978c7a4c8082e9f90c3d3e1d0d",
+    "parent": "9733d765-c1eb-4293-8cea-fb743ee23fcd",
+    "contents": {
+      "title": "the more you hate it the more you should do it"
+    }
+  },
+  {
+    "id": "72eb5165-2096-47dc-877e-22de01ae011f",
+    "type": "child_page",
+    "url": "https://www.notion.so/72eb5165209647dc877e22de01ae011f",
+    "parent": "9733d765-c1eb-4293-8cea-fb743ee23fcd",
+    "contents": {
+      "title": "More presence more 💰"
+    }
+  },
+  {
+    "id": "32d1971c-28b7-4721-8e88-3a2f0b53fa2e",
+    "type": "child_page",
+    "url": "https://www.notion.so/32d1971c28b747218e883a2f0b53fa2e",
+    "parent": "9733d765-c1eb-4293-8cea-fb743ee23fcd",
+    "contents": {
+      "title": "Just do it"
+    }
+  },
+  {
+    "id": "787f5452-19a2-449f-8141-868ad800c52e",
+    "type": "child_page",
+    "url": "https://www.notion.so/787f545219a2449f8141868ad800c52e",
+    "parent": "9733d765-c1eb-4293-8cea-fb743ee23fcd",
+    "contents": {
+      "title": "COLD IS GOOD"
+    }
+  },
+  {
+    "id": "5b78868d-de41-4c95-9a43-571c7fea424c",
+    "type": "child_page",
+    "url": "https://www.notion.so/5b78868dde414c959a43571c7fea424c",
+    "parent": "9733d765-c1eb-4293-8cea-fb743ee23fcd",
+    "contents": {
+      "title": "More presence more 💰"
+    }
+  },
+  {
+    "id": "d5dfe0bd-57e8-469d-acee-7c127a8758a0",
+    "type": "child_page",
+    "url": "https://www.notion.so/d5dfe0bd57e8469dacee7c127a8758a0",
+    "parent": "9733d765-c1eb-4293-8cea-fb743ee23fcd",
+    "contents": {
+      "title": "COLD IS GOOD"
+    }
+  },
+  {
+    "id": "cbb7ea0f-9027-472e-a56c-4470dc68b0bf",
+    "type": "child_page",
+    "url": "https://www.notion.so/cbb7ea0f9027472ea56c4470dc68b0bf",
+    "parent": "9733d765-c1eb-4293-8cea-fb743ee23fcd",
+    "contents": {
+      "title": "Just do it"
+    }
+  },
+  {
     "id": "9733d765-c1eb-4293-8cea-fb743ee23fcd",
     "type": "child_database",
     "url": null,
-    "parent": "da5afa2b-34b7-4a2b-a501-4987febad21d",
+    "parent": "4d6b71e4-2d91-40f5-ac33-2c3c5fdd47c4",
     "contents": {
       "title": "Test Tracker"
     }
@@ -1489,7 +6689,7 @@
     "id": "b4ad7e7f-bb6e-4d8e-b6b3-0af42cfa24ac",
     "type": "child_database",
     "url": null,
-    "parent": "da5afa2b-34b7-4a2b-a501-4987febad21d",
+    "parent": "4d6b71e4-2d91-40f5-ac33-2c3c5fdd47c4",
     "contents": {
       "title": "Tracker Overview"
     }
@@ -1498,13 +6698,13 @@
     "id": "ee27d2a4-0b3e-4a69-b02e-1c5fe2162ad5",
     "type": "paragraph",
     "url": null,
-    "parent": "da5afa2b-34b7-4a2b-a501-4987febad21d",
+    "parent": "4d6b71e4-2d91-40f5-ac33-2c3c5fdd47c4",
     "contents": {
       "contents": []
     }
   },
   {
-    "id": "da5afa2b-34b7-4a2b-a501-4987febad21d",
+    "id": "4d6b71e4-2d91-40f5-ac33-2c3c5fdd47c4",
     "type": "heading_1",
     "url": null,
     "parent": "f8045110-0103-4b14-a79c-65f5b467adf2",
@@ -2008,6 +7208,15 @@
     }
   },
   {
+    "id": "ab5d457b-79bd-442f-a01e-52a19d79c6a0",
+    "type": "paragraph",
+    "url": null,
+    "parent": "e1cf4d50-c509-4d06-aa8a-cedd13ee9ca6",
+    "contents": {
+      "contents": []
+    }
+  },
+  {
     "id": "e1cf4d50-c509-4d06-aa8a-cedd13ee9ca6",
     "type": "child_page",
     "url": "https://www.notion.so/e1cf4d50c5094d06aa8acedd13ee9ca6",
@@ -2023,6 +7232,15 @@
     "parent": "df94a7d2-43f1-4ed8-87d5-1b155f82ada1",
     "contents": {
       "title": "CLV"
+    }
+  },
+  {
+    "id": "bc0b7381-d327-49c1-a23c-78dc55e95f1a",
+    "type": "paragraph",
+    "url": null,
+    "parent": "df94a7d2-43f1-4ed8-87d5-1b155f82ada1",
+    "contents": {
+      "contents": []
     }
   },
   {
