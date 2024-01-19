@@ -3,7 +3,7 @@ const bodyParser = require('body-parser');
 const postRoutes = require('./routes/post');
 const app = express();
 const fs = require('fs');
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 8080;
 // Import parser function
 const parseDataForNotion = require('./utils/notionDataParser');
 

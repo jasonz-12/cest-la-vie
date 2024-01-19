@@ -6,7 +6,7 @@ const postToNotion = require('../utils/notionApi');
 router.post('/', (req, res) => {
     const parsedData = req.parsedData;
     const integrationKey = req.body.integration_key;
-    console.log(parsedData);
+    // console.log(req.body.params.integration_key);
 
     postToNotion(parsedData, integrationKey)
         .then(response => {

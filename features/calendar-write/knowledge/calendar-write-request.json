@@ -1,52 +1,50 @@
 {
-    "domain": "",
-    "method": "post",
-    "path": "/receive-gpt-data",
-    "operation": "calendarWrite",
-    "operation_hash": "90a5fd3a1336ff50b78ee282ccc35ee7103dd9d8",
-    "is_consequential": true,
-    "headers": {
-      "Content-Type": "application/json"
+  "domain": "mvp-v1-calendar-write-q5yqkjuiza-uk.a.run.app",
+  "method": "post",
+  "path": "/receive-gpt-data",
+  "operation": "calendarWrite",
+  "operation_hash": "e8bd7d33666de905e2fdd113dc0b47b2be235220",
+  "is_consequential": true,
+  "params": {
+    "database_id": "your-database-id-here",
+    "integration_key": "your-integration-key-here",
+    "event": "Soccer tomorrow",
+    "emoji": "🏀",
+    "photo_url": "https://images.unsplash.com/photo-1521412644187-c49fa049e84d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&w=1000&q=80",
+    "category": {
+      "type_of_operation": "multi-select",
+      "list_of_tags": [
+        "social",
+        "personal",
+        "work",
+        "health"
+      ],
+      "content": "social"
     },
-    "params": {
-      "event": "",
-      "emoji": "🚀",
-      "photo_url": "https://images.unsplash.com/photo-1492176273113-2d51f47b23b0?q=80&w=2938&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "cagtegory": {
-        "type_of_operation": "multi-select",
-        "list_of_tags": [
-          "work",
-          "personal",
-          "health",
-          "social"
-        ],
-        "content": ""
+    "priority": {
+      "type_of_operation": "single-select",
+      "list_of_tags": [
+        "high",
+        "mid",
+        "low"
+      ],
+      "content": "mid"
+    },
+    "dueDate": {
+      "format": "YYYY-MM-DDTHH:MM:SS±HH:MM",
+      "content": "2024-01-19T22:00:00-05:00"
+    },
+    "content": {
+      "block_1": {
+        "type_of_operation": "entry",
+        "format": "heading_1",
+        "content": "Soccer Tomorrow"
       },
-      "priority": {
-        "type_of_operation": "single-select",
-        "list_of_tags": [
-          "low",
-          "mid",
-          "high"
-        ],
-        "content": ""
-      },
-      "dueDate": {
-        "format": "YYYY-MM-DD HH:MM",
-        "content": "2023-12-12 17:06"
-      },
-      "content": {
-        "block_1": {
-          "type_of_operation": "entry",
-          "format": "heading_1",
-          "content": ""
-        },
-        "block_2": {
-          "type_of_operation": "entry",
-          "format": "paragraph",
-          "content": ""
-        }
+      "block_2": {
+        "type_of_operation": "entry",
+        "format": "paragraph",
+        "content": "Soccer game scheduled for January 19, 2024, at 22:00."
       }
     }
   }
-  
+}

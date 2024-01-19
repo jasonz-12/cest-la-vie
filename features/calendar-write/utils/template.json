@@ -1,6 +1,6 @@
 {
     "parent": {
-        "database_id": ""
+        "database_id": "your-database-id-here"
     },
     "icon": {
         "emoji": "🚀"
@@ -29,11 +29,10 @@
             ]
         },
         "priority": {
-            "select": [
+            "select": 
                 {
                     "name": ""
                 }
-            ]
         },
         "dueDate": {
             "date": {
