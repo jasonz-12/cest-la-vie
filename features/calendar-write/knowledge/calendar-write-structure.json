@@ -1,0 +1,40 @@
+{
+    "event": "",
+    "emoji": "🚀",
+    "photo_url": "https://images.unsplash.com/photo-1471958680802-1345a694ba6d?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "cagtegory": {
+        "type_of_operation": "multi-select",
+        "list_of_tags": [
+            "work",
+            "personal",
+            "health",
+            "social"
+        ],
+    "content": ""
+    },
+    "priority": {
+        "type_of_operation": "single-select",
+        "list_of_tags": [
+            "low",
+            "mid",
+            "high"
+        ],
+        "content": ""
+    },
+    "dueDate": {
+        "format": "YYYY-MM-DD HH:MM",
+        "content": "2023-12-12 17:06"
+    },
+    "content": {
+        "block_1": {
+            "type_of_operation": "entry",
+            "format": "heading_1",
+            "content": ""
+        },
+        "block_2": {
+            "type_of_operation": "entry",
+            "format": "paragraph",
+            "content": ""
+        }
+    }
+}

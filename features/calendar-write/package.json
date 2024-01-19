@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@notionhq/client": "^2.2.14",
+    "axios": "^1.6.2",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "path": "^0.12.7"
+  },
+  "name": "calendar-write",
+  "description": "## Description This project includes the minimal viable product (MVP) for a simple version that is able to: 1. Using an OpenAPI spec JSON file `./api-specs/openapi-spec.json` in the GPTs backend action, the GPT (**Notion Diary Creator**) connects to and performs POST operations to the middle API endpoint application, hosted on Google Cloud Platform's Cloud Run (GCR) service (app link: `https://mvp-q5yqkjuiza-uc.a.run.app`). 2. User will be prompted and provide very basic descriptions of what they wanted to write about today - and the GPT will help turn that into a Notion entry. 3. Upon confirmation, the GPT will then send the data over to the GCR endpoint, which makes a POST operation to the Notion API endpoint.",
+  "version": "1.0.0",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
