@@ -1,0 +1,22 @@
+{
+    "parent": {
+        "database_id": "your-database-id-here"
+    },
+    "properties": {
+        "Eat Healthy": {
+            "checkbox": true
+        },
+        "Exercise": {
+            "checkbox": true
+        },
+        "Hydration": {
+            "checkbox": true
+        },
+        "Meditation": {
+            "checkbox": true
+        },
+        "Reading": {
+            "checkbox": true
+        }
+    }
+}

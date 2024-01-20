@@ -1,0 +1,30 @@
+{
+  "domain": "mvp-v1-habits-update-q5yqkjuiza-uk.a.run.app",
+  "method": "post",
+  "path": "/receive-gpt-data",
+  "operation": "habitsUpdate",
+  "operation_hash": "e8bd7d33666de905e2fdd113dc0b47b2be235220",
+  "is_consequential": true,
+  "params": {
+    "database_id": "2e2ff61c0e5749d3918594b6cc9cdec5",
+    "integration_key": "secret_ooUf99hs1IuXl4rUpyXOKk1emvCEvByiETZDQqbuxjY",
+    "specificDate": "2024-01-19",
+    "properties": {
+      "EatHealthy": {
+        "checkbox": true
+      },
+      "Exercise": {
+        "checkbox": true
+      },
+      "Hydration": {
+        "checkbox": true
+      },
+      "Meditation": {
+        "checkbox": true
+      },
+      "Reading": {
+        "checkbox": true
+      }
+    }
+  }
+}
