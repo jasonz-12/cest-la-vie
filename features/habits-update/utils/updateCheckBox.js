@@ -2,15 +2,19 @@ const { Client } = require('@notionhq/client');
 const axios = require('axios');
 
 function addOneDay(dateString) {
+    console.log("Received date: ", dateString);
     const date = new Date(dateString);
+    console.log("Formatted date: ", dateString);
     date.setDate(date.getDate() + 1);
     return date.toISOString().split('T')[0]; // Converts back to "YYYY-MM-DD" format
 };
 
+// Example usage
+console.log(addOneDay("2024-01-22"));
+
 // Function to update checkboxes in the database
 async function updateCheckboxes(data, databaseId, specificDate, integrationKey) {
     const cutOffDate = addOneDay(specificDate);
-    console.log(cutOffDate);
     const notion = new Client({
         auth: integrationKey // Update these later to get it from the parsed Data
     });
@@ -36,6 +40,7 @@ async function updateCheckboxes(data, databaseId, specificDate, integrationKey) 
                 ]
             }            
         });
+        console.log("Filtered response: ", response);
 
         // Iterate over the pages and update the checkbox property
         for (const page of response.results) {
@@ -44,7 +49,7 @@ async function updateCheckboxes(data, databaseId, specificDate, integrationKey) 
                 page_id: page.id,
                 properties: data,
             });
-        }
+        };
         console.log('Database updated successfully.');
     } catch (error) {
         console.error('Error:', error);
